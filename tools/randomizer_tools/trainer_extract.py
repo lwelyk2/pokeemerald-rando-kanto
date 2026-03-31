@@ -22,7 +22,7 @@ skip_maps = [
     'SlateportCity_BattleTentBattleRoom'
 ]
 trainers = {}
-trainer_text = []
+trainer_text = {}
 def check_trainer_line(line):
     if "trainerbattle" in line and "dofacilitytrainerbattle" not in line and line.strip()[-1:] != ":":
         return True
@@ -77,7 +77,8 @@ def extract_trainerscript_data():
                         map = ''
                         trainer = {}
                         trainer_text_pointers = []
-                        text_block = {}
+                        text_block = []
+                        current_pointer = ""
                         in_text_block = False
                         for lineno, line in enumerate(f, 1):
                             if "MapScripts::" in line:
@@ -103,21 +104,20 @@ def extract_trainerscript_data():
                                 trainers[new_trainer["constant"]]["battles"].append(new_trainer)
                                 trainer = {}
                             if "_Text_" in line and line.strip()[-1:] == ":":
-                                text_pointer = line.replace(":","").strip()
-                                if text_pointer in trainer_text_pointers:
+                                current_pointer = line.replace(":","").strip()
+                                if current_pointer in trainer_text_pointers:
                                     in_text_block = True
-                                    text_block["pointer"] = text_pointer
-                                    text_block["text"] = []
                             if ".string" in line and in_text_block:
                                 text = line.split(".string")[1]
                                 if '$"' in line:
                                     text = text.replace('$"', '')
                                     in_text_block = False
                                 text = text.replace('"', '')
-                                text_block['text'].append(text.strip())
+                                text_block.append(text.strip())
                                 if in_text_block == False:
-                                    trainer_text.append({"pointer": text_block["pointer"], "text": text_block["text"]})
-                                    text_block = {}
+                                    trainer_text[current_pointer] = text_block.copy()
+                                    text_block = []
+                                    current_pointer = ""
 
                                 
                 except Exception as e:
