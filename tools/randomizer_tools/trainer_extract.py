@@ -80,7 +80,6 @@ def extract_trainerscript_data():
                         text_block = {}
                         in_text_block = False
                         for lineno, line in enumerate(f, 1):
-                            print(line)
                             if "MapScripts::" in line:
                                 map = line.split("_MapScripts::")[0]
                             if check_trainer_line(line):
@@ -199,9 +198,9 @@ extract_trainerscript_data()
 
 extract_trainer_party_data()
 
-with open('tools/randomizer_tools/trainers.json', 'w') as f:
-        json.dump(trainers , f, indent=4)
+with open('tools/randomizer_tools/trainers.json', 'w', encoding='utf8') as f:
+        json.dump(trainers , f, indent=4, ensure_ascii=False)
 
-with open('tools/randomizer_tools/trainer_text.json', 'w') as f:
-        json.dump(trainer_text , f, indent=4)
+with open('tools/randomizer_tools/trainer_text.json', 'w', encoding='utf8') as f:
+        json.dump(trainer_text , f, indent=4, ensure_ascii=False)
 

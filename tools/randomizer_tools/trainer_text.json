@@ -15,7 +15,7 @@
     {
         "pointer": "AbandonedShip_Corridors_1F_Text_CharliePostBattle",
         "text": [
-            "It's not easy throwing POK\u00e9 BALLS\\n",
+            "It's not easy throwing POKé BALLS\\n",
             "while hanging on to an inner tube!"
         ]
     },
@@ -23,7 +23,7 @@
         "pointer": "AbandonedShip_Corridors_B1F_Text_DuncanIntro",
         "text": [
             "When we go out to sea, we SAILORS\\n",
-            "always bring our POK\u00e9MON.\\l",
+            "always bring our POKéMON.\\l",
             "How about a quick battle?"
         ]
     },
@@ -38,8 +38,8 @@
         "text": [
             "The ship's bottom has sunk into the\\n",
             "depths.\\p",
-            "If a POK\u00e9MON knew how to go underwater,\\n",
-            "we might make some progress\u2026"
+            "If a POKéMON knew how to go underwater,\\n",
+            "we might make some progress…"
         ]
     },
     {
@@ -53,13 +53,13 @@
         "pointer": "AbandonedShip_Rooms2_1F_Text_DanDefeat",
         "text": [
             "DAN: We couldn't win even though\\n",
-            "we worked together\u2026"
+            "we worked together…"
         ]
     },
     {
         "pointer": "AbandonedShip_Rooms2_1F_Text_DanPostBattle",
         "text": [
-            "DAN: We can't find any treasures\u2026\\n",
+            "DAN: We can't find any treasures…\\n",
             "I wonder if someone got them already?"
         ]
     },
@@ -90,7 +90,7 @@
         "text": [
             "DAN: We've been searching for\\n",
             "treasures all this time.\\p",
-            "Our POK\u00e9MON have grown stronger, too.\\n",
+            "Our POKéMON have grown stronger, too.\\n",
             "Let us show you, okay?"
         ]
     },
@@ -104,9 +104,9 @@
         "pointer": "AbandonedShip_Rooms2_1F_Text_DanPostRematch",
         "text": [
             "DAN: We can't find any treasures,\\n",
-            "we lose at POK\u00e9MON\u2026\\p",
-            "I want to go home\u2026 But if I say that,\\n",
-            "she gets all angry with me\u2026"
+            "we lose at POKéMON…\\p",
+            "I want to go home… But if I say that,\\n",
+            "she gets all angry with me…"
         ]
     },
     {
@@ -122,14 +122,14 @@
     {
         "pointer": "AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat",
         "text": [
-            "KIRA: Oh, we lost again\u2026"
+            "KIRA: Oh, we lost again…"
         ]
     },
     {
         "pointer": "AbandonedShip_Rooms2_1F_Text_KiraPostRematch",
         "text": [
             "KIRA: We're not leaving until we raise\\n",
-            "our POK\u00e9MON some more and we find\\l",
+            "our POKéMON some more and we find\\l",
             "the treasures here!"
         ]
     },
@@ -157,7 +157,7 @@
     {
         "pointer": "AbandonedShip_Rooms2_1F_Text_GarrisonIntro",
         "text": [
-            "Strength and compassion\u2026\\n",
+            "Strength and compassion…\\n",
             "Those are a TRAINER's treasures!"
         ]
     },
@@ -185,13 +185,13 @@
     {
         "pointer": "AbandonedShip_Rooms_1F_Text_ThaliaDefeat",
         "text": [
-            "Not just curious, but also strong\u2026"
+            "Not just curious, but also strong…"
         ]
     },
     {
         "pointer": "AbandonedShip_Rooms_1F_Text_ThaliaPostBattle",
         "text": [
-            "The man next door\u2026\\p",
+            "The man next door…\\p",
             "He says he's just sightseeing,\\n",
             "but I don't know about that."
         ]
@@ -220,7 +220,7 @@
         "pointer": "AbandonedShip_Rooms_1F_Text_DemetriusIntro",
         "text": [
             "Waaah!\\n",
-            "I've been found! \u2026Huh?"
+            "I've been found! …Huh?"
         ]
     },
     {
@@ -246,7 +246,7 @@
     {
         "pointer": "AquaHideout_1F_Text_Grunt1Defeat",
         "text": [
-            "Grrrrr\u2026\\n",
+            "Grrrrr…\\n",
             "I lost it!"
         ]
     },
@@ -254,7 +254,7 @@
         "pointer": "AquaHideout_1F_Text_Grunt1PostBattle",
         "text": [
             "I took the loss for the TEAM,\\n",
-            "but I did my job\u2026"
+            "but I did my job…"
         ]
     },
     {
@@ -267,17 +267,17 @@
     {
         "pointer": "AquaHideout_B1F_Text_Grunt2Defeat",
         "text": [
-            "I can't win at all\u2026"
+            "I can't win at all…"
         ]
     },
     {
         "pointer": "AquaHideout_B1F_Text_Grunt2PostBattle",
         "text": [
             "Our HIDEOUT's secret?\\p",
-            "Well, let's just say\u2026\\n",
+            "Well, let's just say…\\n",
             "There's a submarine at the far end!\\p",
-            "But, by now\u2026\\n",
-            "Kekekeke\u2026"
+            "But, by now…\\n",
+            "Kekekeke…"
         ]
     },
     {
@@ -306,15 +306,15 @@
     {
         "pointer": "AquaHideout_B1F_Text_Grunt5Intro",
         "text": [
-            "Yawn\u2026 Keeping watch over the\\n",
+            "Yawn… Keeping watch over the\\n",
             "HIDEOUT bores me. I'll take you on."
         ]
     },
     {
         "pointer": "AquaHideout_B1F_Text_Grunt5Defeat",
         "text": [
-            "Yawn\u2026\\n",
-            "Oh, I lost\u2026"
+            "Yawn…\\n",
+            "Oh, I lost…"
         ]
     },
     {
@@ -336,7 +336,7 @@
     {
         "pointer": "AquaHideout_B1F_Text_Grunt7Defeat",
         "text": [
-            "I lost in a cool way\u2026"
+            "I lost in a cool way…"
         ]
     },
     {
@@ -349,7 +349,7 @@
     {
         "pointer": "AquaHideout_B2F_Text_MattIntro",
         "text": [
-            "Hehehe\u2026\\p",
+            "Hehehe…\\p",
             "Got here already, did you?\\n",
             "We underestimated you!\\p",
             "But this is it!\\p",
@@ -362,8 +362,8 @@
     {
         "pointer": "AquaHideout_B2F_Text_MattDefeat",
         "text": [
-            "Hehehe\u2026\\n",
-            "So, I lost, too\u2026"
+            "Hehehe…\\n",
+            "So, I lost, too…"
         ]
     },
     {
@@ -389,14 +389,14 @@
     {
         "pointer": "AquaHideout_B2F_Text_Grunt4Defeat",
         "text": [
-            "Tired of waiting\u2026\\n",
-            "Lost and dazed\u2026"
+            "Tired of waiting…\\n",
+            "Lost and dazed…"
         ]
     },
     {
         "pointer": "AquaHideout_B2F_Text_Grunt4PostBattle",
         "text": [
-            "BOSS\u2026\\n",
+            "BOSS…\\n",
             "Is this good enough?"
         ]
     },
@@ -421,10 +421,10 @@
     {
         "pointer": "AquaHideout_B2F_Text_Grunt6PostBattle",
         "text": [
-            "That reminds me\u2026 I can't remember\\n",
+            "That reminds me… I can't remember\\n",
             "where I put the MASTER BALL.\\p",
             "If I fail to guard it, our BOSS will\\n",
-            "chew me out\u2026"
+            "chew me out…"
         ]
     },
     {
@@ -439,14 +439,14 @@
         "pointer": "AquaHideout_B2F_Text_Grunt8Defeat",
         "text": [
             "I was too occupied thinking about\\n",
-            "the warp panels\u2026"
+            "the warp panels…"
         ]
     },
     {
         "pointer": "AquaHideout_B2F_Text_Grunt8PostBattle",
         "text": [
             "I'll have to learn about how I can\\n",
-            "battle more effectively\u2026"
+            "battle more effectively…"
         ]
     },
     {
@@ -473,18 +473,18 @@
     {
         "pointer": "CeladonCity_Gym_Text_ErikaIntro",
         "text": [
-            "Hello\u2026\\n",
+            "Hello…\\n",
             "Lovely weather, isn't it?\\l",
-            "It's so pleasant\u2026\\p",
-            "\u2026Oh, dear\u2026\\n",
+            "It's so pleasant…\\p",
+            "…Oh, dear…\\n",
             "I must have dozed off. Welcome.\\p",
             "My name is ERIKA.\\n",
             "I am the LEADER of CELADON GYM.\\p",
             "I am a student of the art of\\n",
             "flower arranging.\\p",
-            "My POK\u00e9MON are solely of the\\n",
+            "My POKéMON are solely of the\\n",
             "GRASS type.\\p",
-            "\u2026Oh, I'm sorry, I had no idea that\\n",
+            "…Oh, I'm sorry, I had no idea that\\n",
             "you wished to challenge me.\\p",
             "Very well, but I shall not lose.{PLAY_BGM MUS_RG_ENCOUNTER_GYM_LEADER}"
         ]
@@ -502,9 +502,9 @@
     {
         "pointer": "CeladonCity_Gym_Text_ErikaPostBattle",
         "text": [
-            "You are cataloging POK\u00e9MON?\\n",
+            "You are cataloging POKéMON?\\n",
             "I must say I'm impressed.\\p",
-            "I would never collect POK\u00e9MON if\\n",
+            "I would never collect POKéMON if\\n",
             "they were unattractive."
         ]
     },
@@ -545,16 +545,16 @@
     {
         "pointer": "CeladonCity_Gym_Text_BridgetPostBattle",
         "text": [
-            "GRASS-type POK\u00e9MON are tough\\n",
+            "GRASS-type POKéMON are tough\\n",
             "against the WATER type.\\p",
             "They also have an edge on ROCK-\\n",
-            "and GROUND-type POK\u00e9MON."
+            "and GROUND-type POKéMON."
         ]
     },
     {
         "pointer": "CeladonCity_Gym_Text_TinaIntro",
         "text": [
-            "\u2026Weren't you peeking in here\\n",
+            "…Weren't you peeking in here\\n",
             "earlier?"
         ]
     },
@@ -567,15 +567,15 @@
     {
         "pointer": "CeladonCity_Gym_Text_TinaPostBattle",
         "text": [
-            "Oh, you were looking at ERIKA\u2026\\n",
-            "You weren't looking at me\u2026"
+            "Oh, you were looking at ERIKA…\\n",
+            "You weren't looking at me…"
         ]
     },
     {
         "pointer": "CeladonCity_Gym_Text_TamiaIntro",
         "text": [
             "Look, look!\\n",
-            "See my POK\u00e9MON!\\p",
+            "See my POKéMON!\\p",
             "I like the GRASS type.\\n",
             "I like how they're easy to raise."
         ]
@@ -589,7 +589,7 @@
     {
         "pointer": "CeladonCity_Gym_Text_TamiaPostBattle",
         "text": [
-            "We only use GRASS-type POK\u00e9MON at\\n",
+            "We only use GRASS-type POKéMON at\\n",
             "our GYM.\\p",
             "Why? We also use them for making\\n",
             "flower arrangements!"
@@ -600,7 +600,7 @@
         "text": [
             "Oh, hey!\\p",
             "We don't like BUG- or FIRE-type\\n",
-            "POK\u00e9MON in here!"
+            "POKéMON in here!"
         ]
     },
     {
@@ -621,7 +621,7 @@
         "pointer": "CeladonCity_Gym_Text_LoriIntro",
         "text": [
             "Pleased to meet you.\\n",
-            "My hobby is POK\u00e9MON training."
+            "My hobby is POKéMON training."
         ]
     },
     {
@@ -657,7 +657,7 @@
     {
         "pointer": "CeladonCity_Gym_Text_MaryPostBattle",
         "text": [
-            "I didn't bring my best POK\u00e9MON.\\n",
+            "I didn't bring my best POKéMON.\\n",
             "Wait until next time!"
         ]
     },
@@ -681,18 +681,18 @@
         "text": [
             "Hi, you're a new face!\\p",
             "Only those TRAINERS who have a\\n",
-            "policy about POK\u00e9MON can turn pro.\\p",
+            "policy about POKéMON can turn pro.\\p",
             "What is your approach when you\\n",
-            "catch and train POK\u00e9MON?\\p",
+            "catch and train POKéMON?\\p",
             "My policy is an all-out offensive\\n",
-            "with WATER-type POK\u00e9MON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}"
+            "with WATER-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}"
         ]
     },
     {
         "pointer": "CeruleanCity_Gym_Text_ExplainTM03",
         "text": [
             "TM03 teaches WATER PULSE.\\p",
-            "Use it on an aquatic POK\u00e9MON!"
+            "Use it on an aquatic POKéMON!"
         ]
     },
     {
@@ -754,7 +754,7 @@
             "Hah!\\p",
             "I am BLAINE, the red-hot LEADER\\n",
             "of CINNABAR GYM!\\p",
-            "My fiery POK\u00e9MON are all rough\\n",
+            "My fiery POKéMON are all rough\\n",
             "and ready with intense heat!\\p",
             "They incinerate all challengers!\\p",
             "Hah!\\n",
@@ -773,7 +773,7 @@
         "pointer": "CinnabarIsland_Gym_Text_BlainePostBattle",
         "text": [
             "TM38 contains FIRE BLAST.\\n",
-            "Teach it to FIRE-type POK\u00e9MON.\\p",
+            "Teach it to FIRE-type POKéMON.\\p",
             "VULPIX or CHARMELEON would be\\n",
             "ideal for that move."
         ]
@@ -781,7 +781,7 @@
     {
         "pointer": "CinnabarIsland_Gym_Text_ErikIntro",
         "text": [
-            "Do you know how hot POK\u00e9MON fire\\n",
+            "Do you know how hot POKéMON fire\\n",
             "breath can get?"
         ]
     },
@@ -796,9 +796,9 @@
         "pointer": "CinnabarIsland_Gym_Text_ErikPostBattle",
         "text": [
             "Fire, or to be more precise,\\n",
-            "combustion\u2026\\p",
-            "\u2026Oxygen in the air\u2026\\n",
-            "Blah, blah, blah, blah\u2026"
+            "combustion…\\p",
+            "…Oxygen in the air…\\n",
+            "Blah, blah, blah, blah…"
         ]
     },
     {
@@ -818,13 +818,13 @@
         "pointer": "CinnabarIsland_Gym_Text_QuinnPostBattle",
         "text": [
             "I get this uncontrollable urge to\\n",
-            "steal other people's POK\u00e9MON."
+            "steal other people's POKéMON."
         ]
     },
     {
         "pointer": "CinnabarIsland_Gym_Text_AveryIntro",
         "text": [
-            "I've studied POK\u00e9MON thoroughly.\\n",
+            "I've studied POKéMON thoroughly.\\n",
             "You can't win!"
         ]
     },
@@ -845,7 +845,7 @@
     {
         "pointer": "CinnabarIsland_Gym_Text_RamonIntro",
         "text": [
-            "I like using FIRE-type POK\u00e9MON.\\n",
+            "I like using FIRE-type POKéMON.\\n",
             "I just do."
         ]
     },
@@ -858,7 +858,7 @@
     {
         "pointer": "CinnabarIsland_Gym_Text_RamonPostBattle",
         "text": [
-            "I wish there were a thief POK\u00e9MON.\\n",
+            "I wish there were a thief POKéMON.\\n",
             "I'd use that!"
         ]
     },
@@ -881,7 +881,7 @@
             "Our LEADER, BLAINE, became lost\\n",
             "in the mountains but good.\\p",
             "Night fell when a fiery bird\\n",
-            "POK\u00e9MON appeared.\\p",
+            "POKéMON appeared.\\p",
             "Its light allowed BLAINE to find\\n",
             "his way down safely."
         ]
@@ -903,8 +903,8 @@
     {
         "pointer": "CinnabarIsland_Gym_Text_DustyPostBattle",
         "text": [
-            "PONYTA, NINETALES\u2026\\n",
-            "Those are popular FIRE POK\u00e9MON."
+            "PONYTA, NINETALES…\\n",
+            "Those are popular FIRE POKéMON."
         ]
     },
     {
@@ -925,7 +925,7 @@
         "text": [
             "Water beats fire, of course.\\p",
             "But fire melts ice, so the FIRE\\n",
-            "type beats ICE-type POK\u00e9MON."
+            "type beats ICE-type POKéMON."
         ]
     },
     {
@@ -938,7 +938,7 @@
     {
         "pointer": "DewfordTown_Gym_Text_TakaoDefeat",
         "text": [
-            "Not enough power\u2026"
+            "Not enough power…"
         ]
     },
     {
@@ -959,7 +959,7 @@
     {
         "pointer": "DewfordTown_Gym_Text_JocelynDefeat",
         "text": [
-            "But\u2026 How?\\n",
+            "But… How?\\n",
             "How could I lose so easily?"
         ]
     },
@@ -968,8 +968,8 @@
         "text": [
             "I'm not going to waste this loss.\\n",
             "I'll use it to motivate me to train!\\p",
-            "One day I'll become a GYM LEADER\u2026\\p",
-            "No, I'll become the POK\u00e9MON LEAGUE\\n",
+            "One day I'll become a GYM LEADER…\\p",
+            "No, I'll become the POKéMON LEAGUE\\n",
             "CHAMPION!"
         ]
     },
@@ -993,20 +993,20 @@
             "I battle in the dark to make my heart\\n",
             "stronger.\\p",
             "But because it's so dark, I can never\\n",
-            "see BRAWLY's face\u2026"
+            "see BRAWLY's face…"
         ]
     },
     {
         "pointer": "DewfordTown_Gym_Text_LilithIntro",
         "text": [
-            "Ufufu\u2026\\n",
+            "Ufufu…\\n",
             "Are you stumbling around in the dark?"
         ]
     },
     {
         "pointer": "DewfordTown_Gym_Text_LilithDefeat",
         "text": [
-            "Oh, you\u2026\\n",
+            "Oh, you…\\n",
             "I don't want to know you!"
         ]
     },
@@ -1087,7 +1087,7 @@
         "text": [
             "BRAWLY: A wave may draw back, but it\\n",
             "always returns to the shore.\\p",
-            "A giant wave of a talent like you\u2026\\n",
+            "A giant wave of a talent like you…\\n",
             "I knew you would return!\\p",
             "Show me how much higher\\n",
             "you've gone!"
@@ -1111,12 +1111,12 @@
     {
         "pointer": "EverGrandeCity_ChampionsRoom_Text_Defeat",
         "text": [
-            "I, the CHAMPION, fall in defeat\u2026\\p",
+            "I, the CHAMPION, fall in defeat…\\p",
             "That was wonderful work.\\n",
             "You were elegant, infuriatingly so.\\l",
             "And yet it was utterly glorious!\\p",
             "Kudos to you, {PLAYER}{KUN}!\\p",
-            "You are a truly noble POK\u00e9MON\\n",
+            "You are a truly noble POKéMON\\n",
             "TRAINER!"
         ]
     },
@@ -1129,7 +1129,7 @@
     {
         "pointer": "EverGrandeCity_GlaciasRoom_Text_Defeat",
         "text": [
-            "You and your POK\u00e9MON\u2026\\n",
+            "You and your POKéMON…\\n",
             "How hot your spirits burn!\\p",
             "The all-consuming heat overwhelms.\\p",
             "It's no surprise that my icy skills\\n",
@@ -1153,7 +1153,7 @@
     {
         "pointer": "FiveIsland_LostCave_Room10_Text_SelphyDefeat",
         "text": [
-            "Oh\u2026 I was afraid that you meant to\\n",
+            "Oh… I was afraid that you meant to\\n",
             "harm me."
         ]
     },
@@ -1189,7 +1189,7 @@
             "I'm trying to get out of here, but\\n",
             "I always end up at the same spot.\\p",
             "Maybe the number of boulders is\\n",
-            "a hint\u2026"
+            "a hint…"
         ]
     },
     {
@@ -1244,7 +1244,7 @@
     {
         "pointer": "FiveIsland_Meadow_Text_Rocket2Defeat",
         "text": [
-            "That wasn't supposed to happen\u2026"
+            "That wasn't supposed to happen…"
         ]
     },
     {
@@ -1299,7 +1299,7 @@
     {
         "pointer": "FiveIsland_RocketWarehouse_Text_Grunt1Intro",
         "text": [
-            "Oh, now your POK\u00e9MON look strong.\\n",
+            "Oh, now your POKéMON look strong.\\n",
             "You're willing to sell them?\\p",
             "Oh?\\n",
             "You wanted to battle?"
@@ -1308,7 +1308,7 @@
     {
         "pointer": "FiveIsland_RocketWarehouse_Text_Grunt1Defeat",
         "text": [
-            "Oh, but\u2026\\n",
+            "Oh, but…\\n",
             "Too much!"
         ]
     },
@@ -1316,7 +1316,7 @@
         "pointer": "FiveIsland_RocketWarehouse_Text_Grunt1PostBattle",
         "text": [
             "We can give you a great price.\\n",
-            "Sell us your POK\u00e9MON!"
+            "Sell us your POKéMON!"
         ]
     },
     {
@@ -1331,7 +1331,7 @@
     {
         "pointer": "FiveIsland_RocketWarehouse_Text_Grunt3Defeat",
         "text": [
-            "Don't\u2026you\u2026dare\u2026laugh\u2026"
+            "Don't…you…dare…laugh…"
         ]
     },
     {
@@ -1345,7 +1345,7 @@
         "pointer": "FiveIsland_RocketWarehouse_Text_Admin1Intro",
         "text": [
             "I don't know or care if what I'm\\n",
-            "doing is right or wrong\u2026\\p",
+            "doing is right or wrong…\\p",
             "I just put my faith in GIOVANNI\\n",
             "and do as I am told."
         ]
@@ -1353,8 +1353,8 @@
     {
         "pointer": "FiveIsland_RocketWarehouse_Text_Admin1Defeat",
         "text": [
-            "I\u2026\\n",
-            "I'm shattered\u2026"
+            "I…\\n",
+            "I'm shattered…"
         ]
     },
     {
@@ -1376,7 +1376,7 @@
             "That's quite enough of you \\n",
             "playing the hero, kid.\\p",
             "Spreading lies about how TEAM\\n",
-            "ROCKET has disbanded\u2026\\p",
+            "ROCKET has disbanded…\\p",
             "It's such an obvious attempt to\\n",
             "cause confusion in our ranks.\\p",
             "Fortunately, we're not so ignorant\\n",
@@ -1388,9 +1388,9 @@
     {
         "pointer": "FiveIsland_RocketWarehouse_Text_Admin2Defeat",
         "text": [
-            "Urgh\u2026\\n",
-            "You were too strong\u2026\\p",
-            "\u2026\\n",
+            "Urgh…\\n",
+            "You were too strong…\\p",
+            "…\\n",
             "Th-that's GIOVANNI's BADGE!\\p",
             "So it's true?\\n",
             "TEAM ROCKET really has disbanded?"
@@ -1399,12 +1399,12 @@
     {
         "pointer": "FiveIsland_RocketWarehouse_Text_Admin2PostBattle",
         "text": [
-            "We will abandon this WAREHOUSE\u2026\\p",
+            "We will abandon this WAREHOUSE…\\p",
             "But don't think this is over.\\n",
             "I won't let this be the end.\\p",
             "I will find GIOVANNI.\\n",
             "And I will resurrect TEAM ROCKET!\\l",
-            "I will\u2026\\p",
+            "I will…\\p",
             "Until then, farewell!"
         ]
     },
@@ -1412,10 +1412,10 @@
         "pointer": "FiveIsland_RocketWarehouse_Text_GideonIntro",
         "text": [
             "I almost managed to sell the\\n",
-            "SAPPHIRE for huge money\u2026\\p",
+            "SAPPHIRE for huge money…\\p",
             "Then, you just had to come along\\n",
             "and blow the whole deal apart!\\p",
-            "Fufu\u2026 Fufufufu\u2026\\n",
+            "Fufu… Fufufufu…\\n",
             "There's no forgiveness for you!"
         ]
     },
@@ -1437,14 +1437,14 @@
         "pointer": "FortreeCity_Gym_Text_JaredIntro",
         "text": [
             "Behold the elegant battle style of\\n",
-            "BIRD POK\u00e9MON!"
+            "BIRD POKéMON!"
         ]
     },
     {
         "pointer": "FortreeCity_Gym_Text_JaredDefeat",
         "text": [
-            "You\u2026\\n",
-            "You're strong\u2026"
+            "You…\\n",
+            "You're strong…"
         ]
     },
     {
@@ -1459,7 +1459,7 @@
     {
         "pointer": "FortreeCity_Gym_Text_EdwardoIntro",
         "text": [
-            "The lovers of BIRD POK\u00e9MON aspire\\n",
+            "The lovers of BIRD POKéMON aspire\\n",
             "to join this GYM.\\p",
             "As a member of the FORTREE GYM,\\n",
             "I'm not allowed to lose!"
@@ -1469,7 +1469,7 @@
         "pointer": "FortreeCity_Gym_Text_EdwardoDefeat",
         "text": [
             "It was too much of a load for me\\n",
-            "to bear\u2026"
+            "to bear…"
         ]
     },
     {
@@ -1492,7 +1492,7 @@
     {
         "pointer": "FortreeCity_Gym_Text_FlintDefeat",
         "text": [
-            "WINONA, I\u2026\\n",
+            "WINONA, I…\\n",
             "I lost!"
         ]
     },
@@ -1501,7 +1501,7 @@
         "text": [
             "WINONA is cute and she's strong.\\n",
             "She's the ultimate LEADER!\\p",
-            "Blush\u2026"
+            "Blush…"
         ]
     },
     {
@@ -1514,7 +1514,7 @@
     {
         "pointer": "FortreeCity_Gym_Text_AshleyDefeat",
         "text": [
-            "I was beaten\u2026"
+            "I was beaten…"
         ]
     },
     {
@@ -1528,7 +1528,7 @@
         "pointer": "FortreeCity_Gym_Text_HumbertoIntro",
         "text": [
             "When WINONA takes to battle, her face\\n",
-            "shines with beautiful determination\u2026\\p",
+            "shines with beautiful determination…\\p",
             "I'm not letting you witness that\\n",
             "lovely sight!"
         ]
@@ -1552,7 +1552,7 @@
         "pointer": "FortreeCity_Gym_Text_DariusIntro",
         "text": [
             "You'd better know that there are all\\n",
-            "sorts of FLYING-type POK\u00e9MON.\\p",
+            "sorts of FLYING-type POKéMON.\\p",
             "You do know that, right?"
         ]
     },
@@ -1567,28 +1567,28 @@
         "text": [
             "Sure, you beat me all right.\\n",
             "But you'd better watch it! Our LEADER\\l",
-            "WINONA's POK\u00e9MON are all business."
+            "WINONA's POKéMON are all business."
         ]
     },
     {
         "pointer": "FortreeCity_Gym_Text_WinonaIntro",
         "text": [
             "I am WINONA. I am the LEADER of\\n",
-            "the FORTREE POK\u00e9MON GYM.\\p",
-            "I have become one with BIRD POK\u00e9MON\\n",
-            "and have soared the skies\u2026\\p",
+            "the FORTREE POKéMON GYM.\\p",
+            "I have become one with BIRD POKéMON\\n",
+            "and have soared the skies…\\p",
             "However grueling the battle, we have\\n",
-            "triumphed with grace\u2026\\p",
+            "triumphed with grace…\\p",
             "Witness the elegant choreography\\n",
-            "of BIRD POK\u00e9MON and I!"
+            "of BIRD POKéMON and I!"
         ]
     },
     {
         "pointer": "FortreeCity_Gym_Text_WinonaDefeat",
         "text": [
             "Never before have I seen a TRAINER\\n",
-            "command POK\u00e9MON with more grace\\l",
-            "than I\u2026\\p",
+            "command POKéMON with more grace\\l",
+            "than I…\\p",
             "In recognition of your prowess,\\n",
             "I present to you this GYM BADGE."
         ]
@@ -1597,7 +1597,7 @@
         "pointer": "FortreeCity_Gym_Text_WinonaPostBattle",
         "text": [
             "Though I fell to you, I will remain\\n",
-            "devoted to BIRD POK\u00e9MON."
+            "devoted to BIRD POKéMON."
         ]
     },
     {
@@ -1616,7 +1616,7 @@
     {
         "pointer": "FortreeCity_Gym_Text_WinonaRematchDefeat",
         "text": [
-            "I failed to reach your height again\u2026"
+            "I failed to reach your height again…"
         ]
     },
     {
@@ -1643,7 +1643,7 @@
             "You!\\n",
             "Tell me!\\p",
             "Where have you taken the captured\\n",
-            "POK\u00e9MON?\\p",
+            "POKéMON?\\p",
             "I'm smashing your ring once and\\n",
             "for all!"
         ]
@@ -1660,11 +1660,11 @@
         "text": [
             "Wawaah! Okay!\\n",
             "I'll talk!\\p",
-            "The POK\u00e9MON are in the ROCKET\\n",
+            "The POKéMON are in the ROCKET\\n",
             "WAREHOUSE on FIVE ISLAND.\\p",
             "There! I said it!\\n",
             "We'll be going now!\\p",
-            "\u2026But I doubt you'll ever make it\\n",
+            "…But I doubt you'll ever make it\\n",
             "into the ROCKET WAREHOUSE!\\p",
             "Heheheheh!"
         ]
@@ -1673,11 +1673,11 @@
         "pointer": "FourIsland_IcefallCave_Back_Text_ThankYouThisIsAwful",
         "text": [
             "{PLAYER}, thank you.\\n",
-            "But this is awful\u2026\\p",
+            "But this is awful…\\p",
             "I was born and raised here on\\n",
             "these islands.\\p",
             "I had no idea that those horrible\\n",
-            "criminals were loose here\u2026"
+            "criminals were loose here…"
         ]
     },
     {
@@ -1693,7 +1693,7 @@
             "Poison brings steady doom.\\n",
             "Sleep renders foes helpless.\\p",
             "Despair to the creeping horror of\\n",
-            "POISON-type POK\u00e9MON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}"
+            "POISON-type POKéMON!{PLAY_BGM}{MUS_RG_ENCOUNTER_GYM_LEADER}"
         ]
     },
     {
@@ -1708,7 +1708,7 @@
     {
         "pointer": "FuchsiaCity_Gym_Text_KogaPostBattle",
         "text": [
-            "When afflicted by TOXIC, a POK\u00e9MON\\n",
+            "When afflicted by TOXIC, a POKéMON\\n",
             "suffers more and more.\\p",
             "It suffers worsening damage as the\\n",
             "battle wears on!\\p",
@@ -1718,9 +1718,9 @@
     {
         "pointer": "FuchsiaCity_Gym_Text_KaydenIntro",
         "text": [
-            "Strength isn't the key for POK\u00e9MON.\\n",
+            "Strength isn't the key for POKéMON.\\n",
             "Do you understand this?\\p",
-            "POK\u00e9MON is about strategy!\\p",
+            "POKéMON is about strategy!\\p",
             "I'll show you how strategy can\\n",
             "beat brute strength."
         ]
@@ -1855,10 +1855,10 @@
     {
         "pointer": "JaggedPass_Text_EricIntro",
         "text": [
-            "MT. CHIMNEY's JAGGED PASS\u2026\\p",
+            "MT. CHIMNEY's JAGGED PASS…\\p",
             "Now this is what I've always wanted\\n",
             "in a mountain.\\p",
-            "This jagged bumpiness\u2026\\n",
+            "This jagged bumpiness…\\n",
             "It rocks my soul!"
         ]
     },
@@ -1871,7 +1871,7 @@
     {
         "pointer": "JaggedPass_Text_EricPostBattle",
         "text": [
-            "Yes, I did lose at POK\u00e9MON\u2026\\p",
+            "Yes, I did lose at POKéMON…\\p",
             "But, when it comes to the love of\\n",
             "the mountains, I have you beat!"
         ]
@@ -1887,7 +1887,7 @@
         "pointer": "JaggedPass_Text_DianaDefeat",
         "text": [
             "Ohhh, no!\\n",
-            "The ground is too bumpy\u2026"
+            "The ground is too bumpy…"
         ]
     },
     {
@@ -1902,7 +1902,7 @@
         "pointer": "JaggedPass_Text_DianaRematchIntro",
         "text": [
             "Picnics are fun wherever you go.\\n",
-            "Just like POK\u00e9MON!"
+            "Just like POKéMON!"
         ]
     },
     {
@@ -1930,7 +1930,7 @@
         "pointer": "JaggedPass_Text_EthanDefeat",
         "text": [
             "It was all over while we were still\\n",
-            "trying to find a good footing\u2026"
+            "trying to find a good footing…"
         ]
     },
     {
@@ -1951,22 +1951,22 @@
         "pointer": "JaggedPass_Text_EthanRematchDefeat",
         "text": [
             "It's still not easy to battle on this\\n",
-            "bumpy ground\u2026"
+            "bumpy ground…"
         ]
     },
     {
         "pointer": "JaggedPass_Text_EthanPostRematch",
         "text": [
             "I should get an ACRO BIKE from RYDEL\\n",
-            "in MAUVILLE CITY\u2026"
+            "in MAUVILLE CITY…"
         ]
     },
     {
         "pointer": "JaggedPass_Text_GruntDefeat",
         "text": [
-            "Urrrgh\u2026\\p",
+            "Urrrgh…\\p",
             "I should've ducked into our HIDEOUT\\n",
-            "right away\u2026"
+            "right away…"
         ]
     },
     {
@@ -1979,14 +1979,14 @@
     {
         "pointer": "JaggedPass_Text_JulioDefeat",
         "text": [
-            "I feel like I'm falling apart\u2026"
+            "I feel like I'm falling apart…"
         ]
     },
     {
         "pointer": "JaggedPass_Text_JulioPostBattle",
         "text": [
             "My bicycle bounced around so much,\\n",
-            "my rear end's sore\u2026"
+            "my rear end's sore…"
         ]
     },
     {
@@ -1999,7 +1999,7 @@
     {
         "pointer": "JaggedPass_Text_AutumnDefeat",
         "text": [
-            "Hmm\u2026\\n",
+            "Hmm…\\n",
             "What went wrong?"
         ]
     },
@@ -2022,15 +2022,15 @@
     {
         "pointer": "LavaridgeTown_Gym_1F_Text_AxlePostBattle",
         "text": [
-            "Haaah\u2026 Whew\u2026\\p",
+            "Haaah… Whew…\\p",
             "If you spend too much time buried in\\n",
-            "hot sand, it tuckers you out\u2026"
+            "hot sand, it tuckers you out…"
         ]
     },
     {
         "pointer": "LavaridgeTown_Gym_B1F_Text_KeeganPostBattle",
         "text": [
-            "Your skill is real\u2026\\n",
+            "Your skill is real…\\n",
             "But our LEADER FLANNERY is strong.\\p",
             "If you don't watch yourself, you'll be\\n",
             "burned seriously."
@@ -2041,7 +2041,7 @@
         "text": [
             "The temperature of magma is\\n",
             "392 degrees.\\p",
-            "Your POK\u00e9MON beat me, so they should\\n",
+            "Your POKéMON beat me, so they should\\n",
             "easily survive in magma."
         ]
     },
@@ -2065,7 +2065,7 @@
         "text": [
             "Well, so what? I say so what?\\n",
             "I can walk on hot coals barefoot!\\p",
-            "\u2026Don't even think about trying it!"
+            "…Don't even think about trying it!"
         ]
     },
     {
@@ -2079,32 +2079,32 @@
     {
         "pointer": "LavaridgeTown_Gym_1F_Text_FlanneryIntro",
         "text": [
-            "Welcome\u2026 No, wait.\\p",
+            "Welcome… No, wait.\\p",
             "Puny TRAINER, how good to see you've\\n",
             "made it here!\\p",
-            "I have been entrusted with the\u2026\\n",
+            "I have been entrusted with the…\\n",
             "No, wait.\\p",
             "I am FLANNERY, and I'm the GYM\\n",
             "LEADER here!\\p",
-            "Uh\u2026\\n",
+            "Uh…\\n",
             "Dare not underestimate me, though\\l",
             "I have been LEADER only a short time!\\p",
             "With skills inherited from my grand-\\n",
-            "father, I shall, uh\u2026demonstrate the\\l",
+            "father, I shall, uh…demonstrate the\\l",
             "hot moves we have honed on this land!"
         ]
     },
     {
         "pointer": "LavaridgeTown_Gym_1F_Text_FlanneryDefeat",
         "text": [
-            "Oh\u2026\\n",
-            "I guess I was trying too hard\u2026\\p",
-            "I\u2026 I've only recently become\\n",
+            "Oh…\\n",
+            "I guess I was trying too hard…\\p",
+            "I… I've only recently become\\n",
             "a GYM LEADER.\\p",
             "I tried too hard to be someone\\n",
             "I'm not.\\p",
             "I have to do things my natural way. If\\n",
-            "I don't, my POK\u00e9MON will be confused.\\p",
+            "I don't, my POKéMON will be confused.\\p",
             "Thanks for teaching me that.\\n",
             "For that, you deserve this."
         ]
@@ -2112,7 +2112,7 @@
     {
         "pointer": "LavaridgeTown_Gym_1F_Text_FlanneryPostBattle",
         "text": [
-            "Your power reminds me of someone\u2026\\p",
+            "Your power reminds me of someone…\\p",
             "Oh! I know! You battle like NORMAN,\\n",
             "the GYM LEADER of PETALBURG."
         ]
@@ -2122,9 +2122,9 @@
         "text": [
             "FLANNERY: Losing a battle isn't going\\n",
             "to deflate me.\\p",
-            "I love POK\u00e9MON.\\n",
+            "I love POKéMON.\\n",
             "I love to battle.\\l",
-            "And\u2026 I love this GYM!\\p",
+            "And… I love this GYM!\\p",
             "Let's exchange superhot moves\\n",
             "in another battle!"
         ]
@@ -2150,7 +2150,7 @@
     {
         "pointer": "LilycoveCity_Text_MayDefeat",
         "text": [
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
+            "… … … … … … … …\\p",
             "I remember the battle I had with you,\\n",
             "{PLAYER}{KUN}, on ROUTE 103.\\p",
             "That battle helped you become this\\n",
@@ -2160,10 +2160,10 @@
     {
         "pointer": "LilycoveCity_Text_BrendanDefeat",
         "text": [
-            "Humph\u2026\\n",
+            "Humph…\\n",
             "You've done a lot of raising.\\p",
             "That stings a bit--I had a head start\\n",
-            "on you as a TRAINER\u2026"
+            "on you as a TRAINER…"
         ]
     },
     {
@@ -2181,14 +2181,14 @@
         "text": [
             "I'm always late for training sessions,\\n",
             "too!\\p",
-            "I hate to say it, but I'm wimpy\u2026"
+            "I hate to say it, but I'm wimpy…"
         ]
     },
     {
         "pointer": "MagmaHideout_1F_Text_Grunt1PostBattle",
         "text": [
             "Okay, I'll try to put a little more\\n",
-            "effort into things from now on\u2026"
+            "effort into things from now on…"
         ]
     },
     {
@@ -2226,7 +2226,7 @@
             "Only TEAM MAGMA members are supposed\\n",
             "to be in here!\\p",
             "But you're not dressed in TEAM MAGMA's\\n",
-            "uniform\u2026\\p",
+            "uniform…\\p",
             "You rouse my suspicion!\\n",
             "Battle with me!"
         ]
@@ -2234,8 +2234,8 @@
     {
         "pointer": "MagmaHideout_2F_1R_Text_Grunt14Defeat",
         "text": [
-            "Aiyiyi\u2026\\n",
-            "My pride as a TEAM MAGMA member\u2026"
+            "Aiyiyi…\\n",
+            "My pride as a TEAM MAGMA member…"
         ]
     },
     {
@@ -2264,7 +2264,7 @@
         "pointer": "MagmaHideout_2F_1R_Text_Grunt3PostBattle",
         "text": [
             "Maybe it would've been better if I did\\n",
-            "just let you go unchallenged\u2026"
+            "just let you go unchallenged…"
         ]
     },
     {
@@ -2298,13 +2298,13 @@
     {
         "pointer": "MagmaHideout_2F_1R_Text_Grunt5Defeat",
         "text": [
-            "Mutter\u2026"
+            "Mutter…"
         ]
     },
     {
         "pointer": "MagmaHideout_2F_1R_Text_Grunt5PostBattle",
         "text": [
-            "Actually, I'm no expert at battling\u2026"
+            "Actually, I'm no expert at battling…"
         ]
     },
     {
@@ -2317,7 +2317,7 @@
     {
         "pointer": "MagmaHideout_2F_2R_Text_Grunt15Defeat",
         "text": [
-            "I may have lost, but\u2026"
+            "I may have lost, but…"
         ]
     },
     {
@@ -2325,22 +2325,22 @@
         "text": [
             "We dug up something beyond belief!\\n",
             "And, we got the BLUE ORB!\\p",
-            "All that's left is for our leader to\u2026\\n",
-            "Fufufu\u2026 Fwahahaha!"
+            "All that's left is for our leader to…\\n",
+            "Fufufu… Fwahahaha!"
         ]
     },
     {
         "pointer": "MagmaHideout_2F_2R_Text_Grunt6Intro",
         "text": [
             "I can't stand heat. Maybe I should've\\n",
-            "joined TEAM AQUA instead\u2026"
+            "joined TEAM AQUA instead…"
         ]
     },
     {
         "pointer": "MagmaHideout_2F_2R_Text_Grunt6Defeat",
         "text": [
             "Yeah, I really may not be right for\\n",
-            "TEAM MAGMA\u2026"
+            "TEAM MAGMA…"
         ]
     },
     {
@@ -2355,7 +2355,7 @@
         "text": [
             "You can hear tremors here sometimes.\\p",
             "Could it be the volcano rattling?\\n",
-            "Or is it GROU\u2026\\p",
+            "Or is it GROU…\\p",
             "Whoops!\\n",
             "No, no, never mind!"
         ]
@@ -2380,7 +2380,7 @@
         "pointer": "MagmaHideout_2F_2R_Text_Grunt8Intro",
         "text": [
             "One of our guys was freaking out that\\n",
-            "he lost his MAGMA EMBLEM\u2026\\p",
+            "he lost his MAGMA EMBLEM…\\p",
             "Wait a minute!\\n",
             "Was it you who found it?"
         ]
@@ -2388,14 +2388,14 @@
     {
         "pointer": "MagmaHideout_2F_2R_Text_Grunt8Defeat",
         "text": [
-            "I'm having trouble believing this\u2026"
+            "I'm having trouble believing this…"
         ]
     },
     {
         "pointer": "MagmaHideout_2F_2R_Text_Grunt8PostBattle",
         "text": [
             "I'm getting this feeling that our plan\\n",
-            "is going to end in failure\u2026"
+            "is going to end in failure…"
         ]
     },
     {
@@ -2409,7 +2409,7 @@
     {
         "pointer": "MagmaHideout_3F_1R_Text_Grunt9Defeat",
         "text": [
-            "I'm getting heat exhaustion\u2026"
+            "I'm getting heat exhaustion…"
         ]
     },
     {
@@ -2452,8 +2452,8 @@
             "I understand everything our leader\\n",
             "says. But you know what?\\p",
             "Doing stuff like digging up a super-\\n",
-            "ancient POK\u00e9MON and ripping off\\l",
-            "someone's METEORITE\u2026\\p",
+            "ancient POKéMON and ripping off\\l",
+            "someone's METEORITE…\\p",
             "I think we're going a little too far.\\n",
             "What do you think?"
         ]
@@ -2477,7 +2477,7 @@
         "pointer": "MagmaHideout_4F_Text_Grunt11Intro",
         "text": [
             "I want to see GROUDON, too, but they\\n",
-            "won't let me see even its tail\u2026\\p",
+            "won't let me see even its tail…\\p",
             "It's got me feeling really frustrated.\\p",
             "Oh, no!\\n",
             "I blabbed about GROUDON!"
@@ -2487,7 +2487,7 @@
         "pointer": "MagmaHideout_4F_Text_Grunt11Defeat",
         "text": [
             "I guess it's impossible to win if one\\n",
-            "doesn't have a calm mind\u2026"
+            "doesn't have a calm mind…"
         ]
     },
     {
@@ -2507,7 +2507,7 @@
     {
         "pointer": "MagmaHideout_4F_Text_Grunt12Defeat",
         "text": [
-            "Grrr\u2026\\n",
+            "Grrr…\\n",
             "I've come so far, but now this?"
         ]
     },
@@ -2534,7 +2534,7 @@
     {
         "pointer": "MagmaHideout_4F_Text_Grunt13PostBattle",
         "text": [
-            "C-come on, one more match\u2026"
+            "C-come on, one more match…"
         ]
     },
     {
@@ -2553,34 +2553,34 @@
     {
         "pointer": "MagmaHideout_4F_Text_TabithaDefeat",
         "text": [
-            "Taken down again\u2026\\n",
-            "Hehe\u2026"
+            "Taken down again…\\n",
+            "Hehe…"
         ]
     },
     {
         "pointer": "MagmaHideout_4F_Text_TabithaPostBattle",
         "text": [
-            "\u2026And while you wasted time with me,\\n",
-            "MAXIE should have awakened GROUDON\u2026"
+            "…And while you wasted time with me,\\n",
+            "MAXIE should have awakened GROUDON…"
         ]
     },
     {
         "pointer": "MagmaHideout_4F_Text_MaxieDefeat",
         "text": [
             "What makes you so adept at handling\\n",
-            "POK\u00e9MON?"
+            "POKéMON?"
         ]
     },
     {
         "pointer": "MagmaHideout_4F_Text_MaxieImGoingAfterGroudon",
         "text": [
             "MAXIE: There has to be some reason\\n",
-            "why GROUDON fled\u2026\\p",
+            "why GROUDON fled…\\p",
             "That's what you're trying to say,\\n",
             "aren't you?\\p",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\n",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
-            "Humph\u2026\\n",
+            "… … … … … …\\n",
+            "… … … … … …\\p",
+            "Humph…\\n",
             "You think I didn't know that?\\p",
             "With GROUDON gone, there is no longer\\n",
             "any need for this blasted volcano.\\p",
@@ -2591,7 +2591,7 @@
     {
         "pointer": "MauvilleCity_Text_WallyMyUncleWontKnowImStrong",
         "text": [
-            "WALLY: Oh\u2026 If you won't battle me,\\n",
+            "WALLY: Oh… If you won't battle me,\\n",
             "{PLAYER}, my UNCLE won't know that I've\\l",
             "become really strong."
         ]
@@ -2599,16 +2599,16 @@
     {
         "pointer": "MauvilleCity_Text_WallyDefeat",
         "text": [
-            "WALLY: \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
-            "I lost\u2026"
+            "WALLY: … … … … … … …\\p",
+            "… … … … … … … …\\p",
+            "I lost…"
         ]
     },
     {
         "pointer": "MauvilleCity_Text_WallyIllGoBackToVerdanturf",
         "text": [
-            "WALLY: UNCLE\u2026\\n",
-            "I'll go back to VERDANTURF\u2026"
+            "WALLY: UNCLE…\\n",
+            "I'll go back to VERDANTURF…"
         ]
     },
     {
@@ -2616,7 +2616,7 @@
         "text": [
             "{PLAYER}, thank you.\\n",
             "Being a TRAINER is tough, isn't it?\\p",
-            "It's not enough just to have POK\u00e9MON\\n",
+            "It's not enough just to have POKéMON\\n",
             "and make them battle. That isn't what\\l",
             "being a real TRAINER is about."
         ]
@@ -2649,7 +2649,7 @@
     {
         "pointer": "MauvilleCity_Gym_Text_KirkPostBattle",
         "text": [
-            "POK\u00e9MON and rock, it's all about heart,\\n",
+            "POKéMON and rock, it's all about heart,\\n",
             "whoa-yeah!"
         ]
     },
@@ -2663,7 +2663,7 @@
     {
         "pointer": "MauvilleCity_Gym_Text_ShawnDefeat",
         "text": [
-            "Unplugged and turned off\u2026"
+            "Unplugged and turned off…"
         ]
     },
     {
@@ -2685,7 +2685,7 @@
     {
         "pointer": "MauvilleCity_Gym_Text_BenDefeat",
         "text": [
-            "It's no fun to lose\u2026"
+            "It's no fun to lose…"
         ]
     },
     {
@@ -2698,7 +2698,7 @@
     {
         "pointer": "MauvilleCity_Gym_Text_VivianIntro",
         "text": [
-            "With my charm and my POK\u00e9MON's moves,\\n",
+            "With my charm and my POKéMON's moves,\\n",
             "you'll be shocked!"
         ]
     },
@@ -2727,8 +2727,8 @@
     {
         "pointer": "MauvilleCity_Gym_Text_AngeloDefeat",
         "text": [
-            "Oh\u2026\\n",
-            "My eyes are frazzled\u2026"
+            "Oh…\\n",
+            "My eyes are frazzled…"
         ]
     },
     {
@@ -2775,7 +2775,7 @@
         "text": [
             "WATTSON: Ah-ha! Here at last!\\n",
             "I know what you want.\\l",
-            "You want to battle my POK\u00e9MON!\\p",
+            "You want to battle my POKéMON!\\p",
             "Wahahahaha!\\p",
             "I'll make sparks fly from you!\\n",
             "Don't say I didn't warn you!"
@@ -2784,8 +2784,8 @@
     {
         "pointer": "MauvilleCity_Gym_Text_WattsonRematchDefeat",
         "text": [
-            "Oof\u2026\\n",
-            "Our batteries ran dry\u2026"
+            "Oof…\\n",
+            "Our batteries ran dry…"
         ]
     },
     {
@@ -2819,7 +2819,7 @@
         "pointer": "MeteorFalls_1F_2R_Text_NicolasPostBattle",
         "text": [
             "The road ahead remains long and harsh.\\p",
-            "When will my POK\u00e9MON and I become\\n",
+            "When will my POKéMON and I become\\n",
             "the best?"
         ]
     },
@@ -2843,7 +2843,7 @@
         "pointer": "MeteorFalls_1F_2R_Text_NicolasPostRematch",
         "text": [
             "You've obviously kept up your\\n",
-            "POK\u00e9MON training.\\p",
+            "POKéMON training.\\p",
             "So long as you remain strong, I, too,\\n",
             "can become stronger!"
         ]
@@ -2851,7 +2851,7 @@
     {
         "pointer": "MeteorFalls_1F_2R_Text_JohnIntro",
         "text": [
-            "JOHN: We've always battled POK\u00e9MON\\n",
+            "JOHN: We've always battled POKéMON\\n",
             "together as a twosome.\\l",
             "We've confidence in ourselves."
         ]
@@ -2891,15 +2891,15 @@
     {
         "pointer": "MeteorFalls_1F_2R_Text_JayPostBattle",
         "text": [
-            "JAY: Fifty years of marriage\u2026\\p",
+            "JAY: Fifty years of marriage…\\p",
             "If we ever argued, we always settled\\n",
-            "it with a POK\u00e9MON battle\u2026"
+            "it with a POKéMON battle…"
         ]
     },
     {
         "pointer": "MeteorFalls_1F_2R_Text_JohnRematchIntro",
         "text": [
-            "JOHN: We've always battled POK\u00e9MON\\n",
+            "JOHN: We've always battled POKéMON\\n",
             "together as a twosome.\\l",
             "We've confidence in ourselves."
         ]
@@ -2914,9 +2914,9 @@
     {
         "pointer": "MeteorFalls_1F_2R_Text_JohnPostRematch",
         "text": [
-            "JOHN: Married for fifty years\u2026\\p",
+            "JOHN: Married for fifty years…\\p",
             "On reflection, the dear wife and I,\\n",
-            "we battled day in and day out\u2026"
+            "we battled day in and day out…"
         ]
     },
     {
@@ -2938,7 +2938,7 @@
     {
         "pointer": "MeteorFalls_1F_2R_Text_JayPostRematch",
         "text": [
-            "JAY: Fifty years of marriage\u2026\\n",
+            "JAY: Fifty years of marriage…\\n",
             "Many things have happened.\\p",
             "I hope that we will continue to make\\n",
             "happy memories together."
@@ -2947,8 +2947,8 @@
     {
         "pointer": "MeteorFalls_StevensCave_Text_StevenDefeat",
         "text": [
-            "You\u2026\\n",
-            "I had no idea you'd become so strong\u2026"
+            "You…\\n",
+            "I had no idea you'd become so strong…"
         ]
     },
     {
@@ -2961,8 +2961,8 @@
             "become the CHAMPION.\\p",
             "My predictions usually come true.\\p",
             "And where will you go from here?\\p",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\n",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
+            "… … … … … …\\n",
+            "… … … … … …\\p",
             "Fufufu, even I couldn't tell you that."
         ]
     },
@@ -3005,33 +3005,33 @@
             "If there are prodigies in the world,\\n",
             "then our GYM LEADERS are them!\\p",
             "However, you may be even more talented\\n",
-            "than them\u2026"
+            "than them…"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_BlakeIntro",
         "text": [
-            "Fufufufu\u2026 Watch me levitate a POK\u00e9\\n",
+            "Fufufufu… Watch me levitate a POKé\\n",
             "BALL telekinetically!\\p",
             "Wrooooooooaaaar!\\n",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
-            "Sometimes, I'm out of sync\u2026"
+            "… … … … … … …\\p",
+            "Sometimes, I'm out of sync…"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_BlakeDefeat",
         "text": [
-            "My POK\u00e9MON battling skills are out\\n",
+            "My POKéMON battling skills are out\\n",
             "of sync, too!"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_BlakePostBattle",
         "text": [
-            "A POK\u00e9 BALL was too heavy to lift\\n",
-            "psychically. But this dust bunny\u2026\\p",
+            "A POKé BALL was too heavy to lift\\n",
+            "psychically. But this dust bunny…\\p",
             "Whoooooooooooooooh!\\n",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
+            "… … … … … …\\p",
             "No, I'm not cheating!\\n",
             "I didn't blow on it! Honestly!"
         ]
@@ -3063,8 +3063,8 @@
     {
         "pointer": "MossdeepCity_Gym_Text_SamanthaIntro",
         "text": [
-            "I see it\u2026\\n",
-            "I see your future\u2026\\p",
+            "I see it…\\n",
+            "I see your future…\\p",
             "If you can beat me, I will tell you\\n",
             "your future!"
         ]
@@ -3079,16 +3079,16 @@
         "pointer": "MossdeepCity_Gym_Text_SamanthaPostBattle",
         "text": [
             "You will wage a terrifically intense\\n",
-            "battle with our GYM LEADERS\u2026\\p",
-            "The result\u2026\\n",
+            "battle with our GYM LEADERS…\\p",
+            "The result…\\n",
             "You won't hear it from me!"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_MauraIntro",
         "text": [
-            "The roads you have traveled\u2026\\n",
-            "What you have experienced\u2026\\p",
+            "The roads you have traveled…\\n",
+            "What you have experienced…\\p",
             "Come at me with everything you've\\n",
             "learned!"
         ]
@@ -3106,7 +3106,7 @@
             "worked diligently.\\p",
             "For those who lazed idly, there is\\n",
             "only despair at the end.\\p",
-            "What goes around comes around\u2026"
+            "What goes around comes around…"
         ]
     },
     {
@@ -3119,16 +3119,16 @@
     {
         "pointer": "MossdeepCity_Gym_Text_SylviaDefeat",
         "text": [
-            "What you do\u2026\\n",
-            "It horrifies me\u2026"
+            "What you do…\\n",
+            "It horrifies me…"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_SylviaPostBattle",
         "text": [
-            "How dare you beat me\u2026\\p",
+            "How dare you beat me…\\p",
             "It won't be my fault if something\\n",
-            "horrible befalls you\u2026"
+            "horrible befalls you…"
         ]
     },
     {
@@ -3149,7 +3149,7 @@
     {
         "pointer": "MossdeepCity_Gym_Text_NatePostBattle",
         "text": [
-            "I\u2026 I don't let defeat rattle m-me,\\n",
+            "I… I don't let defeat rattle m-me,\\n",
             "however b-badly."
         ]
     },
@@ -3220,7 +3220,7 @@
         "pointer": "MossdeepCity_Gym_Text_NicholasIntro",
         "text": [
             "Wroooar! Have a taste of my super\\n",
-            "POK\u00e9MON hard-battling power!"
+            "POKéMON hard-battling power!"
         ]
     },
     {
@@ -3234,32 +3234,32 @@
         "pointer": "MossdeepCity_Gym_Text_NicholasPostBattle",
         "text": [
             "All right! I think I'll develop a special\\n",
-            "invincible POK\u00e9MON power next."
+            "invincible POKéMON power next."
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_TateAndLizaIntro",
         "text": [
-            "TATE: Hehehe\u2026 Were you surprised?\\p",
-            "LIZA: Fufufu\u2026 Were you surprised?\\p",
+            "TATE: Hehehe… Were you surprised?\\p",
+            "LIZA: Fufufu… Were you surprised?\\p",
             "TATE: That there are two GYM LEADERS?\\n",
             "LIZA: That there are two GYM LEADERS?\\p",
             "TATE: We're twins!\\n",
             "LIZA: We're twins!\\p",
-            "TATE: We don't need to talk because\u2026\\n",
-            "LIZA: We can each determine what\u2026\\p",
-            "TATE: The other is thinking\u2026\\n",
+            "TATE: We don't need to talk because…\\n",
+            "LIZA: We can each determine what…\\p",
+            "TATE: The other is thinking…\\n",
             "LIZA: All in our minds!\\p",
-            "TATE: This combination of ours\u2026\\n",
+            "TATE: This combination of ours…\\n",
             "LIZA: Can you beat it?"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_TateAndLizaDefeat",
         "text": [
-            "TATE: What?! Our combination\u2026\\n",
+            "TATE: What?! Our combination…\\n",
             "LIZA: Was shattered!\\p",
-            "TATE: It can't be helped. You've won\u2026\\n",
+            "TATE: It can't be helped. You've won…\\n",
             "LIZA: So, in recognition, take this."
         ]
     },
@@ -3267,7 +3267,7 @@
         "pointer": "MossdeepCity_Gym_Text_TateAndLizaPostBattle",
         "text": [
             "TATE: Looks like the bond between you\\n",
-            "and your POK\u00e9MON is far stronger than\\l",
+            "and your POKéMON is far stronger than\\l",
             "the bond that we share as twins.\\p",
             "LIZA: You will become even stronger!\\n",
             "We've battled you, so we know."
@@ -3276,22 +3276,22 @@
     {
         "pointer": "MossdeepCity_Gym_Text_TateAndLizaPreRematch",
         "text": [
-            "TATE: POK\u00e9MON\u2026\\n",
-            "LIZA: POK\u00e9MON\u2026\\p",
-            "TATE: By changing the party's mix\u2026\\n",
+            "TATE: POKéMON…\\n",
+            "LIZA: POKéMON…\\p",
+            "TATE: By changing the party's mix…\\n",
             "LIZA: The battle style changes.\\p",
-            "TATE: But me\u2026\\n",
-            "LIZA: But me\u2026\\p",
+            "TATE: But me…\\n",
+            "LIZA: But me…\\p",
             "TATE: I'll always be with LIZA!\\n",
             "LIZA: I'll always be with TATE!\\p",
-            "TATE: Our combination\u2026\\n",
+            "TATE: Our combination…\\n",
             "LIZA: We'll show you again and again!"
         ]
     },
     {
         "pointer": "MossdeepCity_Gym_Text_TateAndLizaRematchDefeat",
         "text": [
-            "TATE: You and your POK\u00e9MON\u2026\\n",
+            "TATE: You and your POKéMON…\\n",
             "LIZA: It's as if you were siblings!"
         ]
     },
@@ -3314,7 +3314,7 @@
     {
         "pointer": "MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat",
         "text": [
-            "Ran out of fuel\u2026"
+            "Ran out of fuel…"
         ]
     },
     {
@@ -3334,8 +3334,8 @@
     {
         "pointer": "MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat",
         "text": [
-            "Grrr\u2026\\n",
-            "We should've used sneaky treachery\u2026"
+            "Grrr…\\n",
+            "We should've used sneaky treachery…"
         ]
     },
     {
@@ -3406,8 +3406,8 @@
     {
         "pointer": "MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat",
         "text": [
-            "We should've taken a break\u2026\\n",
-            "That's what we should've done\u2026"
+            "We should've taken a break…\\n",
+            "That's what we should've done…"
         ]
     },
     {
@@ -3424,9 +3424,9 @@
             "I will back off this time.\\p",
             "But don't think that this is the last\\n",
             "you've seen of TEAM MAGMA.\\p",
-            "Fufufu\u2026\\p",
+            "Fufufu…\\p",
             "Even without the METEORITE, if we\\n",
-            "obtain that ORB\u2026 Fufufu\u2026"
+            "obtain that ORB… Fufufu…"
         ]
     },
     {
@@ -3442,9 +3442,9 @@
     {
         "pointer": "MtChimney_Text_TabithaDefeat",
         "text": [
-            "Hehehe\u2026\\p",
+            "Hehehe…\\p",
             "Even though I've lost, if our leader\\n",
-            "awakens that thing\u2026"
+            "awakens that thing…"
         ]
     },
     {
@@ -3452,7 +3452,7 @@
         "text": [
             "BOSS, hurry!\\n",
             "Give it the METEORITE's energy!\\p",
-            "Hehehe\u2026"
+            "Hehehe…"
         ]
     },
     {
@@ -3475,8 +3475,8 @@
     {
         "pointer": "MtChimney_Text_Grunt2PostBattle",
         "text": [
-            "Our BOSS says, \u201cIt will make everyone\\n",
-            "happy.\u201d\\p",
+            "Our BOSS says, “It will make everyone\\n",
+            "happy.”\\p",
             "But why does everyone keep getting\\n",
             "in our way?"
         ]
@@ -3492,7 +3492,7 @@
     {
         "pointer": "MtChimney_Text_Grunt1Defeat",
         "text": [
-            "My dream of a big house\u2026"
+            "My dream of a big house…"
         ]
     },
     {
@@ -3509,7 +3509,7 @@
             "Thank you!\\p",
             "With your help, we thwarted TEAM\\n",
             "MAGMA's destructive plan!\\p",
-            "But\u2026 You\u2026\\n",
+            "But… You…\\n",
             "Whose side are you on?\\p",
             "Ah, it doesn't matter.\\p",
             "We will remain vigilant and keep up\\n",
@@ -3543,7 +3543,7 @@
         "pointer": "MtChimney_Text_ShelbyRematchIntro",
         "text": [
             "If you can mesh your heart with those\\n",
-            "of your POK\u00e9MON, why, you should be\\l",
+            "of your POKéMON, why, you should be\\l",
             "able to achieve great things."
         ]
     },
@@ -3558,7 +3558,7 @@
         "pointer": "MtChimney_Text_ShelbyPostRematch",
         "text": [
             "Perhaps your heart has become one\\n",
-            "with the hearts of your POK\u00e9MON."
+            "with the hearts of your POKéMON."
         ]
     },
     {
@@ -3585,13 +3585,13 @@
         "pointer": "MtChimney_Text_SheilaIntro",
         "text": [
             "I've finally made it to MT. CHIMNEY.\\n",
-            "I want to make my POK\u00e9MON battle!"
+            "I want to make my POKéMON battle!"
         ]
     },
     {
         "pointer": "MtChimney_Text_SheilaDefeat",
         "text": [
-            "The way you battle\u2026\\n",
+            "The way you battle…\\n",
             "It's like a MT. CHIMNEY eruption!"
         ]
     },
@@ -3600,7 +3600,7 @@
         "text": [
             "Like I said, I've finally made it to\\n",
             "MT. CHIMNEY. It would be a shame if\\l",
-            "I only do a little sightseeing\u2026\\p",
+            "I only do a little sightseeing…\\p",
             "I want to get in some battles and buy\\n",
             "COOKIES as souvenirs."
         ]
@@ -3705,7 +3705,7 @@
     {
         "pointer": "MtEmber_Exterior_Text_LoganDefeat",
         "text": [
-            "Whew\u2026 That was hot!\\n",
+            "Whew… That was hot!\\n",
             "Sweat's erupting from me!"
         ]
     },
@@ -3744,7 +3744,7 @@
         "pointer": "MtEmber_Exterior_Text_JocelynIntro",
         "text": [
             "I've been in training so I can mend\\n",
-            "my broken heart\u2026\\p",
+            "my broken heart…\\p",
             "It toughened me up physically at\\n",
             "least! Hi-yah!"
         ]
@@ -3752,14 +3752,14 @@
     {
         "pointer": "MtEmber_Exterior_Text_JocelynDefeat",
         "text": [
-            "I think I tried to overdo it\u2026"
+            "I think I tried to overdo it…"
         ]
     },
     {
         "pointer": "MtEmber_Exterior_Text_JocelynPostBattle",
         "text": [
             "The way you battle, it reminds me\\n",
-            "of the guy who dumped me\u2026"
+            "of the guy who dumped me…"
         ]
     },
     {
@@ -3767,7 +3767,7 @@
         "text": [
             "WHOA!\\n",
             "You shocked me!\\l",
-            "\u2026Oh, you're just a kid!"
+            "…Oh, you're just a kid!"
         ]
     },
     {
@@ -3836,13 +3836,13 @@
     {
         "pointer": "MtMoon_1F_Text_JovanDefeat",
         "text": [
-            "My POK\u00e9MON won't do!"
+            "My POKéMON won't do!"
         ]
     },
     {
         "pointer": "MtMoon_1F_Text_JovanPostBattle",
         "text": [
-            "I have to find stronger POK\u00e9MON.\\n",
+            "I have to find stronger POKéMON.\\n",
             "Where might they be?"
         ]
     },
@@ -3926,7 +3926,7 @@
         "pointer": "MtMoon_B2F_Text_LabOnCinnabarRegeneratesFossils",
         "text": [
             "Far away, on CINNABAR ISLAND,\\n",
-            "there's a POK\u00e9MON LAB.\\p",
+            "there's a POKéMON LAB.\\p",
             "They do research on regenerating\\n",
             "fossils."
         ]
@@ -3936,7 +3936,7 @@
         "text": [
             "We, TEAM ROCKET, shall find the\\n",
             "fossils!\\p",
-            "Reviving POK\u00e9MON from them will\\n",
+            "Reviving POKéMON from them will\\n",
             "earn us huge riches!"
         ]
     },
@@ -3957,7 +3957,7 @@
     {
         "pointer": "MtMoon_B2F_Text_Grunt2Intro",
         "text": [
-            "We, TEAM ROCKET, are POK\u00e9MON\\n",
+            "We, TEAM ROCKET, are POKéMON\\n",
             "gangsters!\\l",
             "We strike fear with our strength!"
         ]
@@ -3985,7 +3985,7 @@
     {
         "pointer": "MtMoon_B2F_Text_Grunt3Defeat",
         "text": [
-            "So, you are good\u2026"
+            "So, you are good…"
         ]
     },
     {
@@ -4012,14 +4012,14 @@
     {
         "pointer": "MtMoon_B2F_Text_Grunt4PostBattle",
         "text": [
-            "POK\u00e9MON lived here long before\\n",
+            "POKéMON lived here long before\\n",
             "people came."
         ]
     },
     {
         "pointer": "MtPyre_2F_Text_MarkIntro",
         "text": [
-            "Hey! Are you searching for POK\u00e9MON?\\n",
+            "Hey! Are you searching for POKéMON?\\n",
             "You came along after me! You're rude!"
         ]
     },
@@ -4034,7 +4034,7 @@
         "pointer": "MtPyre_2F_Text_MarkPostBattle",
         "text": [
             "People don't come here often, so\\n",
-            "I thought there'd be rare POK\u00e9MON."
+            "I thought there'd be rare POKéMON."
         ]
     },
     {
@@ -4088,14 +4088,14 @@
     {
         "pointer": "MtPyre_2F_Text_LeahIntro",
         "text": [
-            "You are an unfamiliar sight\u2026\\n",
+            "You are an unfamiliar sight…\\n",
             "Depart before anything befalls you!"
         ]
     },
     {
         "pointer": "MtPyre_2F_Text_LeahDefeat",
         "text": [
-            "Hmm\u2026\\n",
+            "Hmm…\\n",
             "You're durable."
         ]
     },
@@ -4103,9 +4103,9 @@
         "pointer": "MtPyre_2F_Text_LeahPostBattle",
         "text": [
             "Our family has been TRAINERS here\\n",
-            "since my great-grandmother's time\u2026\\p",
+            "since my great-grandmother's time…\\p",
             "It is my duty to protect this\\n",
-            "mountain\u2026"
+            "mountain…"
         ]
     },
     {
@@ -4126,8 +4126,8 @@
         "pointer": "MtPyre_2F_Text_ZanderPostBattle",
         "text": [
             "I get freaked out every time I see\\n",
-            "anything move\u2026\\p",
-            "I shouldn't have come here to train\u2026"
+            "anything move…\\p",
+            "I shouldn't have come here to train…"
         ]
     },
     {
@@ -4135,21 +4135,21 @@
         "text": [
             "The rich atmosphere of the mountain\\n",
             "has elevated my psychic power!\\p",
-            "A mere child like you\u2026\\n",
+            "A mere child like you…\\n",
             "You dream of winning?"
         ]
     },
     {
         "pointer": "MtPyre_3F_Text_WilliamDefeat",
         "text": [
-            "I drown in self-pity\u2026"
+            "I drown in self-pity…"
         ]
     },
     {
         "pointer": "MtPyre_3F_Text_WilliamPostBattle",
         "text": [
             "My psychic powers have surely\\n",
-            "grown several times, but\u2026"
+            "grown several times, but…"
         ]
     },
     {
@@ -4163,16 +4163,16 @@
     {
         "pointer": "MtPyre_3F_Text_KaylaDefeat",
         "text": [
-            "I lost that cleanly\u2026"
+            "I lost that cleanly…"
         ]
     },
     {
         "pointer": "MtPyre_3F_Text_KaylaPostBattle",
         "text": [
             "This means my training is still not\\n",
-            "enough\u2026\\p",
+            "enough…\\p",
             "I've got to keep working toward the\\n",
-            "summit\u2026\\p",
+            "summit…\\p",
             "Go, me!"
         ]
     },
@@ -4192,10 +4192,10 @@
     {
         "pointer": "MtPyre_3F_Text_GabriellePostBattle",
         "text": [
-            "POK\u00e9MON no longer of this world.\\n",
-            "POK\u00e9MON that are with you now.\\p",
-            "And the POK\u00e9MON that you will meet\\n",
-            "in the future\u2026\\p",
+            "POKéMON no longer of this world.\\n",
+            "POKéMON that are with you now.\\p",
+            "And the POKéMON that you will meet\\n",
+            "in the future…\\p",
             "They are all to be equally cherished.\\n",
             "Please remember that."
         ]
@@ -4203,9 +4203,9 @@
     {
         "pointer": "MtPyre_3F_Text_GabrielleRematchIntro",
         "text": [
-            "Oh, it's you\u2026\\p",
+            "Oh, it's you…\\p",
             "Have you come to show me your grown\\n",
-            "POK\u00e9MON?"
+            "POKéMON?"
         ]
     },
     {
@@ -4218,10 +4218,10 @@
     {
         "pointer": "MtPyre_3F_Text_GabriellePostRematch",
         "text": [
-            "POK\u00e9MON no longer of this world.\\n",
-            "POK\u00e9MON that are with you now.\\p",
-            "And the POK\u00e9MON that you will meet\\n",
-            "in the future\u2026\\p",
+            "POKéMON no longer of this world.\\n",
+            "POKéMON that are with you now.\\p",
+            "And the POKéMON that you will meet\\n",
+            "in the future…\\p",
             "They are all to be equally cherished.\\n",
             "I see that you've remembered that."
         ]
@@ -4229,14 +4229,14 @@
     {
         "pointer": "MtPyre_5F_Text_AtsushiIntro",
         "text": [
-            "Teacher\u2026\\n",
+            "Teacher…\\n",
             "Please watch over my progress!"
         ]
     },
     {
         "pointer": "MtPyre_5F_Text_AtsushiDefeat",
         "text": [
-            "Teacher\u2026\\n",
+            "Teacher…\\n",
             "Please forgive me!"
         ]
     },
@@ -4244,71 +4244,71 @@
         "pointer": "MtPyre_5F_Text_AtsushiPostBattle",
         "text": [
             "Until I improve, my teacher, who rests\\n",
-            "here, will never find true peace\u2026"
+            "here, will never find true peace…"
         ]
     },
     {
         "pointer": "MtPyre_4F_Text_TashaIntro",
         "text": [
-            "I love all things horrifying\u2026\\n",
-            "It's like a disease\u2026\\p",
-            "When I'm here\u2026\\n",
-            "I shiver with fear\u2026"
+            "I love all things horrifying…\\n",
+            "It's like a disease…\\p",
+            "When I'm here…\\n",
+            "I shiver with fear…"
         ]
     },
     {
         "pointer": "MtPyre_4F_Text_TashaDefeat",
         "text": [
-            "Losing, I dislike\u2026"
+            "Losing, I dislike…"
         ]
     },
     {
         "pointer": "MtPyre_4F_Text_TashaPostBattle",
         "text": [
-            "I want to see dreadful things\u2026\\n",
-            "I can't leave\u2026\\p",
-            "Stay\u2026\\n",
+            "I want to see dreadful things…\\n",
+            "I can't leave…\\p",
+            "Stay…\\n",
             "Won't you stay with me?"
         ]
     },
     {
         "pointer": "MtPyre_6F_Text_ValerieIntro",
         "text": [
-            "When I'm here\u2026\\n",
-            "A curious power flows into me\u2026"
+            "When I'm here…\\n",
+            "A curious power flows into me…"
         ]
     },
     {
         "pointer": "MtPyre_6F_Text_ValerieDefeat",
         "text": [
-            "The power is ebbing away\u2026"
+            "The power is ebbing away…"
         ]
     },
     {
         "pointer": "MtPyre_6F_Text_ValeriePostBattle",
         "text": [
             "Perhaps the power is from the spirits\\n",
-            "of POK\u00e9MON in fitful sleep here\u2026"
+            "of POKéMON in fitful sleep here…"
         ]
     },
     {
         "pointer": "MtPyre_6F_Text_ValerieRematchIntro",
         "text": [
-            "Behind you\u2026\\n",
-            "What is it\u2026"
+            "Behind you…\\n",
+            "What is it…"
         ]
     },
     {
         "pointer": "MtPyre_6F_Text_ValerieRematchDefeat",
         "text": [
-            "Something faded away\u2026"
+            "Something faded away…"
         ]
     },
     {
         "pointer": "MtPyre_6F_Text_ValeriePostRematch",
         "text": [
-            "The POK\u00e9MON at rest here\u2026\\n",
-            "Sometimes, they play\u2026"
+            "The POKéMON at rest here…\\n",
+            "Sometimes, they play…"
         ]
     },
     {
@@ -4329,7 +4329,7 @@
         "text": [
             "I had this feeling that a lost TRAINER\\n",
             "would be panicked and easy to beat.\\p",
-            "It's dirty and I won't try it again\u2026"
+            "It's dirty and I won't try it again…"
         ]
     },
     {
@@ -4344,13 +4344,13 @@
         "pointer": "MtPyre_Summit_Text_Grunt1Defeat",
         "text": [
             "I thought you were one of the MAGMAS\\n",
-            "who happened to come back\u2026"
+            "who happened to come back…"
         ]
     },
     {
         "pointer": "MtPyre_Summit_Text_Grunt1PostBattle",
         "text": [
-            "Yeah, so you are strong\u2026\\n",
+            "Yeah, so you are strong…\\n",
             "But there're a lot of us!"
         ]
     },
@@ -4368,8 +4368,8 @@
     {
         "pointer": "MtPyre_Summit_Text_Grunt2Defeat",
         "text": [
-            "Urgh\u2026 I should've let you take on\\n",
-            "TEAM MAGMA first\u2026"
+            "Urgh… I should've let you take on\\n",
+            "TEAM MAGMA first…"
         ]
     },
     {
@@ -4382,7 +4382,7 @@
     {
         "pointer": "MtPyre_Summit_Text_Grunt3Intro",
         "text": [
-            "You\u2026\\n",
+            "You…\\n",
             "We saw you at MT. CHIMNEY.\\p",
             "You don't belong to either TEAM,\\n",
             "so why would you be here?"
@@ -4392,7 +4392,7 @@
         "pointer": "MtPyre_Summit_Text_Grunt3Defeat",
         "text": [
             "If you're going to mess with anyone,\\n",
-            "let it be TEAM MAGMA\u2026"
+            "let it be TEAM MAGMA…"
         ]
     },
     {
@@ -4418,7 +4418,7 @@
         "pointer": "MtPyre_Summit_Text_Grunt4Defeat",
         "text": [
             "If you want to join TEAM AQUA that\\n",
-            "badly, we can consider it\u2026"
+            "badly, we can consider it…"
         ]
     },
     {
@@ -4433,15 +4433,15 @@
         "text": [
             "WHAT?\\n",
             "Unbelievable!\\l",
-            "I picked the wrong POK\u00e9MON!"
+            "I picked the wrong POKéMON!"
         ]
     },
     {
         "pointer": "PetalburgCity_Gym_Text_NormanDefeat",
         "text": [
-            "\u2026\\p",
-            "I\u2026 I can't\u2026\\p",
-            "I can't believe it. {PLAYER}\u2026\\p",
+            "…\\p",
+            "I… I can't…\\p",
+            "I can't believe it. {PLAYER}…\\p",
             "I lost to {PLAYER}?\\p",
             "But, rules are rules!\\n",
             "Here, take this."
@@ -4451,8 +4451,8 @@
         "pointer": "PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis",
         "text": [
             "DAD: With that BADGE, the DEFENSE\\n",
-            "of all your POK\u00e9MON will increase.\\p",
-            "POK\u00e9MON that know the HM move SURF\\n",
+            "of all your POKéMON will increase.\\p",
+            "POKéMON that know the HM move SURF\\n",
             "will be able to travel over water.\\p",
             "This is my gift to you. {PLAYER}, I'm\\n",
             "sure you can use it correctly."
@@ -4462,16 +4462,16 @@
         "pointer": "PetalburgCity_Gym_Text_DadHappyAndSad",
         "text": [
             "DAD: As the GYM LEADER, I can't\\n",
-            "express how upset I am\u2026\\p",
+            "express how upset I am…\\p",
             "But as a father, it makes me both\\n",
-            "happy and a little sad. It's odd\u2026"
+            "happy and a little sad. It's odd…"
         ]
     },
     {
         "pointer": "PetalburgCity_Gym_Text_RandallIntro",
         "text": [
             "The ability to attack before the\\n",
-            "opponent\u2026\\p",
+            "opponent…\\p",
             "Just that alone puts me at a great\\n",
             "advantage, don't you agree?"
         ]
@@ -4497,13 +4497,13 @@
         "text": [
             "This is the CONFUSION ROOM.\\p",
             "Let me see how well bonded you are\\n",
-            "with your POK\u00e9MON!"
+            "with your POKéMON!"
         ]
     },
     {
         "pointer": "PetalburgCity_Gym_Text_ParkerDefeat",
         "text": [
-            "I couldn't confuse your team enough\u2026\\n",
+            "I couldn't confuse your team enough…\\n",
             "You share a strong bond together."
         ]
     },
@@ -4518,7 +4518,7 @@
         "pointer": "PetalburgCity_Gym_Text_GeorgeIntro",
         "text": [
             "Just when you think you're going to\\n",
-            "win, your opponent restores HP\u2026\\p",
+            "win, your opponent restores HP…\\p",
             "Can you just imagine how awful that\\n",
             "must feel?\\p",
             "I'll show you exactly how awful it\\n",
@@ -4528,8 +4528,8 @@
     {
         "pointer": "PetalburgCity_Gym_Text_GeorgeDefeat",
         "text": [
-            "I couldn't restore HP enough\u2026\\n",
-            "What ATTACK power\u2026"
+            "I couldn't restore HP enough…\\n",
+            "What ATTACK power…"
         ]
     },
     {
@@ -4550,13 +4550,13 @@
             "I'm not going to take it easy just\\n",
             "because you're our LEADER's kid.\\p",
             "I'll show you how horrid it is for\\n",
-            "a POK\u00e9MON to take a critical hit!"
+            "a POKéMON to take a critical hit!"
         ]
     },
     {
         "pointer": "PetalburgCity_Gym_Text_BerkeDefeat",
         "text": [
-            "Your power\u2026\\n",
+            "Your power…\\n",
             "You're the real deal."
         ]
     },
@@ -4574,7 +4574,7 @@
     {
         "pointer": "PetalburgCity_Gym_Text_MaryIntro",
         "text": [
-            "Giggle\u2026\\n",
+            "Giggle…\\n",
             "This is the ACCURACY ROOM.\\p",
             "It's pretty nasty when every attack\\n",
             "lands without fail."
@@ -4583,7 +4583,7 @@
     {
         "pointer": "PetalburgCity_Gym_Text_MaryDefeat",
         "text": [
-            "You were a cut above me\u2026"
+            "You were a cut above me…"
         ]
     },
     {
@@ -4593,7 +4593,7 @@
             "TRAINERS waiting for you.\\p",
             "The left is the DEFENSE ROOM, and\\n",
             "the right is the RECOVERY ROOM.\\p",
-            "Your POK\u00e9MON's ATTACK power will be\\n",
+            "Your POKéMON's ATTACK power will be\\n",
             "on trial either way."
         ]
     },
@@ -4607,7 +4607,7 @@
     {
         "pointer": "PetalburgCity_Gym_Text_AlexiaDefeat",
         "text": [
-            "Our defenses weren't enough\u2026"
+            "Our defenses weren't enough…"
         ]
     },
     {
@@ -4635,13 +4635,13 @@
     {
         "pointer": "PetalburgCity_Gym_Text_JodyDefeat",
         "text": [
-            "But\u2026 I went all out!"
+            "But… I went all out!"
         ]
     },
     {
         "pointer": "PetalburgCity_Gym_Text_JodyPostBattle",
         "text": [
-            "The way you use your POK\u00e9MON\u2026\\n",
+            "The way you use your POKéMON…\\n",
             "It's like your father's style.\\p",
             "Go on through! The GYM LEADER, your\\n",
             "father, is waiting!"
@@ -4650,14 +4650,14 @@
     {
         "pointer": "PetalburgCity_Gym_Text_NormanPreRematch",
         "text": [
-            "DAD: {PLAYER}\u2026\\n",
+            "DAD: {PLAYER}…\\n",
             "I had a feeling that you would come.\\p",
             "I would never refuse to accept\\n",
             "a challenge from you.\\p",
             "You do understand, don't you?\\p",
             "Inside a GYM, it doesn't matter that\\n",
             "we are a parent and child.\\p",
-            "\u2026No, because we are parent and child,\\n",
+            "…No, because we are parent and child,\\n",
             "we owe it to each other to do the best\\l",
             "we can. Isn't that right, {PLAYER}?"
         ]
@@ -4665,17 +4665,17 @@
     {
         "pointer": "PetalburgCity_Gym_Text_NormanRematchDefeat",
         "text": [
-            "Uh\u2026 Haha\u2026\\n",
-            "Maybe that was going too hard\u2026"
+            "Uh… Haha…\\n",
+            "Maybe that was going too hard…"
         ]
     },
     {
         "pointer": "PetalburgCity_Gym_Text_NormanPostRematch",
         "text": [
-            "DAD: {PLAYER}\u2026\\n",
+            "DAD: {PLAYER}…\\n",
             "What is your dream?\\p",
-            "My dream\u2026\\n",
-            "Hahaha\u2026\\l",
+            "My dream…\\n",
+            "Hahaha…\\l",
             "It has already come true, actually."
         ]
     },
@@ -4688,29 +4688,29 @@
     {
         "pointer": "PetalburgWoods_Text_GoBugPokemonTeam",
         "text": [
-            "I caught a whole bunch of POK\u00e9MON!\\p",
+            "I caught a whole bunch of POKéMON!\\p",
             "Go, go, go!\\n",
-            "My BUG POK\u00e9MON team!"
+            "My BUG POKéMON team!"
         ]
     },
     {
         "pointer": "PetalburgWoods_Text_ICouldntWin",
         "text": [
-            "I have all these POK\u00e9MON,\\n",
-            "but I couldn't win\u2026"
+            "I have all these POKéMON,\\n",
+            "but I couldn't win…"
         ]
     },
     {
         "pointer": "PetalburgWoods_Text_ImOutOfPokeBalls",
         "text": [
-            "I caught a bunch of POK\u00e9MON.\\n",
-            "Now I'm out of POK\u00e9 BALLS."
+            "I caught a bunch of POKéMON.\\n",
+            "Now I'm out of POKé BALLS."
         ]
     },
     {
         "pointer": "PetalburgWoods_Text_InstantlyPopularWithBugPokemon",
         "text": [
-            "If you take BUG POK\u00e9MON to school,\\n",
+            "If you take BUG POKéMON to school,\\n",
             "you get to be instantly popular!"
         ]
     },
@@ -4723,14 +4723,14 @@
     {
         "pointer": "PetalburgWoods_Text_PeopleRespectYou",
         "text": [
-            "If you have a big BUG POK\u00e9MON,\\n",
+            "If you have a big BUG POKéMON,\\n",
             "people respect you for it."
         ]
     },
     {
         "pointer": "PetalburgWoods_Text_MyPokemonHaveGrown",
         "text": [
-            "My BUG POK\u00e9MON have grown.\\n",
+            "My BUG POKéMON have grown.\\n",
             "I'll be popular again."
         ]
     },
@@ -4744,7 +4744,7 @@
         "pointer": "PetalburgWoods_Text_IveBeenTrainingHard",
         "text": [
             "You get to be popular if you have\\n",
-            "strong POK\u00e9MON, right?\\l",
+            "strong POKéMON, right?\\l",
             "So, I've been training hard."
         ]
     },
@@ -4754,10 +4754,10 @@
             "So, you're here. I'm BROCK.\\n",
             "I'm PEWTER's GYM LEADER.\\p",
             "My rock-hard willpower is evident\\n",
-            "even in my POK\u00e9MON.\\p",
-            "My POK\u00e9MON are all rock hard, and\\n",
+            "even in my POKéMON.\\p",
+            "My POKéMON are all rock hard, and\\n",
             "have true-grit determination.\\p",
-            "That's right - my POK\u00e9MON are all\\n",
+            "That's right - my POKéMON are all\\n",
             "the ROCK type!\\p",
             "Fuhaha! You're going to challenge\\n",
             "me knowing that you'll lose?\\p",
@@ -4773,15 +4773,15 @@
             "I took you for granted, and so\\n",
             "I lost.\\p",
             "As proof of your victory, I confer\\n",
-            "on you this\u2026the official POK\u00e9MON\\l",
+            "on you this…the official POKéMON\\l",
             "LEAGUE BOULDERBADGE.\\p",
             "{FONT_NORMAL}{PLAYER} received the BOULDERBADGE\\n",
             "from BROCK!{PAUSE_MUSIC}{PLAY_BGM}{MUS_OBTAIN_BADGE}{PAUSE 0xFE}{PAUSE 0x56}{RESUME_MUSIC}\\p",
             "{FONT_MALE}Just having the BOULDERBADGE makes\\n",
-            "your POK\u00e9MON more powerful.\\p",
+            "your POKéMON more powerful.\\p",
             "It also enables the use of the\\n",
             "move FLASH outside of battle.\\p",
-            "Of course, a POK\u00e9MON must know the\\n",
+            "Of course, a POKéMON must know the\\n",
             "move FLASH to use it."
         ]
     },
@@ -4791,7 +4791,7 @@
             "There are all kinds of TRAINERS in\\n",
             "this huge world of ours.\\p",
             "You appear to be very gifted as a\\n",
-            "POK\u00e9MON TRAINER.\\p",
+            "POKéMON TRAINER.\\p",
             "So let me make a suggestion.\\p",
             "Go to the GYM in CERULEAN and test\\n",
             "your abilities."
@@ -4809,7 +4809,7 @@
         "pointer": "PewterCity_Gym_Text_LiamDefeat",
         "text": [
             "Darn!\\p",
-            "Light-years isn't time\u2026\\n",
+            "Light-years isn't time…\\n",
             "It measures distance!"
         ]
     },
@@ -4817,7 +4817,7 @@
         "pointer": "PewterCity_Gym_Text_LiamPostBattle",
         "text": [
             "You're pretty hot.\\n",
-            "\u2026But not as hot as BROCK!"
+            "…But not as hot as BROCK!"
         ]
     },
     {
@@ -4868,7 +4868,7 @@
         "text": [
             "That's it!\\p",
             "I hate to admit it, but you are a\\n",
-            "POK\u00e9MON master!"
+            "POKéMON master!"
         ]
     },
     {
@@ -4876,23 +4876,23 @@
         "text": [
             "I still can't believe my dragons\\n",
             "lost to you, {PLAYER}.\\p",
-            "You are now the POK\u00e9MON LEAGUE\\n",
+            "You are now the POKéMON LEAGUE\\n",
             "CHAMPION!\\p",
-            "\u2026Or, you would have been, but\\n",
+            "…Or, you would have been, but\\n",
             "you have one more challenge left.\\p",
             "There is one more TRAINER to face!\\n",
-            "His name is\u2026\\p",
+            "His name is…\\p",
             "{RIVAL}!\\p",
             "He beat the ELITE FOUR before\\n",
             "you.\\p",
-            "He is the real POK\u00e9MON LEAGUE\\n",
+            "He is the real POKéMON LEAGUE\\n",
             "CHAMPION."
         ]
     },
     {
         "pointer": "PokemonLeague_LoreleisRoom_Text_Defeat",
         "text": [
-            "\u2026Things shouldn't be this way!"
+            "…Things shouldn't be this way!"
         ]
     },
     {
@@ -4901,7 +4901,7 @@
             "You're better than I thought.\\n",
             "Go on ahead.\\p",
             "You only got a taste of the\\n",
-            "POK\u00e9MON LEAGUE's power."
+            "POKéMON LEAGUE's power."
         ]
     },
     {
@@ -5008,7 +5008,7 @@
     {
         "pointer": "PokemonMansion_B1F_Text_LewisIntro",
         "text": [
-            "Uh-oh\u2026\\n",
+            "Uh-oh…\\n",
             "Where am I now?"
         ]
     },
@@ -5056,8 +5056,8 @@
     {
         "pointer": "PokemonTower_3F_Text_HopeIntro",
         "text": [
-            "Urrg\u2026 Awaa\u2026\\n",
-            "Huhu\u2026 Graa\u2026"
+            "Urrg… Awaa…\\n",
+            "Huhu… Graa…"
         ]
     },
     {
@@ -5077,7 +5077,7 @@
     {
         "pointer": "PokemonTower_3F_Text_CarlyIntro",
         "text": [
-            "Kekeke\u2026\\n",
+            "Kekeke…\\n",
             "Kwaaah!"
         ]
     },
@@ -5112,7 +5112,7 @@
     {
         "pointer": "PokemonTower_3F_Text_PatriciaPostBattle",
         "text": [
-            "The others above\u2026\\n",
+            "The others above…\\n",
             "They must have been possessed."
         ]
     },
@@ -5132,7 +5132,7 @@
     {
         "pointer": "PokemonTower_4F_Text_PaulaPostBattle",
         "text": [
-            "I must have been dreaming\u2026"
+            "I must have been dreaming…"
         ]
     },
     {
@@ -5152,13 +5152,13 @@
         "pointer": "PokemonTower_4F_Text_LaurelPostBattle",
         "text": [
             "We can't determine the identity of\\n",
-            "the ghosts\u2026"
+            "the ghosts…"
         ]
     },
     {
         "pointer": "PokemonTower_4F_Text_JodyIntro",
         "text": [
-            "Huhuhu\u2026\\n",
+            "Huhuhu…\\n",
             "Beat me not!"
         ]
     },
@@ -5172,15 +5172,15 @@
     {
         "pointer": "PokemonTower_4F_Text_JodyPostBattle",
         "text": [
-            "May the departed POK\u00e9MON rest in\\n",
-            "peace\u2026"
+            "May the departed POKéMON rest in\\n",
+            "peace…"
         ]
     },
     {
         "pointer": "PokemonTower_5F_Text_TammyIntro",
         "text": [
-            "Give\u2026me\u2026\\n",
-            "your\u2026all\u2026"
+            "Give…me…\\n",
+            "your…all…"
         ]
     },
     {
@@ -5198,8 +5198,8 @@
     {
         "pointer": "PokemonTower_5F_Text_RuthIntro",
         "text": [
-            "You\u2026shall\u2026\\n",
-            "join\u2026us\u2026"
+            "You…shall…\\n",
+            "join…us…"
         ]
     },
     {
@@ -5235,8 +5235,8 @@
     {
         "pointer": "PokemonTower_5F_Text_JanaeIntro",
         "text": [
-            "Urgah\u2026\\n",
-            "Urff\u2026"
+            "Urgah…\\n",
+            "Urff…"
         ]
     },
     {
@@ -5249,14 +5249,14 @@
         "pointer": "PokemonTower_5F_Text_JanaePostBattle",
         "text": [
             "I fell to evil spirits despite my\\n",
-            "training in the mountains\u2026"
+            "training in the mountains…"
         ]
     },
     {
         "pointer": "PokemonTower_6F_Text_AngelicaIntro",
         "text": [
-            "Give\u2026me\u2026\\n",
-            "blood\u2026"
+            "Give…me…\\n",
+            "blood…"
         ]
     },
     {
@@ -5268,13 +5268,13 @@
     {
         "pointer": "PokemonTower_6F_Text_AngelicaPostBattle",
         "text": [
-            "I feel anemic and weak\u2026"
+            "I feel anemic and weak…"
         ]
     },
     {
         "pointer": "PokemonTower_6F_Text_EmiliaIntro",
         "text": [
-            "Urff\u2026\\n",
+            "Urff…\\n",
             "Kwaah!"
         ]
     },
@@ -5294,8 +5294,8 @@
     {
         "pointer": "PokemonTower_6F_Text_JenniferIntro",
         "text": [
-            "Ke\u2026ke\u2026ke\u2026\\n",
-            "ke\u2026ke\u2026ke!"
+            "Ke…ke…ke…\\n",
+            "ke…ke…ke!"
         ]
     },
     {
@@ -5335,7 +5335,7 @@
             "This old guy marched right up to\\n",
             "our HIDEOUT.\\p",
             "Then, he starts ranting about how\\n",
-            "TEAM ROCKET's abusing POK\u00e9MON.\\p",
+            "TEAM ROCKET's abusing POKéMON.\\p",
             "So, we're just talking it over as\\n",
             "adults."
         ]
@@ -5350,7 +5350,7 @@
     {
         "pointer": "PokemonTower_7F_Text_Grunt2PostBattle",
         "text": [
-            "POK\u00e9MON are only good for making\\n",
+            "POKéMON are only good for making\\n",
             "money. Why not use them?\\p",
             "You stay out of our business!"
         ]
@@ -5390,7 +5390,7 @@
     {
         "pointer": "RocketHideout_B1F_Text_Grunt1PostBattle",
         "text": [
-            "Blast it\u2026 You're dissing TEAM\\n",
+            "Blast it… You're dissing TEAM\\n",
             "ROCKET, aren't you?"
         ]
     },
@@ -5448,7 +5448,7 @@
     {
         "pointer": "RocketHideout_B1F_Text_Grunt4PostBattle",
         "text": [
-            "Okay, I'll talk\u2026\\n",
+            "Okay, I'll talk…\\n",
             "Take the elevator to see my BOSS."
         ]
     },
@@ -5461,7 +5461,7 @@
     {
         "pointer": "RocketHideout_B1F_Text_Grunt5Defeat",
         "text": [
-            "Why\u2026?"
+            "Why…?"
         ]
     },
     {
@@ -5546,12 +5546,12 @@
     {
         "pointer": "RocketHideout_B4F_Text_GiovanniPostBattle",
         "text": [
-            "I see that you raise POK\u00e9MON with\\n",
+            "I see that you raise POKéMON with\\n",
             "utmost care.\\p",
             "A child like you would never\\n",
             "understand what I hope to achieve.\\p",
             "I shall step aside this time!\\p",
-            "I hope we meet again\u2026"
+            "I hope we meet again…"
         ]
     },
     {
@@ -5640,7 +5640,7 @@
         "pointer": "RockTunnel_1F_Text_OliverIntro",
         "text": [
             "Hmm.\\n",
-            "Maybe I'm lost in here\u2026"
+            "Maybe I'm lost in here…"
         ]
     },
     {
@@ -5654,7 +5654,7 @@
     {
         "pointer": "RockTunnel_1F_Text_OliverPostBattle",
         "text": [
-            "That sleeping POK\u00e9MON on ROUTE 12\\n",
+            "That sleeping POKéMON on ROUTE 12\\n",
             "forced me to take this detour."
         ]
     },
@@ -5680,7 +5680,7 @@
     {
         "pointer": "RockTunnel_1F_Text_AshtonIntro",
         "text": [
-            "POK\u00e9MON fight!\\n",
+            "POKéMON fight!\\n",
             "Ready, go!"
         ]
     },
@@ -5707,7 +5707,7 @@
     {
         "pointer": "RockTunnel_1F_Text_LeahDefeat",
         "text": [
-            "It was too dark\u2026"
+            "It was too dark…"
         ]
     },
     {
@@ -5720,13 +5720,13 @@
         "pointer": "RockTunnel_1F_Text_DanaIntro",
         "text": [
             "I came this far looking for wild\\n",
-            "POK\u00e9MON."
+            "POKéMON."
         ]
     },
     {
         "pointer": "RockTunnel_1F_Text_DanaDefeat",
         "text": [
-            "I'm out of POK\u00e9MON!"
+            "I'm out of POKéMON!"
         ]
     },
     {
@@ -5739,7 +5739,7 @@
     {
         "pointer": "RockTunnel_1F_Text_ArianaIntro",
         "text": [
-            "You have POK\u00e9MON!\\n",
+            "You have POKéMON!\\n",
             "Let's start!"
         ]
     },
@@ -5802,7 +5802,7 @@
     {
         "pointer": "RockTunnel_B1F_Text_CooperIntro",
         "text": [
-            "You have a POK\u00e9DEX?\\n",
+            "You have a POKéDEX?\\n",
             "I want one, too."
         ]
     },
@@ -5816,14 +5816,14 @@
     {
         "pointer": "RockTunnel_B1F_Text_CooperPostBattle",
         "text": [
-            "When you finish your POK\u00e9DEX,\\n",
+            "When you finish your POKéDEX,\\n",
             "can I have it?"
         ]
     },
     {
         "pointer": "RockTunnel_B1F_Text_SteveIntro",
         "text": [
-            "Um\u2026 Do you know about POK\u00e9MON\\n",
+            "Um… Do you know about POKéMON\\n",
             "cosplay?"
         ]
     },
@@ -5836,15 +5836,15 @@
     {
         "pointer": "RockTunnel_B1F_Text_StevePostBattle",
         "text": [
-            "POK\u00e9MON cosplay is dressing up as\\n",
-            "POK\u00e9MON for fun.\\p",
+            "POKéMON cosplay is dressing up as\\n",
+            "POKéMON for fun.\\p",
             "CLEFAIRY is a favorite."
         ]
     },
     {
         "pointer": "RockTunnel_B1F_Text_AllenIntro",
         "text": [
-            "My POK\u00e9MON techniques will leave\\n",
+            "My POKéMON techniques will leave\\n",
             "you crying!"
         ]
     },
@@ -5859,7 +5859,7 @@
         "pointer": "RockTunnel_B1F_Text_AllenPostBattle",
         "text": [
             "In mountains, you'll often find\\n",
-            "ROCK-type POK\u00e9MON."
+            "ROCK-type POKéMON."
         ]
     },
     {
@@ -5879,7 +5879,7 @@
     {
         "pointer": "RockTunnel_B1F_Text_MarthaPostBattle",
         "text": [
-            "I like tiny POK\u00e9MON.\\n",
+            "I like tiny POKéMON.\\n",
             "Big ones are too scary!"
         ]
     },
@@ -5898,22 +5898,22 @@
     {
         "pointer": "RockTunnel_B1F_Text_EricPostBattle",
         "text": [
-            "I'll raise my POK\u00e9MON to beat\\n",
+            "I'll raise my POKéMON to beat\\n",
             "yours, kid."
         ]
     },
     {
         "pointer": "RockTunnel_B1F_Text_WinstonIntro",
         "text": [
-            "I draw illustrations of POK\u00e9MON\\n",
+            "I draw illustrations of POKéMON\\n",
             "when I'm home."
         ]
     },
     {
         "pointer": "RockTunnel_B1F_Text_WinstonDefeat",
         "text": [
-            "Whew\u2026\\n",
-            "I'm exhausted\u2026"
+            "Whew…\\n",
+            "I'm exhausted…"
         ]
     },
     {
@@ -5946,7 +5946,7 @@
     {
         "pointer": "Route104_Text_BrendanDefeat",
         "text": [
-            "Hmm\u2026\\n",
+            "Hmm…\\n",
             "You're pretty good."
         ]
     },
@@ -5977,7 +5977,7 @@
         "text": [
             "Boring battles aren't worth the effort.\\p",
             "Fiery hot battles are what toughen up\\n",
-            "TRAINERS and POK\u00e9MON!"
+            "TRAINERS and POKéMON!"
         ]
     },
     {
@@ -5997,19 +5997,19 @@
         "pointer": "Route109_SeashoreHouse_Text_SimonIntro",
         "text": [
             "I'm going to show you how great\\n",
-            "my POK\u00e9MON are, but don't cry!"
+            "my POKéMON are, but don't cry!"
         ]
     },
     {
         "pointer": "Route109_SeashoreHouse_Text_SimonDefeated",
         "text": [
-            "\u2026I lost, but I won't cry\u2026"
+            "…I lost, but I won't cry…"
         ]
     },
     {
         "pointer": "Route109_SeashoreHouse_Text_SimonPostBattle",
         "text": [
-            "If one of my POK\u00e9MON knew the move\\n",
+            "If one of my POKéMON knew the move\\n",
             "for carrying me across water on its\\l",
             "back, I could get rid of this inner tube."
         ]
@@ -6024,7 +6024,7 @@
     {
         "pointer": "Route110_Text_BrendanDefeated",
         "text": [
-            "Hmm\u2026\\n",
+            "Hmm…\\n",
             "You're pretty good."
         ]
     },
@@ -6052,20 +6052,20 @@
         "pointer": "Route110_TrickHousePuzzle1_Text_EddieIntro",
         "text": [
             "I wandered into this weird house\\n",
-            "by accident\u2026"
+            "by accident…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle1_Text_EddieDefeat",
         "text": [
-            "And now I've lost\u2026"
+            "And now I've lost…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle1_Text_EddiePostBattle",
         "text": [
             "I lost my way, I lost a battle, and I'm\\n",
-            "now even more lost\u2026 I can't get out\u2026"
+            "now even more lost… I can't get out…"
         ]
     },
     {
@@ -6171,13 +6171,13 @@
         "pointer": "Route110_TrickHousePuzzle3_Text_MarthaIntro",
         "text": [
             "I don't know what's going on here.\\n",
-            "I'm starting to feel sad\u2026"
+            "I'm starting to feel sad…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle3_Text_MarthaDefeat",
         "text": [
-            "You\u2026 You're awful!"
+            "You… You're awful!"
         ]
     },
     {
@@ -6241,13 +6241,13 @@
         "pointer": "Route110_TrickHousePuzzle4_Text_YujiDefeat",
         "text": [
             "I can push boulders, but I can't solve\\n",
-            "the puzzle\u2026"
+            "the puzzle…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle4_Text_YujiPostBattle",
         "text": [
-            "It's not good enough to be brawny\u2026\\n",
+            "It's not good enough to be brawny…\\n",
             "You have to use your head. Be brainy!"
         ]
     },
@@ -6295,8 +6295,8 @@
     {
         "pointer": "Route110_TrickHousePuzzle6_Text_BennyIntro",
         "text": [
-            "Maybe I could get my BIRD POK\u00e9MON\\n",
-            "to fly over the wall\u2026"
+            "Maybe I could get my BIRD POKéMON\\n",
+            "to fly over the wall…"
         ]
     },
     {
@@ -6308,7 +6308,7 @@
     {
         "pointer": "Route110_TrickHousePuzzle6_Text_BennyPostBattle",
         "text": [
-            "Ehehehe\u2026 I guess I lost because\\n",
+            "Ehehehe… I guess I lost because\\n",
             "I was trying to cheat."
         ]
     },
@@ -6316,14 +6316,14 @@
         "pointer": "Route110_TrickHousePuzzle6_Text_SebastianIntro",
         "text": [
             "I'm getting dizzy from these rotating\\n",
-            "doors\u2026"
+            "doors…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle6_Text_SebastianDefeat",
         "text": [
             "Everything's spinning around and\\n",
-            "around. I can't take this anymore\u2026"
+            "around. I can't take this anymore…"
         ]
     },
     {
@@ -6357,22 +6357,22 @@
     {
         "pointer": "Route110_TrickHousePuzzle7_Text_PatriciaIntro",
         "text": [
-            "Going around the same spot\u2026\\n",
-            "It begets ill fortune\u2026"
+            "Going around the same spot…\\n",
+            "It begets ill fortune…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle7_Text_PatriciaDefeat",
         "text": [
             "Defeated!\\n",
-            "It's a bad sign\u2026"
+            "It's a bad sign…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle7_Text_PatriciaPostBattle",
         "text": [
             "I've circled the same spot over ten\\n",
-            "times now\u2026 It's ill fortune\u2026"
+            "times now… It's ill fortune…"
         ]
     },
     {
@@ -6425,7 +6425,7 @@
     {
         "pointer": "Route110_TrickHousePuzzle7_Text_AlvaroDefeat",
         "text": [
-            "This outcome I didn't see coming\u2026"
+            "This outcome I didn't see coming…"
         ]
     },
     {
@@ -6440,7 +6440,7 @@
     {
         "pointer": "Route110_TrickHousePuzzle7_Text_EverettIntro",
         "text": [
-            "It's awfully cramped in here\u2026"
+            "It's awfully cramped in here…"
         ]
     },
     {
@@ -6453,7 +6453,7 @@
         "pointer": "Route110_TrickHousePuzzle7_Text_EverettPostBattle",
         "text": [
             "I was hoping to switch places with you\\n",
-            "when I beat you, but\u2026"
+            "when I beat you, but…"
         ]
     },
     {
@@ -6466,13 +6466,13 @@
     {
         "pointer": "Route110_TrickHousePuzzle8_Text_VincentDefeat",
         "text": [
-            "That must mean you're tough, too\u2026"
+            "That must mean you're tough, too…"
         ]
     },
     {
         "pointer": "Route110_TrickHousePuzzle8_Text_VincentPostBattle",
         "text": [
-            "You've beaten the POK\u00e9MON LEAGUE\\n",
+            "You've beaten the POKéMON LEAGUE\\n",
             "CHAMPION? That's too much!"
         ]
     },
@@ -6507,7 +6507,7 @@
     {
         "pointer": "Route110_TrickHousePuzzle8_Text_LeroyDefeat",
         "text": [
-            "I see\u2026\\n",
+            "I see…\\n",
             "You possess an extraordinary style."
         ]
     },
@@ -6572,8 +6572,8 @@
     {
         "pointer": "Route111_Text_ViviPostBattle",
         "text": [
-            "This stinks\u2026\\p",
-            "\u2026Snivel\u2026 Grandma!"
+            "This stinks…\\p",
+            "…Snivel… Grandma!"
         ]
     },
     {
@@ -6588,8 +6588,8 @@
     {
         "pointer": "Route111_Text_VickyDefeat",
         "text": [
-            "Kwah! You are strong\u2026\\n",
-            "My granddaughter was right\u2026"
+            "Kwah! You are strong…\\n",
+            "My granddaughter was right…"
         ]
     },
     {
@@ -6611,7 +6611,7 @@
     {
         "pointer": "Route119_Text_BrendanDefeat",
         "text": [
-            "Hmm\u2026\\n",
+            "Hmm…\\n",
             "You've gotten pretty darn decent."
         ]
     },
@@ -6627,8 +6627,8 @@
     {
         "pointer": "Route119_WeatherInstitute_1F_Text_Grunt1Defeat",
         "text": [
-            "Blast it\u2026\\n",
-            "Blasted by a kid\u2026"
+            "Blast it…\\n",
+            "Blasted by a kid…"
         ]
     },
     {
@@ -6656,16 +6656,16 @@
     {
         "pointer": "Route119_WeatherInstitute_1F_Text_Grunt4PostBattle",
         "text": [
-            "Oh, no\u2026\\n",
-            "I'll catch an earful for losing to a kid\u2026\\p",
-            "I should just take a nap in the bed\u2026"
+            "Oh, no…\\n",
+            "I'll catch an earful for losing to a kid…\\p",
+            "I should just take a nap in the bed…"
         ]
     },
     {
         "pointer": "Route119_WeatherInstitute_2F_Text_Grunt2Intro",
         "text": [
             "The INSTITUTE created a type of\\n",
-            "POK\u00e9MON that has something to do with\\l",
+            "POKéMON that has something to do with\\l",
             "the weather. We're here to take them!"
         ]
     },
@@ -6678,7 +6678,7 @@
     {
         "pointer": "Route119_WeatherInstitute_2F_Text_Grunt2PostBattle",
         "text": [
-            "If the POK\u00e9MON they made here can\\n",
+            "If the POKéMON they made here can\\n",
             "control the weather freely, then we of\\l",
             "TEAM AQUA definitely need it!"
         ]
@@ -6709,7 +6709,7 @@
         "pointer": "Route119_WeatherInstitute_2F_Text_Grunt5Intro",
         "text": [
             "Don't tell me you're looking for that\\n",
-            "weather POK\u00e9MON, too?\\p",
+            "weather POKéMON, too?\\p",
             "That's a no-no!\\n",
             "We were here to get it first!"
         ]
@@ -6717,16 +6717,16 @@
     {
         "pointer": "Route119_WeatherInstitute_2F_Text_Grunt5Defeat",
         "text": [
-            "Oh, will you look at my POK\u00e9MON?"
+            "Oh, will you look at my POKéMON?"
         ]
     },
     {
         "pointer": "Route119_WeatherInstitute_2F_Text_Grunt5PostBattle",
         "text": [
             "Humph, so what?\\n",
-            "What we want\u2026\\p",
-            "What we really want isn't here\u2026\\n",
-            "Ihihihihi\u2026"
+            "What we want…\\p",
+            "What we really want isn't here…\\n",
+            "Ihihihihi…"
         ]
     },
     {
@@ -6803,7 +6803,7 @@
     {
         "pointer": "RustboroCity_Text_BrendanDefeat",
         "text": [
-            "Hmm\u2026\\n",
+            "Hmm…\\n",
             "You're pretty good."
         ]
     },
@@ -6817,7 +6817,7 @@
     {
         "pointer": "RustboroCity_Gym_Text_JoshDefeat",
         "text": [
-            "You were too good for me\u2026"
+            "You were too good for me…"
         ]
     },
     {
@@ -6853,7 +6853,7 @@
         "text": [
             "We might be in the middle of town,\\n",
             "but so what?\\p",
-            "My ROCK POK\u00e9MON need room to\\n",
+            "My ROCK POKéMON need room to\\n",
             "rampage!"
         ]
     },
@@ -6876,26 +6876,26 @@
         "pointer": "RustboroCity_Gym_Text_RoxanneIntro",
         "text": [
             "Hello, I am ROXANNE, the RUSTBORO\\n",
-            "POK\u00e9MON GYM LEADER.\\p",
+            "POKéMON GYM LEADER.\\p",
             "I became a GYM LEADER so that I might\\n",
-            "apply what I learned at the POK\u00e9MON\\l",
+            "apply what I learned at the POKéMON\\l",
             "TRAINER'S SCHOOL in battle.\\p",
             "Would you kindly demonstrate how you\\n",
-            "battle, and with which POK\u00e9MON?"
+            "battle, and with which POKéMON?"
         ]
     },
     {
         "pointer": "RustboroCity_Gym_Text_RoxanneDefeat",
         "text": [
-            "So\u2026\\n",
-            "I lost\u2026\\p",
+            "So…\\n",
+            "I lost…\\p",
             "It seems that I still have much more\\n",
-            "to learn\u2026\\p",
+            "to learn…\\p",
             "I understand.\\p",
-            "The POK\u00e9MON LEAGUE's rules state\\n",
+            "The POKéMON LEAGUE's rules state\\n",
             "that TRAINERS are to be given this\\l",
             "if they defeat a GYM LEADER.\\p",
-            "Please accept the official POK\u00e9MON\\n",
+            "Please accept the official POKéMON\\n",
             "LEAGUE STONE BADGE."
         ]
     },
@@ -6922,15 +6922,15 @@
     {
         "pointer": "RustboroCity_Gym_Text_RoxanneRematchDefeat",
         "text": [
-            "Grr\u2026\\n",
-            "Again, I have lost\u2026"
+            "Grr…\\n",
+            "Again, I have lost…"
         ]
     },
     {
         "pointer": "RustboroCity_Gym_Text_RoxannePostRematch",
         "text": [
             "ROXANNE: I still have much to learn\\n",
-            "when it comes to battling POK\u00e9MON.\\p",
+            "when it comes to battling POKéMON.\\p",
             "That awareness makes me love battling\\n",
             "all that much more!"
         ]
@@ -6945,7 +6945,7 @@
     {
         "pointer": "RusturfTunnel_Text_GruntTakePackage",
         "text": [
-            "This is plain not right\u2026\\p",
+            "This is plain not right…\\p",
             "The BOSS told me this would be a\\n",
             "slick-and-easy job to pull.\\p",
             "All I had to do was steal some package\\n",
@@ -6966,22 +6966,22 @@
         "text": [
             "What do you call a wild man up in the\\n",
             "mountains? A mountain man, right?\\p",
-            "So why don't they call a POK\u00e9MON in\\n",
-            "the mountains a mountain POK\u00e9MON?"
+            "So why don't they call a POKéMON in\\n",
+            "the mountains a mountain POKéMON?"
         ]
     },
     {
         "pointer": "RusturfTunnel_Text_MikeDefeat",
         "text": [
-            "My POK\u00e9MON\u2026\\n",
-            "Ran out of power\u2026"
+            "My POKéMON…\\n",
+            "Ran out of power…"
         ]
     },
     {
         "pointer": "RusturfTunnel_Text_MikePostBattle",
         "text": [
             "They halted development here to\\n",
-            "protect POK\u00e9MON, right?\\l",
+            "protect POKéMON, right?\\l",
             "There's a feel-good story!"
         ]
     },
@@ -7010,7 +7010,7 @@
             "But, I beseech you, do not take\\n",
             "our emblem as your trophy!\\p",
             "In return, I will give you a prized\\n",
-            "FIGHTING POK\u00e9MON!\\p",
+            "FIGHTING POKéMON!\\p",
             "Choose whichever one you like!"
         ]
     },
@@ -7127,7 +7127,7 @@
         "pointer": "SaffronCity_Gym_Text_ExplainTM04",
         "text": [
             "TM04 is CALM MIND.\\p",
-            "It makes the POK\u00e9MON concentrate\\n",
+            "It makes the POKéMON concentrate\\n",
             "to raise both SP. ATK and SP. DEF."
         ]
     },
@@ -7168,16 +7168,16 @@
     {
         "pointer": "SaffronCity_Gym_Text_JohanPostBattle",
         "text": [
-            "PSYCHIC POK\u00e9MON fear only ghosts\\n",
+            "PSYCHIC POKéMON fear only ghosts\\n",
             "and bugs!"
         ]
     },
     {
         "pointer": "SaffronCity_Gym_Text_StacyIntro",
         "text": [
-            "POK\u00e9MON take on the appearance of\\n",
+            "POKéMON take on the appearance of\\n",
             "their TRAINERS.\\p",
-            "Your POK\u00e9MON must be tough, then!"
+            "Your POKéMON must be tough, then!"
         ]
     },
     {
@@ -7189,9 +7189,9 @@
     {
         "pointer": "SaffronCity_Gym_Text_StacyPostBattle",
         "text": [
-            "I have much to learn still\u2026\\p",
+            "I have much to learn still…\\p",
             "I must master PSYCHIC and teach it\\n",
-            "to my POK\u00e9MON\u2026"
+            "to my POKéMON…"
         ]
     },
     {
@@ -7199,7 +7199,7 @@
         "text": [
             "You understand, don't you?\\p",
             "That power alone isn't enough to\\n",
-            "win in the world of POK\u00e9MON?"
+            "win in the world of POKéMON?"
         ]
     },
     {
@@ -7218,7 +7218,7 @@
     {
         "pointer": "SaffronCity_Gym_Text_TashaIntro",
         "text": [
-            "You and I, our POK\u00e9MON shall\\n",
+            "You and I, our POKéMON shall\\n",
             "battle!"
         ]
     },
@@ -7253,7 +7253,7 @@
     {
         "pointer": "SaffronCity_Gym_Text_CameronPostBattle",
         "text": [
-            "There used to be two POK\u00e9MON GYMS\\n",
+            "There used to be two POKéMON GYMS\\n",
             "in SAFFRON.\\p",
             "The FIGHTING DOJO next door lost\\n",
             "its GYM status, though.\\p",
@@ -7264,7 +7264,7 @@
     {
         "pointer": "SaffronCity_Gym_Text_PrestonIntro",
         "text": [
-            "SAFFRON POK\u00e9MON GYM is famous for\\n",
+            "SAFFRON POKéMON GYM is famous for\\n",
             "training psychics.\\p",
             "You want to see SABRINA, don't\\n",
             "you? I can tell!"
@@ -7293,20 +7293,20 @@
     {
         "pointer": "SeafloorCavern_Room1_Text_Grunt1Defeat",
         "text": [
-            "I want to go home\u2026"
+            "I want to go home…"
         ]
     },
     {
         "pointer": "SeafloorCavern_Room1_Text_Grunt1PostBattle",
         "text": [
             "I want to get a promotion so I can\\n",
-            "boss around the GRUNTS\u2026"
+            "boss around the GRUNTS…"
         ]
     },
     {
         "pointer": "SeafloorCavern_Room1_Text_Grunt2Intro",
         "text": [
-            "That submarine\u2026 It's tiny inside.\\n",
+            "That submarine… It's tiny inside.\\n",
             "I'm sore all over!"
         ]
     },
@@ -7331,10 +7331,10 @@
             "How did you manage to get here without\\n",
             "a submarine?\\l",
             "What an impressive child!\\p",
-            "But\u2026 It won't do to have you\\n",
+            "But… It won't do to have you\\n",
             "meddling about here.\\p",
             "And, I do want payback for what\\n",
-            "happened at the WEATHER INSTITUTE\u2026\\p",
+            "happened at the WEATHER INSTITUTE…\\p",
             "I'm going to give you a little taste\\n",
             "of pain! Resign yourself to it!"
         ]
@@ -7355,16 +7355,16 @@
             "not a TEAM AQUA member.\\p",
             "You could have enjoyed the fabulous\\n",
             "world our BOSS has promised as\\l",
-            "one of us\u2026"
+            "one of us…"
         ]
     },
     {
         "pointer": "SeafloorCavern_Room3_Text_Grunt5Intro",
         "text": [
             "For our dream to become real, we need\\n",
-            "the power of POK\u00e9MON.\\p",
+            "the power of POKéMON.\\p",
             "But meddlers like you use the power of\\n",
-            "POK\u00e9MON to mess with us even at\\l",
+            "POKéMON to mess with us even at\\l",
             "a place like this!\\p",
             "Life just doesn't work the way we\\n",
             "need it to!"
@@ -7383,8 +7383,8 @@
             "the motives of our leader.\\p",
             "But here you are, just some punk,\\n",
             "going up against our BOSS.\\p",
-            "Maybe\u2026\\n",
-            "You must be something\u2026"
+            "Maybe…\\n",
+            "You must be something…"
         ]
     },
     {
@@ -7397,7 +7397,7 @@
     {
         "pointer": "SeafloorCavern_Room4_Text_Grunt3Defeat",
         "text": [
-            "Lost it\u2026"
+            "Lost it…"
         ]
     },
     {
@@ -7438,12 +7438,12 @@
     {
         "pointer": "SeafloorCavern_Room9_Text_ArchieWithThisRedOrb",
         "text": [
-            "ARCHIE: Fufufu\u2026\\p",
+            "ARCHIE: Fufufu…\\p",
             "I commend you. I must recognize that\\n",
             "you are truly gifted.\\p",
             "But!\\n",
             "I have this in my possession!\\p",
-            "With this RED ORB, I can make KYOGRE\u2026"
+            "With this RED ORB, I can make KYOGRE…"
         ]
     },
     {
@@ -7458,7 +7458,7 @@
         "text": [
             "ARCHIE: What?!\\p",
             "I didn't do anything.\\n",
-            "Why did the RED ORB\u2026\\p",
+            "Why did the RED ORB…\\p",
             "Where did KYOGRE go?"
         ]
     },
@@ -7466,24 +7466,24 @@
         "pointer": "SeafloorCavern_Room9_Text_ArchieAMessageFromOutside",
         "text": [
             "ARCHIE: Hm? It's a message from our\\n",
-            "members outside\u2026"
+            "members outside…"
         ]
     },
     {
         "pointer": "SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard",
         "text": [
             "ARCHIE: Yes, what is it?\\p",
-            "Hm\u2026\\n",
+            "Hm…\\n",
             "It's raining heavily?\\p",
-            "Good\u2026 That should have happened.\\n",
+            "Good… That should have happened.\\n",
             "That is why we awakened KYOGRE,\\l",
             "to realize TEAM AQUA's vision of\\l",
             "expanding the sea.\\p",
             "What?!\\p",
             "It's raining far harder than we\\n",
             "envisioned? You're in danger?\\p",
-            "That can't be\u2026\\n",
-            "That's just not possible\u2026\\p",
+            "That can't be…\\n",
+            "That's just not possible…\\p",
             "Hold your position and monitor\\n",
             "the situation!"
         ]
@@ -7491,10 +7491,10 @@
     {
         "pointer": "SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear",
         "text": [
-            "ARCHIE: There's something wrong\u2026\\p",
+            "ARCHIE: There's something wrong…\\p",
             "The RED ORB is supposed to awaken\\n",
-            "and control KYOGRE\u2026\\p",
-            "But\u2026 Why?\\n",
+            "and control KYOGRE…\\p",
+            "But… Why?\\n",
             "Why did KYOGRE disappear?\\p",
             "Why?!"
         ]
@@ -7503,12 +7503,12 @@
         "pointer": "SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought",
         "text": [
             "MAXIE: What have you wrought?\\p",
-            "ARCHIE\u2026 You've finally awoken KYOGRE,\\n",
+            "ARCHIE… You've finally awoken KYOGRE,\\n",
             "haven't you?\\p",
             "What will happen to the world if this\\n",
             "downpour continues for all eternity?\\p",
             "The world's landmass will drown in\\n",
-            "the deepening sea\u2026"
+            "the deepening sea…"
         ]
     },
     {
@@ -7519,8 +7519,8 @@
             "Wasn't it you, TEAM MAGMA, that\\n",
             "infuriated GROUDON?\\p",
             "So long as I have this RED ORB,\\n",
-            "I should be able to control KYOGRE\u2026\\p",
-            "I should be able to control it\u2026"
+            "I should be able to control KYOGRE…\\p",
+            "I should be able to control it…"
         ]
     },
     {
@@ -7593,7 +7593,7 @@
             "You ruined our plans for SILPH!\\p",
             "But, TEAM ROCKET will never fall!\\p",
             "{PLAYER}! Never forget that all\\n",
-            "POK\u00e9MON exist for TEAM ROCKET!\\p",
+            "POKéMON exist for TEAM ROCKET!\\p",
             "I must go, but I shall return!"
         ]
     },
@@ -7607,7 +7607,7 @@
     {
         "pointer": "SilphCo_11F_Text_Grunt2Defeat",
         "text": [
-            "Don't\u2026\\n",
+            "Don't…\\n",
             "Please!"
         ]
     },
@@ -7634,8 +7634,8 @@
     {
         "pointer": "SilphCo_11F_Text_Grunt1PostBattle",
         "text": [
-            "Watch your step\u2026\\n",
-            "My BOSS likes his POK\u00e9MON tough!"
+            "Watch your step…\\n",
+            "My BOSS likes his POKéMON tough!"
         ]
     },
     {
@@ -7755,9 +7755,9 @@
     {
         "pointer": "SilphCo_3F_Text_JosePostBattle",
         "text": [
-            "Humph\u2026\\p",
+            "Humph…\\p",
             "TEAM ROCKET said that if I helped\\n",
-            "them, they'd let me study POK\u00e9MON."
+            "them, they'd let me study POKéMON."
         ]
     },
     {
@@ -7783,14 +7783,14 @@
     {
         "pointer": "SilphCo_4F_Text_RodneyIntro",
         "text": [
-            "My POK\u00e9MON is my loyal servant."
+            "My POKéMON is my loyal servant."
         ]
     },
     {
         "pointer": "SilphCo_4F_Text_RodneyDefeat",
         "text": [
             "Darn!\\n",
-            "You weak POK\u00e9MON!"
+            "You weak POKéMON!"
         ]
     },
     {
@@ -7843,7 +7843,7 @@
     {
         "pointer": "SilphCo_5F_Text_BeauIntro",
         "text": [
-            "We study POK\u00e9 BALL technology on\\n",
+            "We study POKé BALL technology on\\n",
             "this floor."
         ]
     },
@@ -7857,7 +7857,7 @@
     {
         "pointer": "SilphCo_5F_Text_BeauPostBattle",
         "text": [
-            "We worked on the ultimate POK\u00e9\\n",
+            "We worked on the ultimate POKé\\n",
             "BALL which would catch anything."
         ]
     },
@@ -7891,8 +7891,8 @@
     {
         "pointer": "SilphCo_5F_Text_Grunt2Defeat",
         "text": [
-            "Cough\u2026\\n",
-            "Cough\u2026"
+            "Cough…\\n",
+            "Cough…"
         ]
     },
     {
@@ -8069,7 +8069,7 @@
     {
         "pointer": "SilphCo_8F_Text_Grunt1PostBattle",
         "text": [
-            "If you don't turn back\u2026\\n",
+            "If you don't turn back…\\n",
             "I'll call for backup!"
         ]
     },
@@ -8116,7 +8116,7 @@
     {
         "pointer": "SilphCo_9F_Text_Grunt1Intro",
         "text": [
-            "Your POK\u00e9MON seem to adore you,\\n",
+            "Your POKéMON seem to adore you,\\n",
             "kid!"
         ]
     },
@@ -8130,13 +8130,13 @@
         "pointer": "SilphCo_9F_Text_Grunt1PostBattle",
         "text": [
             "If I had started as a TRAINER at\\n",
-            "your age\u2026"
+            "your age…"
         ]
     },
     {
         "pointer": "SilphCo_9F_Text_EdIntro",
         "text": [
-            "Your POK\u00e9MON have weak points!\\n",
+            "Your POKéMON have weak points!\\n",
             "I can nail them!"
         ]
     },
@@ -8176,7 +8176,7 @@
     {
         "pointer": "SixIsland_OutcastIsland_Text_RocketIntro",
         "text": [
-            "There're no rare POK\u00e9MON around\\n",
+            "There're no rare POKéMON around\\n",
             "these parts! Not a one!\\p",
             "That burns me up, man.\\n",
             "I'll take it out on you!"
@@ -8185,27 +8185,27 @@
     {
         "pointer": "SixIsland_OutcastIsland_Text_RocketDefeat",
         "text": [
-            "\u2026Huh?"
+            "…Huh?"
         ]
     },
     {
         "pointer": "SixIsland_OutcastIsland_Text_RocketPostBattle",
         "text": [
             "So listen, you haven't seen any\\n",
-            "rare POK\u00e9MON, have you?"
+            "rare POKéMON, have you?"
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_BethanyIntro",
         "text": [
             "I'm curious, how do you raise your\\n",
-            "POK\u00e9MON?"
+            "POKéMON?"
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_BethanyDefeat",
         "text": [
-            "You raise your POK\u00e9MON with a\\n",
+            "You raise your POKéMON with a\\n",
             "whole lot of love!"
         ]
     },
@@ -8214,14 +8214,14 @@
         "text": [
             "In the same way your mother raised\\n",
             "you full of love, you should raise\\l",
-            "your POK\u00e9MON."
+            "your POKéMON."
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_AllisonIntro",
         "text": [
             "I'm working to preserve the natural\\n",
-            "ecology of POK\u00e9MON here."
+            "ecology of POKéMON here."
         ]
     },
     {
@@ -8235,23 +8235,23 @@
         "pointer": "SixIsland_PatternBush_Text_AllisonPostBattle",
         "text": [
             "I'm not saying that you shouldn't\\n",
-            "catch POK\u00e9MON.\\p",
+            "catch POKéMON.\\p",
             "I just want people to raise their\\n",
-            "POK\u00e9MON responsibly."
+            "POKéMON responsibly."
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_GarretIntro",
         "text": [
-            "I caught a BUG POK\u00e9MON that lives\\n",
+            "I caught a BUG POKéMON that lives\\n",
             "only around here!"
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_GarretDefeat",
         "text": [
-            "Heheh\u2026\\n",
-            "Isn't my POK\u00e9MON awesome?"
+            "Heheh…\\n",
+            "Isn't my POKéMON awesome?"
         ]
     },
     {
@@ -8265,20 +8265,20 @@
         "pointer": "SixIsland_PatternBush_Text_JonahIntro",
         "text": [
             "You know, it just doesn't feel right\\n",
-            "if I don't use BUG POK\u00e9MON."
+            "if I don't use BUG POKéMON."
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_JonahDefeat",
         "text": [
             "It's okay, losing is a fun part of\\n",
-            "POK\u00e9MON's appeal, too."
+            "POKéMON's appeal, too."
         ]
     },
     {
         "pointer": "SixIsland_PatternBush_Text_JonahPostBattle",
         "text": [
-            "By the way, \u201cappeal\u201d is a weird\\n",
+            "By the way, “appeal” is a weird\\n",
             "word, if you think about it.\\p",
             "Like, is it like an orange peel?\\n",
             "Or like a ringing bell?"
@@ -8288,7 +8288,7 @@
         "pointer": "SixIsland_PatternBush_Text_VanceIntro",
         "text": [
             "Yeah, yeah, yeah!\\n",
-            "Look at all the BUG POK\u00e9MON!"
+            "Look at all the BUG POKéMON!"
         ]
     },
     {
@@ -8321,7 +8321,7 @@
     {
         "pointer": "SixIsland_PatternBush_Text_NashPostBattle",
         "text": [
-            "The funny patterns on the ground\u2026\\p",
+            "The funny patterns on the ground…\\p",
             "They look like the patterns on my\\n",
             "grandpa's clothes."
         ]
@@ -8344,7 +8344,7 @@
         "pointer": "SixIsland_PatternBush_Text_CordellPostBattle",
         "text": [
             "Ayup, you townies come around all\\n",
-            "so dandy with a hat that flashy\u2026\\p",
+            "so dandy with a hat that flashy…\\p",
             "How about giving me that?"
         ]
     },
@@ -8375,7 +8375,7 @@
     {
         "pointer": "SixIsland_PatternBush_Text_JoanaIntro",
         "text": [
-            "I love BUG POK\u00e9MON.\\n",
+            "I love BUG POKéMON.\\n",
             "That's why I'm here all the time.\\p",
             "Am I the only girl like that?"
         ]
@@ -8391,7 +8391,7 @@
         "pointer": "SixIsland_PatternBush_Text_JoanaPostBattle",
         "text": [
             "I'm going to keep on collecting\\n",
-            "BUG POK\u00e9MON.\\p",
+            "BUG POKéMON.\\p",
             "Am I the only girl like that?"
         ]
     },
@@ -8405,7 +8405,7 @@
     {
         "pointer": "SixIsland_PatternBush_Text_RileyDefeat",
         "text": [
-            "Wimped out\u2026"
+            "Wimped out…"
         ]
     },
     {
@@ -8432,7 +8432,7 @@
     {
         "pointer": "SixIsland_PatternBush_Text_MarcyPostBattle",
         "text": [
-            "A little cut like that\u2026\\n",
+            "A little cut like that…\\n",
             "A little spit's enough to cure it!"
         ]
     },
@@ -8469,8 +8469,8 @@
     {
         "pointer": "SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious",
         "text": [
-            "Oh, man, what a disaster\u2026\\n",
-            "The BOSS is going to be furious\u2026"
+            "Oh, man, what a disaster…\\n",
+            "The BOSS is going to be furious…"
         ]
     },
     {
@@ -8512,19 +8512,19 @@
             "And I am TEAM AQUA's leader,\\n",
             "ARCHIE!\\p",
             "What makes you interfere with us?\\p",
-            "\u2026No! You can't be!\\n",
+            "…No! You can't be!\\n",
             "You're not one of TEAM MAGMA?\\p",
             "Wait, that can't be right.\\n",
             "You're not dressed for the part.\\p",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\n",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
-            "POK\u00e9MON, people\u2026 All life depends on\\n",
+            "… … … … … …\\n",
+            "… … … … … …\\p",
+            "POKéMON, people… All life depends on\\n",
             "the sea.\\p",
             "So, TEAM AQUA is dedicated to\\n",
             "the expansion of the sea.\\p",
             "Don't you agree? What we are doing\\n",
             "is a magnificent undertaking.\\p",
-            "Ah, fine\u2026\\n",
+            "Ah, fine…\\n",
             "You're still too young to understand\\l",
             "our noble objective.\\p",
             "But, I warn you, don't even consider\\n",
@@ -8537,8 +8537,8 @@
     {
         "pointer": "SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs",
         "text": [
-            "CAPT. STERN: You're\u2026\\n",
-            "Ah, okay, you're {PLAYER}{KUN}\u2026\\p",
+            "CAPT. STERN: You're…\\n",
+            "Ah, okay, you're {PLAYER}{KUN}…\\p",
             "Anyway, that was a tense situation!\\n",
             "Thank you for saving us!\\p",
             "Oh, yes, I almost forgot that you\\n",
@@ -8565,7 +8565,7 @@
             "Did you know?\\l",
             "Ah, I should not be so coy.\\p",
             "It was I who taught WALLACE everything\\n",
-            "there is to know about POK\u00e9MON.\\p",
+            "there is to know about POKéMON.\\p",
             "Once, I had given up my position as\\n",
             "the GYM LEADER.\\p",
             "In my place, I had entrusted WALLACE\\n",
@@ -8577,7 +8577,7 @@
             "Please, you shall bear witness to\\n",
             "our artistry.\\p",
             "A grand illusion of water sculpted\\n",
-            "by POK\u00e9MON and myself!"
+            "by POKéMON and myself!"
         ]
     },
     {
@@ -8591,8 +8591,8 @@
             "WALLACE, you are lacking in elegance.\\p",
             "Perhaps I should make you a loan\\n",
             "of my outfit?\\p",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\n",
-            "\u2026 \u2026 \u2026 \u2026 \u2026 \u2026\\p",
+            "… … … … … …\\n",
+            "… … … … … …\\p",
             "Hahaha, I merely jest!\\p",
             "Rather than my clothes, I shall reward\\n",
             "you with this, the RAIN BADGE!"
@@ -8604,10 +8604,10 @@
             "The TRAINERS who have gathered all\\n",
             "the GYM BADGES of HOENN should make\\l",
             "way to the ultimate destination.\\p",
-            "The POK\u00e9MON LEAGUE.\\p",
+            "The POKéMON LEAGUE.\\p",
             "Travel to the easternmost reaches\\n",
             "of HOENN, to the island EVER GRANDE.\\p",
-            "There, you shall find the POK\u00e9MON\\n",
+            "There, you shall find the POKéMON\\n",
             "LEAGUE."
         ]
     },
@@ -8615,7 +8615,7 @@
         "pointer": "SootopolisCity_Gym_1F_Text_JuanPreRematch",
         "text": [
             "JUAN: Ah, this GYM had returned to its\\n",
-            "usual state of serenity\u2026\\p",
+            "usual state of serenity…\\p",
             "But our young typhoon has returned\\n",
             "to put us to the test again!\\p",
             "Well, my friend, most certainly!\\p",
@@ -8653,7 +8653,7 @@
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_AndreaDefeat",
         "text": [
-            "Please forgive me, JUAN\u2026"
+            "Please forgive me, JUAN…"
         ]
     },
     {
@@ -8689,7 +8689,7 @@
         "pointer": "SootopolisCity_Gym_B1F_Text_DaphneIntro",
         "text": [
             "The sight of JUAN conducting\\n",
-            "a battle\u2026\\p",
+            "a battle…\\p",
             "The very beauty of it compelled me to\\n",
             "become a TRAINER."
         ]
@@ -8698,7 +8698,7 @@
         "pointer": "SootopolisCity_Gym_B1F_Text_DaphneDefeat",
         "text": [
             "You battled with more beauty than\\n",
-            "I could muster\u2026"
+            "I could muster…"
         ]
     },
     {
@@ -8706,8 +8706,8 @@
         "text": [
             "The grace you bring to battle is\\n",
             "fabulous.\\p",
-            "Oh\u2026 I'm so fortunate to have found\\n",
-            "POK\u00e9MON."
+            "Oh… I'm so fortunate to have found\\n",
+            "POKéMON."
         ]
     },
     {
@@ -8735,8 +8735,8 @@
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_BridgetIntro",
         "text": [
-            "The POK\u00e9MON GYM of the highest level\\n",
-            "in the HOENN region\u2026\\p",
+            "The POKéMON GYM of the highest level\\n",
+            "in the HOENN region…\\p",
             "That's the SOOTOPOLIS GYM."
         ]
     },
@@ -8758,7 +8758,7 @@
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_OliviaIntro",
         "text": [
-            "I train my POK\u00e9MON together with\\n",
+            "I train my POKéMON together with\\n",
             "JUAN.\\p",
             "Don't think I'm a pushover."
         ]
@@ -8766,7 +8766,7 @@
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_OliviaDefeat",
         "text": [
-            "I was beaten\u2026"
+            "I was beaten…"
         ]
     },
     {
@@ -8780,7 +8780,7 @@
         "pointer": "SootopolisCity_Gym_B1F_Text_TiffanyIntro",
         "text": [
             "A graceful glide across the ice while\\n",
-            "crossing no lines\u2026\\p",
+            "crossing no lines…\\p",
             "A TRAINER putting on that performance\\n",
             "would be elegantly beautiful!"
         ]
@@ -8802,8 +8802,8 @@
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_BethanyIntro",
         "text": [
-            "When I'm with my POK\u00e9MON, the time\\n",
-            "flies by before you can say, \u201cOops!\u201d"
+            "When I'm with my POKéMON, the time\\n",
+            "flies by before you can say, “Oops!”"
         ]
     },
     {
@@ -8816,13 +8816,13 @@
         "pointer": "SootopolisCity_Gym_B1F_Text_BethanyPostBattle",
         "text": [
             "I wish I could forget about lost causes\\n",
-            "before I can manage an \u201cOops!\u201d"
+            "before I can manage an “Oops!”"
         ]
     },
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_AnnikaIntro",
         "text": [
-            "I can battle with really rare POK\u00e9MON\\n",
+            "I can battle with really rare POKéMON\\n",
             "if you'd like."
         ]
     },
@@ -8830,22 +8830,22 @@
         "pointer": "SootopolisCity_Gym_B1F_Text_AnnikaDefeat",
         "text": [
             "Oh, there now! Did you have a good look\\n",
-            "at my POK\u00e9MON?"
+            "at my POKéMON?"
         ]
     },
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_AnnikaPostBattle",
         "text": [
             "I came to this GYM because JUAN\\n",
-            "praised me for my darling POK\u00e9MON.\\p",
+            "praised me for my darling POKéMON.\\p",
             "Oh, if only I'd met JUAN years ago\\n",
-            "when I was younger\u2026"
+            "when I was younger…"
         ]
     },
     {
         "pointer": "SootopolisCity_Gym_B1F_Text_BriannaIntro",
         "text": [
-            "Giggle\u2026\\n",
+            "Giggle…\\n",
             "Your grim look is so charming."
         ]
     },
@@ -8860,13 +8860,13 @@
         "pointer": "SootopolisCity_Gym_B1F_Text_BriannaPostBattle",
         "text": [
             "You couldn't lay a finger on JUAN,\\n",
-            "I'm sure. Giggle\u2026"
+            "I'm sure. Giggle…"
         ]
     },
     {
         "pointer": "SSAnne_1F_Room2_Text_TylerIntro",
         "text": [
-            "I love POK\u00e9MON!\\n",
+            "I love POKéMON!\\n",
             "Do you?"
         ]
     },
@@ -8882,14 +8882,14 @@
         "text": [
             "Listen, listen!\\n",
             "Let me be your friend, okay?\\p",
-            "Then we can trade POK\u00e9MON and\\n",
+            "Then we can trade POKéMON and\\n",
             "do stuff."
         ]
     },
     {
         "pointer": "SSAnne_1F_Room2_Text_AnnIntro",
         "text": [
-            "I collected these POK\u00e9MON\\n",
+            "I collected these POKéMON\\n",
             "from all around the world!"
         ]
     },
@@ -8903,9 +8903,9 @@
     {
         "pointer": "SSAnne_1F_Room2_Text_AnnPostBattle",
         "text": [
-            "You hurt my poor POK\u00e9MON!\\p",
+            "You hurt my poor POKéMON!\\p",
             "I demand that you heal them at a\\n",
-            "POK\u00e9MON CENTER!"
+            "POKéMON CENTER!"
         ]
     },
     {
@@ -8932,15 +8932,15 @@
     {
         "pointer": "SSAnne_1F_Room7_Text_ThomasIntro",
         "text": [
-            "I am but a solitary traveler\u2026\\p",
+            "I am but a solitary traveler…\\p",
             "My sole companions and friends are\\n",
-            "POK\u00e9MON I caught on my journeys\u2026"
+            "POKéMON I caught on my journeys…"
         ]
     },
     {
         "pointer": "SSAnne_1F_Room7_Text_ThomasDefeat",
         "text": [
-            "My, my friends\u2026"
+            "My, my friends…"
         ]
     },
     {
@@ -8954,7 +8954,7 @@
         "text": [
             "Humph!\\p",
             "At least you're raising your\\n",
-            "POK\u00e9MON!"
+            "POKéMON!"
         ]
     },
     {
@@ -9002,7 +9002,7 @@
         "pointer": "SSAnne_2F_Room4_Text_LamarIntro",
         "text": [
             "Which do you find more worthy,\\n",
-            "a strong or a rare POK\u00e9MON?"
+            "a strong or a rare POKéMON?"
         ]
     },
     {
@@ -9015,7 +9015,7 @@
         "pointer": "SSAnne_2F_Room4_Text_LamarPostBattle",
         "text": [
             "Personally, I prefer strong and\\n",
-            "rare POK\u00e9MON."
+            "rare POKéMON."
         ]
     },
     {
@@ -9034,7 +9034,7 @@
     {
         "pointer": "SSAnne_2F_Room4_Text_DawnPostBattle",
         "text": [
-            "Oh, I adore your strong POK\u00e9MON!\\n",
+            "Oh, I adore your strong POKéMON!\\n",
             "Oh, how I envy you for them!"
         ]
     },
@@ -9056,7 +9056,7 @@
         "pointer": "SSAnne_B1F_Room1_Text_PhillipPostBattle",
         "text": [
             "When we're out at sea, jellyfish\\n",
-            "POK\u00e9MON sometimes drift by."
+            "POKéMON sometimes drift by."
         ]
     },
     {
@@ -9065,7 +9065,7 @@
             "Hello, stranger!\\p",
             "I can't tell if you're from the seas\\n",
             "or mountains, but stop and chat.\\p",
-            "All my POK\u00e9MON are from the sea."
+            "All my POKéMON are from the sea."
         ]
     },
     {
@@ -9085,7 +9085,7 @@
     {
         "pointer": "SSAnne_B1F_Room2_Text_HueyIntro",
         "text": [
-            "Even us sailors have POK\u00e9MON, too!"
+            "Even us sailors have POKéMON, too!"
         ]
     },
     {
@@ -9097,7 +9097,7 @@
     {
         "pointer": "SSAnne_B1F_Room2_Text_HueyPostBattle",
         "text": [
-            "We caught all our POK\u00e9MON while\\n",
+            "We caught all our POKéMON while\\n",
             "we were out at sea."
         ]
     },
@@ -9117,7 +9117,7 @@
     {
         "pointer": "SSAnne_B1F_Room3_Text_DylanPostBattle",
         "text": [
-            "Sea POK\u00e9MON live in deep water.\\n",
+            "Sea POKéMON live in deep water.\\n",
             "You'll need a ROD to fish them up!"
         ]
     },
@@ -9178,7 +9178,7 @@
     {
         "pointer": "SSAnne_Deck_Text_EdmondPostBattle",
         "text": [
-            "How many kinds of POK\u00e9MON do you\\n",
+            "How many kinds of POKéMON do you\\n",
             "think there are in this big world?"
         ]
     },
@@ -9199,7 +9199,7 @@
         "pointer": "SSAnne_Deck_Text_TrevorPostBattle",
         "text": [
             "My pa said there are 100 kinds of\\n",
-            "POK\u00e9MON. I think there are more."
+            "POKéMON. I think there are more."
         ]
     },
     {
@@ -9229,7 +9229,7 @@
         "text": [
             "This is the bottom of the ship's hull.\\n",
             "There's plenty of room.\\l",
-            "It'll be alright for a POK\u00e9MON battle."
+            "It'll be alright for a POKéMON battle."
         ]
     },
     {
@@ -9264,7 +9264,7 @@
         "pointer": "SSTidalRooms_Text_ColtonPostBattle",
         "text": [
             "I get so excited imagining what kinds\\n",
-            "of POK\u00e9MON I'll get to see in the next\\l",
+            "of POKéMON I'll get to see in the next\\l",
             "CONTEST. The anticipation of it thrills!"
         ]
     },
@@ -9284,13 +9284,13 @@
         "pointer": "SSTidalRooms_Text_MicahPostBattle",
         "text": [
             "Friends need not be human.\\n",
-            "For me, POK\u00e9MON are treasured friends!"
+            "For me, POKéMON are treasured friends!"
         ]
     },
     {
         "pointer": "SSTidalRooms_Text_ThomasIntro",
         "text": [
-            "Child\u2026\\n",
+            "Child…\\n",
             "Did you knock on the door?"
         ]
     },
@@ -9311,14 +9311,14 @@
     {
         "pointer": "SSTidalRooms_Text_JedIntro",
         "text": [
-            "JED: I feel a little shy about this, but\u2026\\n",
+            "JED: I feel a little shy about this, but…\\n",
             "We'll show you our lovey-dovey power!"
         ]
     },
     {
         "pointer": "SSTidalRooms_Text_JedDefeat",
         "text": [
-            "JED: Sigh\u2026"
+            "JED: Sigh…"
         ]
     },
     {
@@ -9332,7 +9332,7 @@
     {
         "pointer": "SSTidalRooms_Text_LeaIntro",
         "text": [
-            "LEA: I feel a little silly, but\u2026\\n",
+            "LEA: I feel a little silly, but…\\n",
             "We'll show you our lovey-dovey power!"
         ]
     },
@@ -9346,7 +9346,7 @@
         "pointer": "SSTidalRooms_Text_LeaPostBattle",
         "text": [
             "LEA: I can't believe it!\\n",
-            "Our lovey-dovey power failed\u2026\\l",
+            "Our lovey-dovey power failed…\\l",
             "You must be an awesome TRAINER!"
         ]
     },
@@ -9361,7 +9361,7 @@
     {
         "pointer": "SSTidalRooms_Text_GarretDefeat",
         "text": [
-            "\u2026That will do."
+            "…That will do."
         ]
     },
     {
@@ -9369,7 +9369,7 @@
         "text": [
             "Perhaps I shall get Father to acquire\\n",
             "a yacht for me.\\l",
-            "A yacht for me and POK\u00e9MON!"
+            "A yacht for me and POKéMON!"
         ]
     },
     {
@@ -9391,7 +9391,7 @@
         "pointer": "SSTidalRooms_Text_NaomiPostBattle",
         "text": [
             "A world cruise on a luxury liner has its\\n",
-            "charms, I must say\u2026\\p",
+            "charms, I must say…\\p",
             "But, I will admit there is an appealing\\n",
             "side to touring HOENN by ferry."
         ]
@@ -9399,14 +9399,14 @@
     {
         "pointer": "ThreeIsland_Text_Biker1Defeat",
         "text": [
-            "Wha\u2026\\n",
+            "Wha…\\n",
             "What is this kid?!"
         ]
     },
     {
         "pointer": "ThreeIsland_Text_Biker1PostBattle",
         "text": [
-            "Aww, man\u2026\\n",
+            "Aww, man…\\n",
             "Don't you dare laugh!"
         ]
     },
@@ -9442,7 +9442,7 @@
     {
         "pointer": "ThreeIsland_Text_Biker3Defeat",
         "text": [
-            "\u2026 \u2026 \u2026   \u2026 \u2026 \u2026"
+            "… … …   … … …"
         ]
     },
     {
@@ -9486,7 +9486,7 @@
             "doing here?\\p",
             "You won't live long in combat!\\n",
             "Not with your puny power!\\p",
-            "I tell you, kid, electric POK\u00e9MON\\n",
+            "I tell you, kid, electric POKéMON\\n",
             "saved me during the war!\\p",
             "They zapped my enemies into\\n",
             "paralysis!\\p",
@@ -9499,7 +9499,7 @@
             "A little word of advice, kid!\\p",
             "Electricity is sure powerful!\\p",
             "But, it's useless against GROUND-\\n",
-            "type POK\u00e9MON!"
+            "type POKéMON!"
         ]
     },
     {
@@ -9601,7 +9601,7 @@
             "WALLY: Hi! {PLAYER}!\\p",
             "I've gotten stronger since that last\\n",
             "time! I wanted to show you, {PLAYER}!\\p",
-            "Okay\u2026 Here I come!"
+            "Okay… Here I come!"
         ]
     },
     {
@@ -9615,22 +9615,22 @@
         "pointer": "VictoryRoad_1F_Text_WallyPostBattle",
         "text": [
             "WALLY: I couldn't beat you this time,\\n",
-            "too\u2026 But one of these days, {PLAYER},\\l",
-            "I'm going to catch up to you\u2026\\p",
-            "And challenge the POK\u00e9MON LEAGUE!"
+            "too… But one of these days, {PLAYER},\\l",
+            "I'm going to catch up to you…\\p",
+            "And challenge the POKéMON LEAGUE!"
         ]
     },
     {
         "pointer": "VictoryRoad_1F_Text_EdgarIntro",
         "text": [
             "I've made it this far a couple times,\\n",
-            "but the last stretch is so long\u2026"
+            "but the last stretch is so long…"
         ]
     },
     {
         "pointer": "VictoryRoad_1F_Text_EdgarDefeat",
         "text": [
-            "My dream ends here again\u2026"
+            "My dream ends here again…"
         ]
     },
     {
@@ -9651,16 +9651,16 @@
     {
         "pointer": "VictoryRoad_1F_Text_AlbertDefeat",
         "text": [
-            "Impossible\u2026\\n",
+            "Impossible…\\n",
             "I lost?"
         ]
     },
     {
         "pointer": "VictoryRoad_1F_Text_AlbertPostBattle",
         "text": [
-            "I lost here\u2026\\p",
+            "I lost here…\\p",
             "That means I lack the qualifications\\n",
-            "to become the CHAMPION\u2026"
+            "to become the CHAMPION…"
         ]
     },
     {
@@ -9673,7 +9673,7 @@
     {
         "pointer": "VictoryRoad_1F_Text_HopeDefeat",
         "text": [
-            "Your battle style is fantastic\u2026"
+            "Your battle style is fantastic…"
         ]
     },
     {
@@ -9702,7 +9702,7 @@
         "text": [
             "Getting through here safely--that's\\n",
             "the final test for any TRAINER aiming\\l",
-            "to become the POK\u00e9MON CHAMPION.\\p",
+            "to become the POKéMON CHAMPION.\\p",
             "That's why it's called the VICTORY\\n",
             "ROAD."
         ]
@@ -9717,7 +9717,7 @@
     {
         "pointer": "VictoryRoad_1F_Text_KatelynnDefeat",
         "text": [
-            "This is a disgrace\u2026"
+            "This is a disgrace…"
         ]
     },
     {
@@ -9737,14 +9737,14 @@
     {
         "pointer": "VictoryRoad_1F_Text_NaomiDefeat",
         "text": [
-            "I lost out\u2026"
+            "I lost out…"
         ]
     },
     {
         "pointer": "VictoryRoad_1F_Text_NaomiPostBattle",
         "text": [
             "I never wanted to lose to anybody,\\n",
-            "especially to a younger kid\u2026"
+            "especially to a younger kid…"
         ]
     },
     {
@@ -9757,7 +9757,7 @@
     {
         "pointer": "VictoryRoad_1F_Text_RolandoDefeat",
         "text": [
-            "I had a chance\u2026"
+            "I had a chance…"
         ]
     },
     {
@@ -9785,7 +9785,7 @@
         "pointer": "VictoryRoad_2F_Text_DawsonPostBattle",
         "text": [
             "I can beat you when it comes to\\n",
-            "knowledge about POK\u00e9MON!"
+            "knowledge about POKéMON!"
         ]
     },
     {
@@ -9844,7 +9844,7 @@
         "pointer": "VictoryRoad_2F_Text_VincentPostBattle",
         "text": [
             "You earned the right to be on\\n",
-            "VICTORY ROAD\u2026"
+            "VICTORY ROAD…"
         ]
     },
     {
@@ -9923,7 +9923,7 @@
         "pointer": "VictoryRoad_3F_Text_CarolinePostBattle",
         "text": [
             "You showed me just how good\\n",
-            "I was\u2026"
+            "I was…"
         ]
     },
     {
@@ -9942,7 +9942,7 @@
         "pointer": "VictoryRoad_3F_Text_ColbyPostBattle",
         "text": [
             "All TRAINERS here are headed to\\n",
-            "the POK\u00e9MON LEAGUE.\\p",
+            "the POKéMON LEAGUE.\\p",
             "Don't let down your guard."
         ]
     },
@@ -9964,7 +9964,7 @@
         "pointer": "VictoryRoad_3F_Text_RayPostBattle",
         "text": [
             "RAY: You've beaten us.\\n",
-            "Greatness remains elusive\u2026"
+            "Greatness remains elusive…"
         ]
     },
     {
@@ -9977,7 +9977,7 @@
     {
         "pointer": "VictoryRoad_3F_Text_TyraDefeat",
         "text": [
-            "TYRA: Oh, but\u2026"
+            "TYRA: Oh, but…"
         ]
     },
     {
@@ -9991,29 +9991,29 @@
         "pointer": "VictoryRoad_B1F_Text_SamuelIntro",
         "text": [
             "The thought that I'm getting closer to\\n",
-            "the POK\u00e9MON LEAGUE\u2026\\p",
-            "I'm getting stage fright\u2026"
+            "the POKéMON LEAGUE…\\p",
+            "I'm getting stage fright…"
         ]
     },
     {
         "pointer": "VictoryRoad_B1F_Text_SamuelDefeat",
         "text": [
-            "I couldn't do a thing\u2026"
+            "I couldn't do a thing…"
         ]
     },
     {
         "pointer": "VictoryRoad_B1F_Text_SamuelPostBattle",
         "text": [
-            "The POK\u00e9MON LEAGUE became distant\\n",
-            "again\u2026 What a letdown\u2026"
+            "The POKéMON LEAGUE became distant\\n",
+            "again… What a letdown…"
         ]
     },
     {
         "pointer": "VictoryRoad_B1F_Text_ShannonIntro",
         "text": [
-            "To win your way through the POK\u00e9MON\\n",
+            "To win your way through the POKéMON\\n",
             "LEAGUE, you need the trust of your\\l",
-            "POK\u00e9MON."
+            "POKéMON."
         ]
     },
     {
@@ -10027,14 +10027,14 @@
         "pointer": "VictoryRoad_B1F_Text_ShannonPostBattle",
         "text": [
             "By being together all the time, trust\\n",
-            "grows between POK\u00e9MON and TRAINERS."
+            "grows between POKéMON and TRAINERS."
         ]
     },
     {
         "pointer": "VictoryRoad_B1F_Text_MichelleIntro",
         "text": [
             "This isn't the goal. It's only a place\\n",
-            "on the way to the POK\u00e9MON LEAGUE."
+            "on the way to the POKéMON LEAGUE."
         ]
     },
     {
@@ -10047,13 +10047,13 @@
         "pointer": "VictoryRoad_B1F_Text_MichellePostBattle",
         "text": [
             "You'll do fine, for sure!\\n",
-            "Your POK\u00e9MON are all eager to go!"
+            "Your POKéMON are all eager to go!"
         ]
     },
     {
         "pointer": "VictoryRoad_B1F_Text_MitchellIntro",
         "text": [
-            "My POK\u00e9MON are cosmically\\n",
+            "My POKéMON are cosmically\\n",
             "awe inspiring!"
         ]
     },
@@ -10068,7 +10068,7 @@
         "text": [
             "Even outside of battle, I sense\\n",
             "incredible power emanating from you\\l",
-            "and your POK\u00e9MON."
+            "and your POKéMON."
         ]
     },
     {
@@ -10114,9 +10114,9 @@
         "pointer": "VictoryRoad_B2F_Text_VitoPostBattle",
         "text": [
             "I was better than everyone in my\\n",
-            "family. I've never lost before\u2026\\p",
-            "I've lost my confidence\u2026\\n",
-            "Maybe I'll go home\u2026"
+            "family. I've never lost before…\\p",
+            "I've lost my confidence…\\n",
+            "Maybe I'll go home…"
         ]
     },
     {
@@ -10154,7 +10154,7 @@
     {
         "pointer": "VictoryRoad_B2F_Text_CarolinePostBattle",
         "text": [
-            "VICTORY ROAD and the POK\u00e9MON LEAGUE\\n",
+            "VICTORY ROAD and the POKéMON LEAGUE\\n",
             "are long and grueling challenges.\\l",
             "Beware of fatigue!"
         ]
@@ -10185,21 +10185,21 @@
         "pointer": "VictoryRoad_B2F_Text_FelixIntro",
         "text": [
             "I've come this far, but the tension's\\n",
-            "giving me awful stomach pain\u2026"
+            "giving me awful stomach pain…"
         ]
     },
     {
         "pointer": "VictoryRoad_B2F_Text_FelixDefeat",
         "text": [
-            "Ooh\u2026\\n",
-            "It hurts\u2026"
+            "Ooh…\\n",
+            "It hurts…"
         ]
     },
     {
         "pointer": "VictoryRoad_B2F_Text_FelixPostBattle",
         "text": [
             "I can't help getting all tense knowing\\n",
-            "that I'm nearing the POK\u00e9MON LEAGUE.\\p",
+            "that I'm nearing the POKéMON LEAGUE.\\p",
             "It's all I can do to feign calm."
         ]
     },
@@ -10227,7 +10227,7 @@
     {
         "pointer": "ViridianCavern_Text_RickIntro",
         "text": [
-            "Hey! You have POK\u00e9MON!\\n",
+            "Hey! You have POKéMON!\\n",
             "Come on!\\l",
             "Let's battle 'em!"
         ]
@@ -10285,13 +10285,13 @@
     {
         "pointer": "ViridianCavern_Text_AnthonyPostBattle",
         "text": [
-            "I lost some of my allowance\u2026"
+            "I lost some of my allowance…"
         ]
     },
     {
         "pointer": "ViridianCavern_Text_CharlieIntro",
         "text": [
-            "Did you know that POK\u00e9MON evolve?"
+            "Did you know that POKéMON evolve?"
         ]
     },
     {
@@ -10304,7 +10304,7 @@
     {
         "pointer": "ViridianCavern_Text_CharliePostBattle",
         "text": [
-            "ROCK POK\u00e9MON are sturdy.\\n",
+            "ROCK POKéMON are sturdy.\\n",
             "They're a lot of fun!"
         ]
     },
@@ -10313,14 +10313,14 @@
         "text": [
             "Yo!\\n",
             "You can't jam out if you're a\\l",
-            "POK\u00e9MON TRAINER!"
+            "POKéMON TRAINER!"
         ]
     },
     {
         "pointer": "ViridianCavern_Text_DougDefeat",
         "text": [
             "Huh?\\n",
-            "I ran out of POK\u00e9MON!"
+            "I ran out of POKéMON!"
         ]
     },
     {
@@ -10411,7 +10411,7 @@
     {
         "pointer": "ViridianCity_Gym_Text_JasonIntro",
         "text": [
-            "POK\u00e9MON and I, we make wonderful\\n",
+            "POKéMON and I, we make wonderful\\n",
             "music together!"
         ]
     },
@@ -10444,8 +10444,8 @@
     {
         "pointer": "ViridianCity_Gym_Text_KiyoPostBattle",
         "text": [
-            "If my POK\u00e9MON were as good at\\n",
-            "karate as I\u2026"
+            "If my POKéMON were as good at\\n",
+            "karate as I…"
         ]
     },
     {
@@ -10464,7 +10464,7 @@
         "pointer": "ViridianCity_Gym_Text_WarrenPostBattle",
         "text": [
             "The LEADER will scold me for\\n",
-            "losing this way\u2026"
+            "losing this way…"
         ]
     },
     {
@@ -10483,14 +10483,14 @@
     {
         "pointer": "ViridianCity_Gym_Text_TakashiPostBattle",
         "text": [
-            "The POK\u00e9MON LEAGUE?\\n",
+            "The POKéMON LEAGUE?\\n",
             "You? Don't get cocky!"
         ]
     },
     {
         "pointer": "ViridianCity_Gym_Text_ColeIntro",
         "text": [
-            "Your POK\u00e9MON will cower at the\\n",
+            "Your POKéMON will cower at the\\n",
             "crack of my whip!"
         ]
     },
@@ -10525,7 +10525,7 @@
     {
         "pointer": "ViridianCity_Gym_Text_SamuelPostBattle",
         "text": [
-            "You can go on to the POK\u00e9MON\\n",
+            "You can go on to the POKéMON\\n",
             "LEAGUE only by defeating our GYM\\l",
             "LEADER!"
         ]
@@ -10533,7 +10533,7 @@
     {
         "pointer": "ViridianForest_Text_RickIntro",
         "text": [
-            "Hey! You have POK\u00e9MON!\\n",
+            "Hey! You have POKéMON!\\n",
             "Come on!\\l",
             "Let's battle 'em!"
         ]
@@ -10556,14 +10556,14 @@
         "text": [
             "Yo!\\n",
             "You can't jam out if you're a\\l",
-            "POK\u00e9MON TRAINER!"
+            "POKéMON TRAINER!"
         ]
     },
     {
         "pointer": "ViridianForest_Text_DougDefeat",
         "text": [
             "Huh?\\n",
-            "I ran out of POK\u00e9MON!"
+            "I ran out of POKéMON!"
         ]
     },
     {
@@ -10613,13 +10613,13 @@
     {
         "pointer": "ViridianForest_Text_AnthonyPostBattle",
         "text": [
-            "I lost some of my allowance\u2026"
+            "I lost some of my allowance…"
         ]
     },
     {
         "pointer": "ViridianForest_Text_CharlieIntro",
         "text": [
-            "Did you know that POK\u00e9MON evolve?"
+            "Did you know that POKéMON evolve?"
         ]
     },
     {
@@ -10632,7 +10632,7 @@
     {
         "pointer": "ViridianForest_Text_CharliePostBattle",
         "text": [
-            "BUG POK\u00e9MON evolve quickly.\\n",
+            "BUG POKéMON evolve quickly.\\n",
             "They're a lot of fun!"
         ]
     }
