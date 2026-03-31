@@ -23,7 +23,7 @@ PalletTown_PlayersHouse_1F_EventScript_Mom::
 # 12 "data/maps/PalletTown_PlayersHouse_1F_Frlg/scripts.pory"
 	closemessage
 # 13 "data/maps/PalletTown_PlayersHouse_1F_Frlg/scripts.pory"
-	applymovement LOCALID_MOM, Common_Movement_FaceOriginalDirection
+	applymovement LOCALID_PLAYERS_HOUSE_1F_MOM, Common_Movement_FaceOriginalDirection
 # 14 "data/maps/PalletTown_PlayersHouse_1F_Frlg/scripts.pory"
 	waitmovement 0
 # 15 "data/maps/PalletTown_PlayersHouse_1F_Frlg/scripts.pory"
