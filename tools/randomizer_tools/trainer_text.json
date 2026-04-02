@@ -36,6 +36,10 @@
         "DAN: We can't find any treasures…\\n",
         "I wonder if someone got them already?"
     ],
+    "AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons": [
+        "DAN: You don't even have two POKéMON.\\n",
+        "You can't expect to beat us like that."
+    ],
     "AbandonedShip_Rooms2_1F_Text_KiraIntro": [
         "KIRA: Oh?\\n",
         "We were searching for treasures.\\l",
@@ -48,6 +52,10 @@
         "KIRA: Where could the treasures be?\\p",
         "I've already decided what I'm buying\\n",
         "when we find the treasures!"
+    ],
+    "AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons": [
+        "KIRA: Oh, you don't have two POKéMON?\\n",
+        "We'll have to battle some other time!"
     ],
     "AbandonedShip_Rooms2_1F_Text_DanRematchIntro": [
         "DAN: We've been searching for\\n",
@@ -64,6 +72,10 @@
         "I want to go home… But if I say that,\\n",
         "she gets all angry with me…"
     ],
+    "AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons": [
+        "DAN: You don't even have two POKéMON.\\n",
+        "You can't expect to beat us like that."
+    ],
     "AbandonedShip_Rooms2_1F_Text_KiraRematchIntro": [
         "KIRA: Oh? We meet again!\\p",
         "Just like us, you still haven't given up\\n",
@@ -78,6 +90,10 @@
         "KIRA: We're not leaving until we raise\\n",
         "our POKéMON some more and we find\\l",
         "the treasures here!"
+    ],
+    "AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons": [
+        "KIRA: Oh, you don't have two POKéMON?\\n",
+        "We'll have to battle some other time!"
     ],
     "AbandonedShip_Rooms2_1F_Text_JaniIntro": [
         "I'm not good at swimming,\\n",
@@ -623,6 +639,10 @@
         "How'd this happen?\\n",
         "It's not like me to lose this way!"
     ],
+    "DewfordTown_Gym_Text_BrendenPostBattle": [
+        "Oh, aye! You're worthy of seeing\\n",
+        "our GYM LEADER."
+    ],
     "DewfordTown_Gym_Text_CristianIntro": [
         "If you mean to pass, it has to be\\n",
         "through me!"
@@ -672,6 +692,16 @@
         "BRAWLY: Battling is vast and it's deep.\\n",
         "You can't see the bottom.\\l",
         "It's just like the sea of HOENN!"
+    ],
+    "DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons": [
+        "BRAWLY: A wave may draw back, but it\\n",
+        "always returns to the shore.\\p",
+        "A giant wave of a talent like you…\\n",
+        "I knew you would return!\\p",
+        "Oh? You only have one POKéMON\\n",
+        "that can battle.\\p",
+        "I'm sorry, but I'd like you to come back\\n",
+        "with at least two POKéMON."
     ],
     "EverGrandeCity_ChampionsRoom_Text_Defeat": [
         "I, the CHAMPION, fall in defeat…\\p",
@@ -1001,6 +1031,20 @@
         "I can rise and soar again and\\n",
         "yet again.\\p",
         "I am convinced of it!"
+    ],
+    "FortreeCity_Gym_Text_WinonaRematchNeedTwoMons": [
+        "WINONA: We humans can never escape\\n",
+        "gravity's pull on the ground.\\p",
+        "But by striving for excellence,\\n",
+        "we have the power to soar!\\p",
+        "You have scaled the pinnacle as\\n",
+        "the reigning CHAMPION.\\p",
+        "Please, allow me to see your power\\n",
+        "at full flight!\\p",
+        "Oh, no… Do you have but one\\n",
+        "POKéMON with you?\\p",
+        "Please return with two POKéMON\\n",
+        "at the very least."
     ],
     "FourIsland_IcefallCave_Back_Text_GruntDefeat": [
         "We didn't plan on this!"
@@ -1333,6 +1377,19 @@
         "this heated.\\p",
         "Let's have another one like this\\n",
         "again sometime!"
+    ],
+    "LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons": [
+        "FLANNERY: Losing a battle isn't going\\n",
+        "to deflate me.\\p",
+        "I love POKéMON.\\n",
+        "I love to battle.\\l",
+        "And… I love this GYM!\\p",
+        "Let's exchange superhot moves\\n",
+        "in another battle!\\p",
+        "Oh, wait. Do you only have one POKéMON\\n",
+        "that can battle?\\p",
+        "I hate to say this, but when you come\\n",
+        "see me, bring at least two POKéMON."
     ],
     "LilycoveCity_Text_MayDefeat": [
         "… … … … … … … …\\p",
@@ -1743,6 +1800,16 @@
         "So, come back again sometime,\\n",
         "won't you?"
     ],
+    "MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons": [
+        "WATTSON: Ah-ha! Here at last!\\n",
+        "I know what you want.\\l",
+        "You want to battle my POKéMON!\\p",
+        "Wahahahaha!\\p",
+        "Oops! Wait!\\n",
+        "You've only one POKéMON with you!\\p",
+        "Come see me with two or more\\n",
+        "POKéMON, all right?"
+    ],
     "MeteorFalls_1F_2R_Text_NicolasIntro": [
         "This is where we DRAGON users do our\\n",
         "training.\\p",
@@ -1789,6 +1856,11 @@
         "Come to think of it, I've yet to beat\\n",
         "my dear wife in a battle."
     ],
+    "MeteorFalls_1F_2R_Text_JohnNotEnoughMons": [
+        "JOHN: Well, well, what a young TRAINER!\\p",
+        "Will you battle with us? If so, you'll\\n",
+        "have to return with more POKéMON."
+    ],
     "MeteorFalls_1F_2R_Text_JayIntro": [
         "JAY: We've been married for\\n",
         "fifty years.\\p",
@@ -1804,6 +1876,12 @@
         "If we ever argued, we always settled\\n",
         "it with a POKéMON battle…"
     ],
+    "MeteorFalls_1F_2R_Text_JayNotEnoughMons": [
+        "JAY: Well, well, aren't you a young\\n",
+        "TRAINER?\\p",
+        "If you'd care to battle with us, you'll\\n",
+        "have to come back with more POKéMON."
+    ],
     "MeteorFalls_1F_2R_Text_JohnRematchIntro": [
         "JOHN: We've always battled POKéMON\\n",
         "together as a twosome.\\l",
@@ -1817,6 +1895,11 @@
         "JOHN: Married for fifty years…\\p",
         "On reflection, the dear wife and I,\\n",
         "we battled day in and day out…"
+    ],
+    "MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons": [
+        "JOHN: Well, well, what a young TRAINER!\\p",
+        "Will you battle with us? If so, you'll\\n",
+        "have to return with more POKéMON."
     ],
     "MeteorFalls_1F_2R_Text_JayRematchIntro": [
         "JAY: We've been married for\\n",
@@ -1833,6 +1916,12 @@
         "Many things have happened.\\p",
         "I hope that we will continue to make\\n",
         "happy memories together."
+    ],
+    "MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons": [
+        "JAY: Well, well, aren't you a young\\n",
+        "TRAINER?\\p",
+        "If you'd care to battle with us, you'll\\n",
+        "have to come back with more POKéMON."
     ],
     "MeteorFalls_StevensCave_Text_StevenDefeat": [
         "You…\\n",
@@ -2040,6 +2129,15 @@
         "LIZA: You will become even stronger!\\n",
         "We've battled you, so we know."
     ],
+    "MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons": [
+        "TATE: Hehehe… Were you surprised?\\p",
+        "LIZA: That there are two GYM LEADERS?\\p",
+        "TATE: Oops, you have only one…\\n",
+        "LIZA: POKéMON that can battle.\\p",
+        "TATE: We can't battle that way!\\p",
+        "LIZA: If you want to challenge us,\\n",
+        "bring some more POKéMON."
+    ],
     "MossdeepCity_Gym_Text_TateAndLizaPreRematch": [
         "TATE: POKéMON…\\n",
         "LIZA: POKéMON…\\p",
@@ -2061,6 +2159,18 @@
         "but we'll never stay down!\\p",
         "LIZA: Because the two of us,\\n",
         "we always support each other!"
+    ],
+    "MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons": [
+        "TATE: You're back again…\\n",
+        "LIZA: You're back again…\\p",
+        "TATE: To give us a rematch.\\n",
+        "LIZA: To give us a rematch.\\p",
+        "TATE: But…\\n",
+        "LIZA: For our match…\\p",
+        "TATE: You brought just one POKéMON!\\n",
+        "LIZA: You brought just one POKéMON!\\p",
+        "TATE: We need you to bring at least…\\n",
+        "LIZA: Two POKéMON when you come back."
     ],
     "MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro": [
         "As promised, we've come for\\n",
@@ -2510,6 +2620,12 @@
         "I'm right here by your side.\\l",
         "We'll make it through this dare!"
     ],
+    "MtPyre_2F_Text_LukeNotEnoughMons": [
+        "LUKE: If you want to take me on,\\n",
+        "bring some more POKéMON.\\p",
+        "If you don't, I won't be able to show\\n",
+        "off to my girl how cool I am!"
+    ],
     "MtPyre_2F_Text_DezIntro": [
         "DEZ: I came here on a dare with my\\n",
         "boyfriend.\\p",
@@ -2524,6 +2640,12 @@
     "MtPyre_2F_Text_DezPostBattle": [
         "DEZ: We're lovey-dovey, so we don't\\n",
         "care if we lose!"
+    ],
+    "MtPyre_2F_Text_DezNotEnoughMons": [
+        "DEZ: If you want to challenge us, you\\n",
+        "should bring at least two POKéMON.\\p",
+        "My boyfriend's strong.\\n",
+        "Just one POKéMON won't do at all."
     ],
     "MtPyre_2F_Text_LeahIntro": [
         "You are an unfamiliar sight…\\n",
@@ -2899,6 +3021,20 @@
         "My dream…\\n",
         "Hahaha…\\l",
         "It has already come true, actually."
+    ],
+    "PetalburgCity_Gym_Text_NormanRematchNeedTwoMons": [
+        "DAD: {PLAYER}…\\n",
+        "I had a feeling that you would come.\\p",
+        "I would never refuse to accept\\n",
+        "a challenge from you.\\p",
+        "You do understand, don't you?\\p",
+        "Inside a GYM, it doesn't matter that\\n",
+        "we are a parent and child.\\p",
+        "Hm? Wait a second, {PLAYER}.\\p",
+        "Do you only have one POKéMON that is\\n",
+        "capable of battle?\\p",
+        "Sorry, but you'll have to come back\\n",
+        "with at least two POKéMON."
     ],
     "PetalburgWoods_Text_YoureKiddingMe": [
         "You're kidding me! You're tough!"
@@ -4211,6 +4347,18 @@
         "That awareness makes me love battling\\n",
         "all that much more!"
     ],
+    "RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons": [
+        "ROXANNE: I'm so glad to see you again.\\n",
+        "I'm ROXANNE, the GYM LEADER here.\\p",
+        "I'm sure we've both experienced many\\n",
+        "battles since we last met.\\p",
+        "I would like to see how much better\\n",
+        "we've become…\\p",
+        "Oh, no…\\n",
+        "You only have one POKéMON with you?\\p",
+        "Please return with at least one more\\n",
+        "POKéMON."
+    ],
     "RusturfTunnel_Text_GruntDefeat": [
         "Urrrggh! My career in crime comes to\\n",
         "a dead end!"
@@ -5256,6 +5404,18 @@
         "And that, my friend, is a certain sign\\n",
         "of nobility!"
     ],
+    "SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons": [
+        "JUAN: Ah, this GYM had returned to its\\n",
+        "usual state of serenity…\\p",
+        "But our young typhoon has returned\\n",
+        "to put us to the test again!\\p",
+        "Well, my friend, most certainly!\\n",
+        "I shall be delighted to dance with you…\\p",
+        "Ah, no, no, no.\\n",
+        "You have with you but one POKéMON.\\p",
+        "I wish that you would return with\\n",
+        "two, perhaps more, POKéMON, please."
+    ],
     "SootopolisCity_Gym_B1F_Text_AndreaIntro": [
         "I'll show you the sublime techniques\\n",
         "I learned from our LEADER JUAN!"
@@ -5651,6 +5811,10 @@
         "dovey power couldn't prevail!\\l",
         "You must be an awesome TRAINER!"
     ],
+    "SSTidalRooms_Text_JedNotEnoughMons": [
+        "JED: You only have one POKéMON?\\n",
+        "Isn't that just too lonesome?"
+    ],
     "SSTidalRooms_Text_LeaIntro": [
         "LEA: I feel a little silly, but…\\n",
         "We'll show you our lovey-dovey power!"
@@ -5662,6 +5826,10 @@
         "LEA: I can't believe it!\\n",
         "Our lovey-dovey power failed…\\l",
         "You must be an awesome TRAINER!"
+    ],
+    "SSTidalRooms_Text_LeaNotEnoughMons": [
+        "LEA: I wanted to battle…\\n",
+        "But you don't even have two POKéMON…"
     ],
     "SSTidalRooms_Text_GarretIntro": [
         "Ah, you've come just in time.\\p",
@@ -6025,6 +6193,12 @@
         "RAY: You've beaten us.\\n",
         "Greatness remains elusive…"
     ],
+    "VictoryRoad_3F_Text_RayNotEnoughMons": [
+        "RAY: Together, the two of us are\\n",
+        "striving for the pinnacle.\\p",
+        "We need you to bring two POKéMON\\n",
+        "into battle with us."
+    ],
     "VictoryRoad_3F_Text_TyraIntro": [
         "TYRA: We're trying to become\\n",
         "champions together."
@@ -6035,6 +6209,10 @@
     "VictoryRoad_3F_Text_TyraPostBattle": [
         "TYRA: You've taught me that power\\n",
         "can be infinite in shape and form."
+    ],
+    "VictoryRoad_3F_Text_TyraNotEnoughMons": [
+        "TYRA: You can't battle with us if\\n",
+        "you have only one POKéMON."
     ],
     "VictoryRoad_B1F_Text_SamuelIntro": [
         "The thought that I'm getting closer to\\n",

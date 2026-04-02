@@ -21,8 +21,12 @@ skip_maps = [
     'BattleFrontier_BattlePyramidTop',
     'SlateportCity_BattleTentBattleRoom'
 ]
+
 trainers = {}
 trainer_text = {}
+trainer_event_scripts = {}
+
+
 def check_trainer_line(line):
     if "trainerbattle" in line and "dofacilitytrainerbattle" not in line and line.strip()[-1:] != ":":
         return True
@@ -79,11 +83,12 @@ def extract_trainerscript_data():
                         trainer_text_pointers = []
                         text_block = []
                         current_pointer = ""
+                        current_script = ""
                         in_text_block = False
                         for lineno, line in enumerate(f, 1):
                             if "MapScripts::" in line:
                                 map = line.split("_MapScripts::")[0]
-                            if check_trainer_line(line):
+                            elif check_trainer_line(line):
                                 in_trainer = True
                                 trainer = parse_trainer_line(line)
                                 trainer["map"] = map
@@ -91,23 +96,30 @@ def extract_trainerscript_data():
                                     trainer_text_pointers.append(trainer["intro_pointer"])
                                 if "defeat_pointer" in trainer:
                                     trainer_text_pointers.append(trainer["defeat_pointer"])
-                            if "msgbox" in line and in_trainer:
+                                if "victory_event_pointer" in trainer:
+                                    trainer_text_pointers.append(trainer["victory_event_pointer"])
+                                if "not_enough_mons_pointer" in trainer:
+                                    trainer_text_pointers.append(trainer["not_enough_mons_pointer"])
+                            elif "msgbox" in line and in_trainer:
                                 pointer = line.split("msgbox ")[1].split(",")[0].strip()
                                 trainer_text_pointers.append(pointer)
-                            if "end" in line and in_trainer:
+                            elif "end" in line and in_trainer:
                                 in_trainer = False
                                 new_trainer = trainer.copy()
+                                new_trainer["event_script"] = current_script
                                 if new_trainer["constant"] not in trainers:
                                     trainers[new_trainer["constant"]] = {
                                         "battles": []
                                     }
                                 trainers[new_trainer["constant"]]["battles"].append(new_trainer)
                                 trainer = {}
-                            if "_Text_" in line and line.strip()[-1:] == ":":
+                                trainer_event_scripts[current_script] = new_trainer["constant"]
+                                current_script = ""
+                            elif "_Text_" in line and line.strip()[-1:] == ":":
                                 current_pointer = line.replace(":","").strip()
                                 if current_pointer in trainer_text_pointers:
                                     in_text_block = True
-                            if ".string" in line and in_text_block:
+                            elif ".string" in line and in_text_block:
                                 text = line.split(".string")[1]
                                 if '$"' in line:
                                     text = text.replace('$"', '')
@@ -118,11 +130,31 @@ def extract_trainerscript_data():
                                     trainer_text[current_pointer] = text_block.copy()
                                     text_block = []
                                     current_pointer = ""
+                            elif line.strip().endswith(":"):
+                                current_script = line.replace(":","").strip()
+                            elif "end" in line:
+                                current_script = ""
 
                                 
                 except Exception as e:
                     print(f"Error reading {filepath}: {e}")
-                
+            
+def extract_trainer_sprite():
+    for dirpath, dirnames, filenames in os.walk(map_dir):
+        if dirpath.split('/')[-1] in skip_maps:
+            continue
+        for filename in filenames:
+            if filename == "map.json":
+                filepath = os.path.join(dirpath, filename)
+                try:
+                    with open(filepath, "r", encoding="utf-8", errors="ignore") as f:
+                        map_data = json.load(f)
+                        if "object_events" in map_data:
+                            for obj in map_data["object_events"]:
+                                if "script" in obj and obj["script"] in trainer_event_scripts:
+                                    trainers[trainer_event_scripts[obj["script"]]]["sprite"] = obj["graphics_id"]
+                except Exception as e:
+                    print(f"Error reading {filepath}: {e}")
 
 
 def extract_trainer_party_data():
@@ -185,6 +217,9 @@ def extract_trainer_party_data():
                             if 'moves' not in current_pokemon:
                                 current_pokemon['moves'] = []
                             current_pokemon['moves'].append(line.strip().split('- ')[1])
+                        elif "@" in line:
+                            current_pokemon['name'] = line.split(' @ ')[0].strip()
+                            current_pokemon['item'] = line.split(' @ ')[1].strip()
                         else:
                             current_pokemon['name'] = line.strip()
                     else:
@@ -193,10 +228,31 @@ def extract_trainer_party_data():
         except Exception as e:
             print(f"Error reading {file}: {e}")
 
+def add_trainter_text_to_trainer():
+    for trainer_constant, trainer_data in trainers.items():
+        if "battles" in trainer_data:
+            for battle in trainer_data["battles"]:
+                if "intro_pointer" in battle and battle["intro_pointer"] in trainer_text:
+                    battle["intro_text"] = trainer_text[battle["intro_pointer"]]
+                if "defeat_pointer" in battle and battle["defeat_pointer"] in trainer_text:
+                    battle["defeat_text"] = trainer_text[battle["defeat_pointer"]]
+                if "victory_event_pointer" in battle and battle["victory_event_pointer"] in trainer_text:
+                    battle["victory_event_text"] = trainer_text[battle["victory_event_pointer"]]
+                if "not_enough_mons_pointer" in battle and battle["not_enough_mons_pointer"] in trainer_text:
+                    battle["not_enough_mons_text"] = trainer_text[battle["not_enough_mons_pointer"]]
+                if "register_event_pointer" in battle and battle["register_event_pointer"] in trainer_text:
+                    battle["register_event_text"] = trainer_text[battle["register_event_pointer"]]
+                if "post_battle_event_pointer" in battle and battle["post_battle_event_pointer"] in trainer_text:
+                    battle["post_battle_event_text"] = trainer_text[battle["post_battle_event_pointer"]]
+
 
 extract_trainerscript_data()
 
 extract_trainer_party_data()
+
+add_trainter_text_to_trainer()
+
+extract_trainer_sprite()
 
 with open('tools/randomizer_tools/trainers.json', 'w', encoding='utf8') as f:
         json.dump(trainers , f, indent=4, ensure_ascii=False)
