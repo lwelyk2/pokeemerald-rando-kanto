@@ -1,0 +1,4 @@
+#define GHOST_ENCOUNTER             SPECIES_PIKACHU
+
+#define OLD_MAN_ENCOUNTER           SPECIES_WEEDLE
+

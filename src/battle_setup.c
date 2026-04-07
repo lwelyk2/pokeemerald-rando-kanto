@@ -55,6 +55,7 @@
 #include "constants/trainer_hill.h"
 #include "constants/weather.h"
 #include "fishing.h"
+#include "randomizer/special_encounters.h"
 
 enum TransitionType
 {
@@ -474,7 +475,7 @@ void StartWallyTutorialBattle(void)
 
 void StartOldManTutorialBattle(void)
 {
-    CreateMaleMon(&gEnemyParty[0], SPECIES_WEEDLE, 5);
+    CreateMaleMon(&gEnemyParty[0], OLD_MAN_ENCOUNTER, 5);
     LockPlayerFieldControls();
     gMain.savedCallback = CB2_ReturnToFieldContinueScriptPlayMapMusic;
     gBattleTypeFlags = BATTLE_TYPE_CATCH_TUTORIAL;
@@ -513,9 +514,9 @@ void StartMarowakBattle(void)
 
     if (CheckBagHasItem(ITEM_SILPH_SCOPE, 1))
     {
-        u32 personality = GetMonPersonality(SPECIES_MAROWAK, MON_FEMALE, NATURE_SERIOUS, RANDOM_UNOWN_LETTER);
+        u32 personality = GetMonPersonality(GHOST_ENCOUNTER, MON_FEMALE, NATURE_SERIOUS, RANDOM_UNOWN_LETTER);
 
-        CreateMonWithIVsPersonality(&gEnemyParty[0], SPECIES_MAROWAK, 30, 31, personality);
+        CreateMonWithIVsPersonality(&gEnemyParty[0], GHOST_ENCOUNTER, 30, 31, personality);
     }
 
     CreateBattleStartTask(GetWildBattleTransition(), 0);
