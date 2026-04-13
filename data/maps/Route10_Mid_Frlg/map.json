@@ -1,0 +1,82 @@
+{
+  "id": "MAP_ROUTE10_MID_FRLG",
+  "name": "Route10_Mid_Frlg",
+  "layout": "LAYOUT_ROUTE10_MID_FRLG",
+  "music": "MUS_RG_ROUTE3",
+  "region_map_section": "MAPSEC_ROUTE_10",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "floor_number": 0,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ROUTE10_NORTH_FRLG",
+      "offset": 0,
+      "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE10_SOUTH_FRLG",
+      "offset": 0,
+      "direction": "down"
+    }
+  ],
+  "object_events": [
+    {
+      "type": "object",
+      "graphics_id": "OBJ_EVENT_GFX_SUPER_NERD",
+      "x": 13,
+      "y": 13,
+      "elevation": 3,
+      "movement_type": "MOVEMENT_TYPE_FACE_LEFT",
+      "movement_range_x": 1,
+      "movement_range_y": 1,
+      "trainer_type": "TRAINER_TYPE_NORMAL",
+      "trainer_sight_or_berry_tree_id": "5",
+      "script": "Route10_EventScript_Mark",
+      "flag": "0"
+    }
+  ],
+  "warp_events": [
+    {
+      "x": 7,
+      "y": 9,
+      "elevation": 3,
+      "dest_map": "MAP_POWER_PLANT",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 2,
+      "y": 6,
+      "elevation": 3,
+      "dest_map": "MAP_POWER_PLANT",
+      "dest_warp_id": "3"
+    }
+  ],
+  "coord_events": [],
+  "bg_events": [
+    {
+      "type": "sign",
+      "x": 6,
+      "y": 11,
+      "elevation": 0,
+      "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
+      "script": "Route10_EventScript_PowerPlantSign"
+    },
+    {
+      "type": "hidden_item",
+      "x": 12,
+      "y": 9,
+      "elevation": 3,
+      "item": "ITEM_MAX_ETHER",
+      "flag": "FLAG_HIDDEN_ITEM_ROUTE10_MAX_ETHER",
+      "quantity": 1,
+      "underfoot": false
+    }
+  ],
+  "region": "REGION_KANTO"
+}

@@ -224,7 +224,7 @@
       "id": "HEAL_LOCATION_LAVENDER_TOWN",
       "map": "MAP_LAVENDER_TOWN",
       "x": 6,
-      "y": 6,
+      "y": 14,
       "respawn_map": "MAP_LAVENDER_TOWN_POKEMON_CENTER_1F",
       "respawn_npc": "LOCALID_LAVENDER_NURSE"
     },
@@ -278,7 +278,7 @@
     },
     {
       "id": "HEAL_LOCATION_ROUTE4",
-      "map": "MAP_ROUTE4",
+      "map": "MAP_ROUTE4_WEST_FRLG",
       "x": 12,
       "y": 6,
       "respawn_map": "MAP_ROUTE4_POKEMON_CENTER_1F",
@@ -286,7 +286,7 @@
     },
     {
       "id": "HEAL_LOCATION_ROUTE10",
-      "map": "MAP_ROUTE10",
+      "map": "MAP_ROUTE10_NORTH_FRLG",
       "x": 13,
       "y": 21,
       "respawn_map": "MAP_ROUTE10_POKEMON_CENTER_1F",

@@ -1,0 +1,31 @@
+raw `
+Route10_North_Frlg_MapScripts::
+	.byte 0
+
+Route10_EventScript_Unused::
+	end
+
+Route10_EventScript_NorthRockTunnelSign::
+	msgbox Route10_Text_RockTunnelDetourToLavender, MSGBOX_SIGN
+	end
+
+Route10_Text_HeidiIntro::
+	.string "I've been out at a POKéMON GYM\n"
+	.string "a few times.\p"
+	.string "…But I always lose.$"
+
+Route10_Text_HeidiDefeat::
+	.string "Ohh!\n"
+	.string "After all my training!$"
+
+Route10_Text_HeidiPostBattle::
+	.string "I noticed some POKéMANIACS\n"
+	.string "prowling around.\p"
+	.string "Can you imagine? Them?\n"
+	.string "Up here in the mountains?$"
+
+Route10_Text_RockTunnelDetourToLavender::
+	.string "ROCK TUNNEL\n"
+	.string "Detour to LAVENDER TOWN$"
+
+`

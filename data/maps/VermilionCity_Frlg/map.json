@@ -3,7 +3,6 @@
   "name": "VermilionCity_Frlg",
   "layout": "LAYOUT_VERMILION_CITY",
   "music": "MUS_RG_VERMILLION",
-  "region": "REGION_KANTO",
   "region_map_section": "MAPSEC_VERMILION_CITY",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
@@ -21,7 +20,7 @@
       "direction": "up"
     },
     {
-      "map": "MAP_ROUTE11",
+      "map": "MAP_ROUTE11_WEST_FRLG",
       "offset": 10,
       "direction": "right"
     }
@@ -302,5 +301,6 @@
       "quantity": 1,
       "underfoot": false
     }
-  ]
+  ],
+  "region": "REGION_KANTO"
 }

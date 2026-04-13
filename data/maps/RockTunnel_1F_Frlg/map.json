@@ -161,7 +161,7 @@
       "x": 17,
       "y": 2,
       "elevation": 3,
-      "dest_map": "MAP_ROUTE10",
+      "dest_map": "MAP_ROUTE10_NORTH_FRLG",
       "dest_warp_id": "0"
     },
     {
@@ -196,8 +196,8 @@
       "x": 18,
       "y": 37,
       "elevation": 3,
-      "dest_map": "MAP_ROUTE10",
-      "dest_warp_id": "1"
+      "dest_map": "MAP_ROUTE10_SOUTH_FRLG",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [],

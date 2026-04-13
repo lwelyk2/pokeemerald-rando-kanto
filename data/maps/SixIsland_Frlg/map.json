@@ -3,7 +3,6 @@
   "name": "SixIsland_Frlg",
   "layout": "LAYOUT_SIX_ISLAND",
   "music": "MUS_RG_SEVII_67",
-  "region": "REGION_KANTO",
   "region_map_section": "MAPSEC_SIX_ISLAND",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
@@ -16,8 +15,8 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_SIX_ISLAND_WATER_PATH",
-      "offset": -40,
+      "map": "MAP_SIX_ISLAND_WATER_PATH_MID_FRLG",
+      "offset": -7,
       "direction": "right"
     }
   ],
@@ -81,9 +80,7 @@
       "dest_warp_id": "0"
     }
   ],
-  "coord_events": [
-
-  ],
+  "coord_events": [],
   "bg_events": [
     {
       "type": "sign",
@@ -103,5 +100,6 @@
       "quantity": 1,
       "underfoot": false
     }
-  ]
+  ],
+  "region": "REGION_KANTO"
 }

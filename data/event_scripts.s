@@ -1767,3 +1767,54 @@ EventScript_PalletTown_PlayersHouse_2F_TurnOnPC::
 
 	.include "data/maps/MoonRuins_Room1_Frlg/scripts.inc"
 	.include "data/maps/MoonRuins_Room1_Frlg/text.inc"
+
+	.include "data/maps/Route2_North_Frlg/scripts.inc"
+	.include "data/maps/Route2_North_Frlg/text.inc"
+
+	.include "data/maps/Route2_South_Frlg/scripts.inc"
+	.include "data/maps/Route2_South_Frlg/text.inc"
+
+	.include "data/maps/Route4_West_Frlg/scripts.inc"
+	.include "data/maps/Route4_West_Frlg/text.inc"
+
+	.include "data/maps/Route4_East_Frlg/scripts.inc"
+	.include "data/maps/Route4_East_Frlg/text.inc"
+
+	.include "data/maps/Route10_Mid_Frlg/scripts.inc"
+	.include "data/maps/Route10_Mid_Frlg/text.inc"
+
+	.include "data/maps/Route10_South_Frlg/scripts.inc"
+	.include "data/maps/Route10_South_Frlg/text.inc"
+
+	.include "data/maps/Route10_North_Frlg/scripts.inc"
+	.include "data/maps/Route10_North_Frlg/text.inc"
+
+	.include "data/maps/Route11_East_Frlg/scripts.inc"
+	.include "data/maps/Route11_East_Frlg/text.inc"
+
+	.include "data/maps/Route11_West_Frlg/scripts.inc"
+	.include "data/maps/Route11_West_Frlg/text.inc"
+
+	.include "data/maps/ThreeIsland_BondBridge_West_Frlg/scripts.inc"
+	.include "data/maps/ThreeIsland_BondBridge_West_Frlg/text.inc"
+
+	.include "data/maps/ThreeIsland_BondBridge_East_Frlg/scripts.inc"
+	.include "data/maps/ThreeIsland_BondBridge_East_Frlg/text.inc"
+
+	.include "data/maps/SixIsland_WaterPath_Mid_Frlg/scripts.inc"
+	.include "data/maps/SixIsland_WaterPath_Mid_Frlg/text.inc"
+
+	.include "data/maps/SixIsland_WaterPath_North_Frlg/scripts.inc"
+	.include "data/maps/SixIsland_WaterPath_North_Frlg/text.inc"
+
+	.include "data/maps/SixIsland_WaterPath_South_Frlg/scripts.inc"
+	.include "data/maps/SixIsland_WaterPath_South_Frlg/text.inc"
+
+	.include "data/maps/OneIsland_KindleRoad_North_Frlg/scripts.inc"
+	.include "data/maps/OneIsland_KindleRoad_North_Frlg/text.inc"
+
+	.include "data/maps/OneIsland_KindleRoad_Mid_Frlg/scripts.inc"
+	.include "data/maps/OneIsland_KindleRoad_Mid_Frlg/text.inc"
+
+	.include "data/maps/OneIsland_KindleRoad_South_Frlg/scripts.inc"
+	.include "data/maps/OneIsland_KindleRoad_South_Frlg/text.inc"

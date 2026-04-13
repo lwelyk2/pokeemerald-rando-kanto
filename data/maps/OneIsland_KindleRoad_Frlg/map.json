@@ -3,7 +3,6 @@
   "name": "OneIsland_KindleRoad_Frlg",
   "layout": "LAYOUT_ONE_ISLAND_KINDLE_ROAD",
   "music": "MUS_RG_ROUTE3",
-  "region": "REGION_KANTO",
   "region_map_section": "MAPSEC_KINDLE_ROAD",
   "requires_flash": false,
   "weather": "WEATHER_SUNNY",
@@ -14,13 +13,7 @@
   "show_map_name": true,
   "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_ONE_ISLAND",
-      "offset": 120,
-      "direction": "left"
-    }
-  ],
+  "connections": null,
   "object_events": [
     {
       "type": "object",
@@ -452,9 +445,7 @@
       "dest_warp_id": "0"
     }
   ],
-  "coord_events": [
-
-  ],
+  "coord_events": [],
   "bg_events": [
     {
       "type": "sign",
@@ -472,5 +463,6 @@
       "player_facing_dir": "BG_EVENT_PLAYER_FACING_ANY",
       "script": "OneIsland_KindleRoad_EventScript_RouteSign"
     }
-  ]
+  ],
+  "region": "REGION_KANTO"
 }

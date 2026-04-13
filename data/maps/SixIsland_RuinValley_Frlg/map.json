@@ -15,8 +15,8 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_SIX_ISLAND_WATER_PATH",
-      "offset": -80,
+      "map": "MAP_SIX_ISLAND_WATER_PATH_SOUTH_FRLG",
+      "offset": 0,
       "direction": "right"
     }
   ],

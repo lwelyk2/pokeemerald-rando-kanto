@@ -1,0 +1,93 @@
+raw `
+OneIsland_KindleRoad_Mid_Frlg_MapScripts::
+	.byte 0
+
+OneIsland_KindleRoad_EventScript_EmberSpaSign::
+	msgbox OneIsland_KindleRoad_Text_EmberSpaSign, MSGBOX_SIGN
+	end
+
+OneIsland_KindleRoad_Text_FinnIntro::
+	.string "Seen from here, MT. EMBER towers\n"
+	.string "into the sky.$"
+
+OneIsland_KindleRoad_Text_FinnDefeat::
+	.string "Well, aren't you tough?$"
+
+OneIsland_KindleRoad_Text_FinnPostBattle::
+	.string "The sky is immense around these\n"
+	.string "parts.$"
+
+OneIsland_KindleRoad_Text_SharonIntro::
+	.string "Could you help me out with my\n"
+	.string "training?$"
+
+OneIsland_KindleRoad_Text_SharonDefeat::
+	.string "You were a cut above me.$"
+
+OneIsland_KindleRoad_Text_SharonPostBattle::
+	.string "It's clear that you're skilled.\n"
+	.string "I like you!$"
+
+OneIsland_KindleRoad_Text_SheaIntro::
+	.string "Every morning, before breakfast,\n"
+	.string "I swim around this island.$"
+
+OneIsland_KindleRoad_Text_SheaDefeat::
+	.string "Gasp…\n"
+	.string "Gasp…$"
+
+OneIsland_KindleRoad_Text_SheaPostBattle::
+	.string "I lost because I'm pooped from all\n"
+	.string "the running I did…$"
+
+OneIsland_KindleRoad_Text_HughIntro::
+	.string "Dress appropriately for battle!\n"
+	.string "Lose that frivolous outfit!$"
+
+OneIsland_KindleRoad_Text_HughDefeat::
+	.string "Why me?!$"
+
+OneIsland_KindleRoad_Text_HughPostBattle::
+	.string "Even martial artists are becoming\n"
+	.string "fashion conscious these days…$"
+
+OneIsland_KindleRoad_Text_KiaIntro::
+	.string "KIA: My big brother and I make\n"
+	.string "an awesome combination!$"
+
+OneIsland_KindleRoad_Text_KiaDefeat::
+	.string "KIA: Huh?!\n"
+	.string "I can't believe it!$"
+
+OneIsland_KindleRoad_Text_KiaPostBattle::
+	.string "KIA: How could there be anyone\n"
+	.string "better than my big brother?$"
+
+OneIsland_KindleRoad_Text_KiaNotEnoughMons::
+	.string "KIA: If you want to battle with\n"
+	.string "us, you have to bring at least two\l"
+	.string "POKéMON with you.$"
+
+OneIsland_KindleRoad_Text_MikIntro::
+	.string "MIK: Together with KIA, I'm afraid\n"
+	.string "of nothing!$"
+
+OneIsland_KindleRoad_Text_MikDefeat::
+	.string "MIK: Whoa!\n"
+	.string "That's too much!$"
+
+OneIsland_KindleRoad_Text_MikPostBattle::
+	.string "MIK: How could my combination\n"
+	.string "with KIA fail?$"
+
+OneIsland_KindleRoad_Text_MikNotEnoughMons::
+	.string "MIK: Hey, do you want to battle\n"
+	.string "with us two?\p"
+	.string "Bring two or more POKéMON with\n"
+	.string "you, then.$"
+
+OneIsland_KindleRoad_Text_EmberSpaSign::
+	.string "Light the Fire in Your Heart!\n"
+	.string "EMBER SPA$"
+
+`

@@ -1,0 +1,67 @@
+raw `
+OneIsland_KindleRoad_South_Frlg_MapScripts::
+	.byte 0
+
+OneIsland_KindleRoad_EventScript_RouteSign::
+	msgbox OneIsland_KindleRoad_Text_RouteSign, MSGBOX_SIGN
+	end
+
+OneIsland_KindleRoad_Text_AbigailIntro::
+	.string "I'm beginning to get a sunburn…$"
+
+OneIsland_KindleRoad_Text_AbigailDefeat::
+	.string "Oh, you're so awful.$"
+
+OneIsland_KindleRoad_Text_AbigailPostBattle::
+	.string "I like that cap you have.\n"
+	.string "Maybe I should wear one, too…$"
+
+OneIsland_KindleRoad_Text_GarrettIntro::
+	.string "I took a break from swimming,\n"
+	.string "only to have you challenge me?$"
+
+OneIsland_KindleRoad_Text_GarrettDefeat::
+	.string "Hey, what the…\n"
+	.string "You're good, you!$"
+
+OneIsland_KindleRoad_Text_GarrettPostBattle::
+	.string "Instead of using SURF all the time,\n"
+	.string "you should swim some.$"
+	
+OneIsland_KindleRoad_Text_TanyaIntro::
+	.string "There isn't a day in which we don't\n"
+	.string "train!$"
+
+OneIsland_KindleRoad_Text_TanyaDefeat::
+	.string "I'm such a fool!$"
+
+OneIsland_KindleRoad_Text_TanyaPostBattle::
+	.string "I'll train even harder from now on!$"
+
+OneIsland_KindleRoad_Text_BryceIntro::
+	.string "You know, everything tastes great\n"
+	.string "when you're out in the wild.$"
+
+OneIsland_KindleRoad_Text_BryceDefeat::
+	.string "Awww, blown!$"
+
+OneIsland_KindleRoad_Text_BrycePostBattle::
+	.string "The water in volcanic regions is\n"
+	.string "delicious.$"
+
+OneIsland_KindleRoad_Text_ClaireIntro::
+	.string "My lunch filled us up, so will you\n"
+	.string "battle us for some exercise?$"
+
+OneIsland_KindleRoad_Text_ClaireDefeat::
+	.string "That made me all sweaty.$"
+
+OneIsland_KindleRoad_Text_ClairePostBattle::
+	.string "What should I do?\n"
+	.string "I feel famished again.$"
+
+OneIsland_KindleRoad_Text_RouteSign::
+	.string "This is KINDLE ROAD.\p"
+	.string "Go straight for MT. EMBER.$"
+
+`
