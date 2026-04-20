@@ -69,8 +69,8 @@
       "x": 45,
       "y": 4,
       "elevation": 3,
-      "dest_map": "MAP_ROUTE4",
-      "dest_warp_id": "1"
+      "dest_map": "MAP_ROUTE4_EAST_FRLG",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [],

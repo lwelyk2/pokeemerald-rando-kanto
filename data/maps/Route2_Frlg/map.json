@@ -13,18 +13,7 @@
   "show_map_name": true,
   "floor_number": 0,
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
-  "connections": [
-    {
-      "map": "MAP_PEWTER_CITY",
-      "offset": -12,
-      "direction": "up"
-    },
-    {
-      "map": "MAP_VIRIDIAN_CITY",
-      "offset": -12,
-      "direction": "down"
-    }
-  ],
+  "connections": null,
   "object_events": [
     {
       "type": "object",

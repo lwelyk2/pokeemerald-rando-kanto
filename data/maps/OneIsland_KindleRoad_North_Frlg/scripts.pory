@@ -1,0 +1,27 @@
+raw `
+OneIsland_KindleRoad_North_Frlg_MapScripts::
+	.byte 0
+
+OneIsland_KindleRoad_Text_MariaIntro::
+	.string "The weather's gorgeous!\n"
+	.string "Perfect for a battle!$"
+
+OneIsland_KindleRoad_Text_MariaDefeat::
+	.string "Aiyeeeeh!$"
+
+OneIsland_KindleRoad_Text_MariaPostBattle::
+	.string "Please don't splash my face!\n"
+	.string "You'll ruin the makeup.$"
+
+OneIsland_KindleRoad_Text_TommyIntro::
+	.string "Wait! Wait a second!\n"
+	.string "I think I've hooked a big one!$"
+
+OneIsland_KindleRoad_Text_TommyDefeat::
+	.string "I've lost it all again…$"
+
+OneIsland_KindleRoad_Text_TommyPostBattle::
+	.string "Not only did I lose, the big one\n"
+	.string "got away from me, too!$"
+
+`

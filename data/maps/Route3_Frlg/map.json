@@ -15,14 +15,14 @@
   "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
   "connections": [
     {
-      "map": "MAP_ROUTE4",
-      "offset": 60,
-      "direction": "up"
-    },
-    {
       "map": "MAP_PEWTER_CITY",
       "offset": -10,
       "direction": "left"
+    },
+    {
+      "map": "MAP_ROUTE4_WEST_FRLG",
+      "offset": 60,
+      "direction": "up"
     }
   ],
   "object_events": [

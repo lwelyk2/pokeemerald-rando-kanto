@@ -410,4 +410,7 @@ const u16 gMetatileAttributes_HallOfFame[] = INCBIN_U16("data/tilesets/secondary
 const u16 gMetatiles_Ruins_frlg[] = INCBIN_U16("data/tilesets/secondary/ruins_frlg/metatiles.bin");
 const u16 gMetatileAttributes_Ruins_frlg[] = INCBIN_U16("data/tilesets/secondary/ruins_frlg/metatile_attributes.bin");
 
+const u16 gMetatiles_AutumnRuins_frlg[] = INCBIN_U16("data/tilesets/primary/autumn_ruins_frlg/metatiles.bin");
+const u16 gMetatileAttributes_AutumnRuins_frlg[] = INCBIN_U16("data/tilesets/primary/autumn_ruins_frlg/metatile_attributes.bin");
+
 #endif // IS_FRLG

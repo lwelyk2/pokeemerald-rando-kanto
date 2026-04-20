@@ -1551,4 +1551,16 @@ const struct Tileset gTileset_Ruins_frlg =
     .callback = NULL,
 };
 
+const struct Tileset gTileset_AutumnRuins_frlg =
+{
+    .isCompressed = TRUE,
+    .isSecondary = FALSE,
+    .tiles = gTilesetTiles_AutumnRuins_frlg,
+    .palettes = gTilesetPalettes_AutumnRuins_frlg,
+    .metatiles = gMetatiles_AutumnRuins_frlg,
+    .metatileAttributes = gMetatileAttributes_AutumnRuins_frlg,
+    .callback = NULL,
+};
+
 #endif // IS_FRLG
+
